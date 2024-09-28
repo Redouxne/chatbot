@@ -1,56 +1,77 @@
 import streamlit as st
-from openai import OpenAI
+import os
+import requests
 
-# Show title and description.
-st.title("💬 Chatbot")
+# Show title and description
+st.title("💬🩺 Nouky ")
 st.write(
-    "This is a simple chatbot that uses OpenAI's GPT-3.5 model to generate responses. "
-    "To use this app, you need to provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys). "
-    "You can also learn how to build this app step by step by [following our tutorial](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)."
+    """
+🎓✨ Voici Nouky, ton compagnon de préparation aux concours de l'internat !! 📚💡\n
+ Tout vos retours sont les bienvenues à cette adresse : redouane.elbadaoui@yahoo.com 📧 \n
+Bonne révision ! 🚀🎉
+"""
 )
 
-# Ask user for their OpenAI API key via `st.text_input`.
-# Alternatively, you can store the API key in `./.streamlit/secrets.toml` and access it
-# via `st.secrets`, see https://docs.streamlit.io/develop/concepts/connections/secrets-management
-openai_api_key = st.text_input("OpenAI API Key", type="password")
-if not openai_api_key:
-    st.info("Please add your OpenAI API key to continue.", icon="🗝️")
-else:
+# Set SambaNova API key and base URL
+api_key = os.environ.get("SAMBANOVA_API_KEY", "78133d14-3cff-41c7-bcac-29a3dce289d0")  # Your SambaNova API key
+base_url = "https://api.sambanova.ai/v1"  # Base URL for SambaNova API
 
-    # Create an OpenAI client.
-    client = OpenAI(api_key=openai_api_key)
+# Session state to store chat messages across reruns
+if "messages" not in st.session_state:
+    st.session_state.messages = [
+        {
+            "role": "system",
+            "content": '''You are a university professor specializing in medical biology.
+            You are preparing a final exam for advanced medical students. 
+            Ask a detailed and relevant exam question based on clinical cases, 
+            human physiology, molecular biology, pharmacology, or endocrinology.
+            Like the questions which are in the "Concours d'internat de pharmacie" in France.
+            Ensure the question tests the student's understanding of complex medical concepts 
+            and encourages critical thinking. The question should be appropriate for a written exam 
+            and require a comprehensive explanation as the answer. 
+            Translate it in French and make the question answerable with 50 words. 
+            Give me only the French version and THEN correct my answer.''',
+        }
+    ]
 
-    # Create a session state variable to store the chat messages. This ensures that the
-    # messages persist across reruns.
-    if "messages" not in st.session_state:
-        st.session_state.messages = []
-
-    # Display the existing chat messages via `st.chat_message`.
-    for message in st.session_state.messages:
+# Display the chat messages
+for message in st.session_state.messages:
+    if message["role"] != "system":  # Skip displaying system messages
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    # Create a chat input field to allow the user to enter a message. This will display
-    # automatically at the bottom of the page.
-    if prompt := st.chat_input("What is up?"):
+# Create a chat input field
+if prompt := st.chat_input("What is up?"):
+    # Store and display the user's prompt
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
 
-        # Store and display the current prompt.
-        st.session_state.messages.append({"role": "user", "content": prompt})
-        with st.chat_message("user"):
-            st.markdown(prompt)
+    # Prepare the request to SambaNova API
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    
+    payload = {
+        "model": "Meta-Llama-3.1-70B-Instruct",  # Assuming the model is available in SambaNova
+        "messages": [{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
+        "temperature": 0.1,
+        "top_p": 0.1
+    }
 
-        # Generate a response using the OpenAI API.
-        stream = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": m["role"], "content": m["content"]}
-                for m in st.session_state.messages
-            ],
-            stream=True,
-        )
+    # Send the request to SambaNova API
+    try:
+        response = requests.post(f"{base_url}/chat/completions", headers=headers, json=payload)
+        response.raise_for_status()  # Ensure we catch any HTTP errors
+        assistant_reply = response.json()["choices"][0]["message"]["content"]
 
-        # Stream the response to the chat using `st.write_stream`, then store it in 
-        # session state.
+        # Stream the response to the chat
         with st.chat_message("assistant"):
-            response = st.write_stream(stream)
-        st.session_state.messages.append({"role": "assistant", "content": response})
+            st.markdown(assistant_reply)
+
+        # Append the assistant's response to the session state
+        st.session_state.messages.append({"role": "assistant", "content": assistant_reply})
+
+    except requests.exceptions.RequestException as e:
+        st.error(f"Error communicating with SambaNova API: {e}")
