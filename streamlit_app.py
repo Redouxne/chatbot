@@ -57,7 +57,7 @@ if prompt := st.chat_input("What is up?"):
         "model": "Meta-Llama-3.1-70B-Instruct",  # Assuming the model is available in SambaNova
         "messages": [{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
         "temperature": 0.1,
-        "top_p": 0.1
+        "top_p": 0.1git
     }
 
     # Send the request to SambaNova API
