@@ -13,7 +13,7 @@ Bonne révision ! 🚀🎉
 )
 
 # Set SambaNova API key and base URL
-api_key = os.environ.get("SAMBANOVA_API_KEY", "78133d14-3cff-41c7-bcac-29a3dce289d0")  # Your SambaNova API key
+api_key = os.environ.get("SAMBANOVA_API_KEY", "78133d14-3cff-41c7-bcac-29a3dce289d0")  
 base_url = "https://api.sambanova.ai/v1"  # Base URL for SambaNova API
 
 # Session state to store chat messages across reruns
@@ -23,14 +23,20 @@ if "messages" not in st.session_state:
             "role": "system",
             "content": '''You are a university professor specializing in medical biology.
             You are preparing a final exam for advanced medical students. 
+
             Ask a detailed and relevant exam question based on clinical cases, 
             human physiology, molecular biology, pharmacology, or endocrinology.
-            Like the questions which are in the "Concours d'internat de pharmacie" in France.
+
+            Take inspiration from competitions and the annals of the “Concours d'internat de pharmacie” in France.
+
             Ensure the question tests the student's understanding of complex medical concepts 
             and encourages critical thinking. The question should be appropriate for a written exam 
             and require a comprehensive explanation as the answer. 
-            Translate it in French and make the question answerable with 50 words. 
-            Give me only the French version and THEN correct my answer.''',
+
+            Give me the choice between random topics.
+            
+            Translate it in French and make the question answerable with 100 words. 
+            Give me only the French version and THEN wait for my answer.''',
         }
     ]
 
@@ -41,7 +47,7 @@ for message in st.session_state.messages:
             st.markdown(message["content"])
 
 # Create a chat input field
-if prompt := st.chat_input("What is up?"):
+if prompt := st.chat_input("Je t'écoute"):
     # Store and display the user's prompt
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
