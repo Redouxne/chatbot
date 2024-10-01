@@ -1,0 +1,45 @@
+WE3
+72
+
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 3 (40 points)
+
+Enoncé
+
+Un essai thérapeutique randomisé a été réalisé pour comparer la qualité de vie de deux groupes de 100
+patients chacun, souffrant d'insuffisance cardiaque chronique.
+
+Le groupe A bénéficiait de la prise en charge clinique habituelle en ambulatoire tandis que le groupe B
+bénéficiait d'un programme d'éducation thérapeutique.
+
+Le critére principal de jugement est la qualité de vie mesurée par I’échelle SF-36. Le questionnaire SF-36 est
+un auto-questionnaire qui s’organise autour de 36 questions permettant de calculer deux scores composites
+correspondant a la composante physique PCS et a la composante mentale MCS.
+
+Répondre aux questions suivantes en considérant pour chaque test un risque a de 5%.
+
+Les questions peuvent étre traitées séparément. Les réponses doivent étre justifiées.
+Questions
+
+QUESTION N° 1:
+
+27 % des patients du groupe A et 15 % des patients du groupe B vivaient seuls.
+
+Ces deux proportions sont-elles significativement différentes ?
+QUESTION N° 2:
+
+Lintervalle de confiance a 95 % du score moyen PCS était de :
+50 + 20 dans le groupe A et
+58 + 25 dans le groupe B.
+
+a) Les scores PCS sont-ils plus dispersés dans le groupe B que dans le groupe A ?
+
+b) Le score moyen PCS est-il significativement plus élevé dans le groupe B ?
+
+QUESTION N° 3:
+
+Un coefficient de corrélation r = - 0,13 a été obtenu dans le groupe A, entre le score PCS et l’age.
+
+Le score PCS est-il linéairement corrélé avec l'age dans cette population ?
+
+Page 1/1

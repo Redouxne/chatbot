@@ -1,0 +1,40 @@
+ EPREUVE D’EXERCICES D’APPLICATION  - Mai 2012  
+ 
+Exercice 5  
+ 
+Enoncé :  
+ 
+Suite à l’administration en perfusion intraveineuse pendant quinze heures d’une solution 
+aqueuse de Z à la dose de 75 mg/h, le dosage de Z dans les prélèvements plasmatiques a donné 
+les va leurs suivantes  : 
+ 
+Temps  Concentrations  
+2,5 h  8,620 mg.L-1 
+5 h 12,800 mg.L-1 
+7,5 h  15,388 mg.L-1 
+10 h 17,020 mg.L-1 
+12,5 h  17,800 mg.L-1 
+15 h 18,000 mg.L-1 
+16 h 13,642 mg.L-1 
+19 h 5,939 mg.L-1 
+24 h 1,485 mg.L-1 
+ 
+Questions :  
+ 
+1) Considérant l’état d’ équilibre à la fin de la perfusion atteint, calculer la clairance 
+plasmatique totale de Z, la constante de vitesse d’élimination k e, la demi -vie t 1/2 et le 
+volume apparent de distribution Vd.  
+ 
+2) Quelle quantité de Z aurait -il fallu injecter en intraveineuse directe (IVD) pour obtenir 
+immédiatement la concentration d’équilibre obtenue lors de cette perfusion  ? 
+ 
+3) A quelle vitesse aurait -il fallu perfuser la solution de Z pour obtenir une concentration à 
+l’équilibre égale à 25 mg. L-1 
+ 
+4) Une étude de biodisponibili té de Z administrée en comprimé dosé à 200 mg, par rapport 
+à l’administration en IVD de la même dose de Z a permis de calculer la surface sous la 
+courbe des concentrations plasmatiques de Z après administration orale unique.  
+SSC VO = 40 mg.L-1.h 
+Calculer la  biodisponibilité absolue de Z en comprimé.  
+(La SSC en IVD sera calculée à partir des paramètres obtenus lors de la perfusion).  
+ 

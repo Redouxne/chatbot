@@ -1,0 +1,36 @@
+ 
+*Important  : Les propositions de réponses sont données à titre indicatif. Elles  n’ont rien d’impératif pour les jurys des 
+concours d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme 
+ils le souhaitent.  Les éléments de réponses  doivent être considéré s pour l'année du concours  auxquels  ils se rapportent.  
+ 
+ 
+ EPREUVE D'EXERCICES D'APPLICATION - Mai 2012  
+ 
+PROPOSITIONS DE REPONSES  
+ 
+Exercice 2  
+ 
+ 
+1)  
+- enzyme auxiliaire (HK) et enzyme indicatrice (G -6-PD) en large excès  ;  
+- substrats  (créatine -phosphate, ADP, glucose, NADP+) en concentrations proches de la 
+saturat ion de leurs enzymes respectives (donc en large excès)  
+- tampon (pH 6,50).  
+ 
+Seul le NADPH,H+ absorbe à 340 nm. Sens de la variation  d’absorbance: augmentation.  
+ 
+2) linéarité de la cinétique pendant les 2 minutes prouvant que l’on est bien en conditions de  vitesse 
+initiale.  
+ 
+3) 
+mol/L/min10.52,196300123,0v min par  0,123 =A 6
+0    
+ 
+4) Concentration catalytique  : = 0,123  x 106 x 30 = 585,6 U/L ou 585600  nmol/L/sec = 9760 nkat/L  
+         6300        60 
+ 
+5) 
+158731,00,3106,0 63002F6                   
+264550 100060FF'   
+ 
+ 

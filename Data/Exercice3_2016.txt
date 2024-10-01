@@ -1,0 +1,40 @@
+E 484  SE3 
+1 ÉPREUVE D’EXERCICES D’APPLICATION – Décembre 2015 
+ 
+EXERCICE N° 3 
+ÉNONCÉ  
+ 
+On dispose d’une colonne de chromatographie de sili ce greffée octadécyle C 18  : de 
+diamètre intérieur = 4 mm, de longueur = 15 cm, rem plie de particules de 5 µm.  
+La colonne offre 15 000 plateaux au mètre. La phase  mobile est constituée d’un 
+mélange eau/méthanol (70/30 v/v).  
+Lorsque le débit de la phase mobile est de 0,80 mL. min -1, la pression en tête de 
+colonne est de 12,9 MégaPascals (MPa),  les temps d e rétention de deux solutés A 
+et B sont respectivement  t RA  = 10,5 min et  t RB  = 14,8 min. 
+ 
+ 
+Question N°1 
+Quel est le type de chromatographie mise en jeu ? E xpliquer. 
+ 
+ 
+Question N°2 
+Définir l’efficacité d’une colonne chromatographiqu e. Quelle est l’efficacité de 
+la colonne ? 
+ 
+ 
+Question N°3 
+Sachant que les forces éluantes ε0 (mesurées sur alumine en comparaison avec le 
+pentane) sont respectivement pour le méthanol ε0 = 0,70 et pour l’acétonitrile ε0 
+= 0,51, le remplacement dans la phase mobile du mét hanol par l’acétonitrile 
+aura-t-elle une conséquence ? Si oui, laquelle ? 
+ 
+ 
+Question N°4 
+Quelle est la résolution entre les deux pics A et B  ? Préciser l’hypothèse faite. 
+Que pensez-vous de cette valeur ? Expliciter votre réponse. 
+ 
+ 
+Question N°5 
+Le débit est modifié, la nouvelle pression affichée  en tête de colonne est de 20,1 
+MPa. Quelle est la durée de l’analyse (on supposera  que l’efficacité de la colonne 
+ne change pas) ?  

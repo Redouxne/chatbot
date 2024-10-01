@@ -1,0 +1,64 @@
+EPREUVE D’EXERCICES D’APPLICATION – Mai 2013
+Exercice 2
+PROPOSITIONS DE REPONSES *
+1 : Test de comparaison d’une moyenne à une moyenne de référence . 
+H0 : µ = µ0 / H1 : µ > µ0 ; µ0 = 5,5 jours 
+petit échantillon : X doit suivre une loi normale  ()σµ→,NX et σ2 = Var(X) inconnue  : 
+→=
+nsμXt0–
+ Loi de Student à ν = n – 1 ddl avec s2 estimateur de σ2. 
+x = 8,1 jours et s = 2,77 jours     97,2ns–xt0==µ
+test unilatéral: tα(9 ddl) = 1,833 : (lue pour 10% dans la table de Student).
+t > tα : rejet de H0 au risque 5%.  Les séjours liés aux accouchements dans la maternité M sont  
+significativement plus longs en moyenne que les séjours moyens pratiqués en France au risque 5% .
+2 : Test de comparaison 2 pourcentages expérimentaux.
+H0 : p1 = p2  / H1 : p1 ≠ p2 ; 
+Fréquence F suit une loi normale. 
+f1 = 1/3  f2 = 1/6   p c = 231,04830810=
+++  et u =)2n/11n/1(qp2f1f
+cc+−
+ = 1,70
+Test bilatéral uα = 1,96 
+u < uα : non rejet de H0. La fréquence des pratiques de césariennes ne diffère pas significativement  
+entre les 2 maternités au risque 5%.
+3 : Test du Khi-deux d'indépendance.
+H0 : pi = p0i pour toutes les classes / H1  : pi ≠ p0i pour au moins une classe
+a.  Tableau des effectifs théoriques ci :
+Intervention 
+médicaleDéclenchementCésarienneEpisiotomieAucuneTotal
+Pays 1 1701503303501000
+Pays 2 1701503303501000
+Total 3403006607002000
+χ2 = ∑−
+ci)cini(2
+= 4,796 ; χ2α(3 ddl) = 7,815
+χ2 < χ2α : non rejet de H0 à 5%. Le type d'intervention ne dépend pas du pays.
+b.Tableau des effectifs :
+Intervention 
+médicaleOUINON
+nicinicitotal
+France 780693,33220306,671000
+Pays 1 et 213001386,67700613,332000
+Total 20809203000
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des concours  
+d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils le souhaitent.  
+Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.χ2 = ∑−
+ci)cini(2
+= 53,0 ; χ2α(1 ddl) = 3,84
+χ2 >> χ2α : rejet de H0 à 5%. La prise en charge de l’accouchement en France est hypermédicalisée.
+4 : a. Modèle de régression  : y = a + bx
+()22xxnyxxynb
+∑∑∑∑∑
+−−=
+nxbya∑∑−=      b = 0,4 et a = 8     y = 0,4 x + 8
+b. Test de la pente :  H0 : β = 0 ; H1 : β ≠ 0 ;
+Pour ce test, la variable de décision →−
+BS0BLoi de Student à ν = n - 2 ddl
+071,0sb= ; t = bsb= 5,634 ; tα (8 ddl) = 2,306. 
+t > tα Rejet de H0 au risque 5%  : liaison linéaire significative au risque 5%
+c. Pour x = 40, on trouve y = 24%. Donc une femme de 40 ans aura environ 1 chance sur 4 d’avoir  
+une césarienne.
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des concours  
+d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils le souhaitent.  
+Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.
+Page 2 sur 2

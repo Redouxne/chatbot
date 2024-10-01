@@ -1,0 +1,91 @@
+64 UE 4
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 4 (40 points)
+Enoncé
+Une équipe médicale développe une nouvelle technique d’imagerie : l’IRM en opposition de phase. Il s’agit
+d’évaluer les performances de cette technique (simple et non invasive) pour le diagnostic de stéatose
+hépatique.
+L’équipe a expérimenté l’IRM sur une population de 360 patients hospitalisés pour hépatopathie chronique
+non alcoolique et a comparé les résultats obtenus avec ceux de l’examen anatomopathologique d’une
+biopsie hépatique (PBH) (examen de référence).
+ 
+On cherche à fixer une valeur seuil du signal obtenu en IRM au-dessus de laquelle le sujet sera considéré
+comme atteint de stéatose et suivi en conséquence.
+L’IRM est dite positive si la valeur du signal est supérieure ou égale au seuil fixé et négative dans le cas
+contraire.
+ 
+Questions
+QUESTION N° 1 :
+La population étudiée reflète-t-elle toutes les situations cliniques pour lesquelles l'IRM sera utilisée en
+pratique courante ?
+Proposition de réponse
+Non, la population étudiée ne comporte que des patients atteints d'hépatopathie chronique NON alcoolique.
+Elle n'est donc pas représentative de l'ensemble de la population pouvant être atteinte de stéatose
+hépatique et pouvant bénéficier du diagnostic par IRM.
+Il y a donc un biais de sélection.
+QUESTION N° 2 :
+Page 1/364 UE 4
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 4 (40 points)
+Lors de l’interprétation de l’IRM, les résultats de la PBH étaient connus des radiologues. Que pensez-vous
+de la méthodologie employée ?
+Proposition de réponse
+La méthodologie n'est pas adaptée. La connaissance du résultat anatomopathologique peut interférer avec
+l'interprétation des résultats de l'IRM.
+Il existe un biais de mesure ou d'interprétation.
+Pour la validation d'une méthode de diagnostic, il est recommandé de travailler en aveugle.
+ 
+QUESTION N° 3 :
+Calculer les résultats de sensibilité et spécificité de l’IRM pour les quatre valeurs seuils présentées dans le
+tableau.
+Proposition de réponse
+ 
+     
+Résultat de la PBH
+     
++ 
+-
+ 
+Résultat de l’IRM 
++ 
+VP 
+FP
+ 
+- 
+FN 
+VN
+ 
+ 
+Seuil à 40 :  
+Se = VP /(VP + FN) = 190 /(190 + 0) = 1  (soit 100 %)
+Sp = VN /(VN + FP) = 90 /(90 + 80) = 0.53   (soit 53 %)
+ 
+Seuil à 80 :  
+Se = VP /(VP +FN) = 188/(188 + 2) = 0.99  (soit 99 %)
+Sp = VN /(VN + FP) = 128 /(128 + 42) = 0.75  (soit 75 %)
+ 
+Seuil à 120 :    
+Se = VP /(VP + FN) = 173/(173 + 17) = 0.91  soit (91 %)
+Sp = VN /(VN + FP) = 145/(145 + 25) = 0.85   soit (85 %)
+ 
+Seuil à 240 :    
+Se = VP /(VP + FN) = 95/(95 + 95) = 0.5  (soit 50 %)
+Sp = VN /(VN + FP) = 170/(170 + 0) = 1    (soit 100 %)
+Page 2/364 UE 4
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 4 (40 points)
+QUESTION N° 4 :
+A la lecture des valeurs de sensibilité et de spécificité calculées en question 3, quel outil va permettre de
+choisir la valeur seuil permettant d’utiliser l’IRM comme test diagnostique de la stéatose hépatique  ?
+Expliquer sa construction et son principe d’interprétation.
+Proposition de réponse
+Pour choisir le seuil le plus performant, on construit une courbe ROC (Receiver Operator Characteristic)
+représentant : Sensibilité = f (1 – spécificité).
+Un compromis doit être trouvé entre sensibilité et spécificité :
+ 
+ 
+Plus la courbe ROC s’éloigne de la diagonale pour rejoindre l’angle supérieur gauche, plus le test
+diagnostique est globalement « puissant ».
+ 
+ 
+Page 3/3

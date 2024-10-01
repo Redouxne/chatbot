@@ -1,0 +1,110 @@
+1603 UD 5
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 5
+Enoncé
+Lors de la visite médicale annuelle à la médecine du travail  de Monsieur A, 52 ans,  l'examen clinique retrouve
+une splénomégalie isolée.
+Par ailleurs, son bilan biologique révèle la numération suivante :
+Sg Leucocytes : 80 G/L
+Sg Erythrocytes : 4,7 T/L
+Sg Hémoglobine : 132 g/L
+Sg Hématocrite :   0,40
+Sg Plaquettes :     495 G/L
+Formule leucocytaire :
+Polynucléaires neutrophiles : 56 %
+Polynucléaires éosinophiles : 2 %
+Polynucléaires basophiles : 8 %
+Lymphocytes : 5 %
+Monocytes : 2 %
+Métamyélocytes : 13 %
+Myélocytes neutrophiles : 10 %
+Promyélocytes : 3 %
+Blastes : 1 %
+Questions
+QUESTION N° 1 :
+Commenter ces résultats après avoir calculé les constantes érythrocytaires et en mentionnant les valeurs
+usuelles des paramètres biologiques.
+Proposition de réponse
+Calcul des constantes érythrocytaires : VGM : 85 fL - CCMH : 33 % - TCMH : 28 pg
+Formule leucocytaire (valeurs absolues) : polynucléaires neutrophiles : 44,8 G/L, polynucléaires éosinophiles
+: 1,6 G/L, polynucléaires basophiles : 6,4 G/L, lymphocytes 4,0 G/L, monocytes : 1,6 G/L
+Le patient présente une forte hyperleucocytose (valeurs usuelles : 4 - 10 G/L), une thrombocytose (valeurs
+usuelles : 150 - 450 G/L), sans anémie. Les constantes érythrocytaires sont normales.
+L'hyperleucocytose est liée à une neutrophilie (valeurs usuelles :   2,5 - 7,5 G/L), une hyperéosinophilie
+(valeurs usuelles : 0,04 - 0,5 G/L), une hyperbasophilie (valeurs usuelles : inférieur à 0,10 G/L), une
+monocytose (valeurs usuelles : 0,2 - 1 G/L) et à la présence des éléments médullaires immatures de la
+lignée granuleuse (myélémie) sans hiatus de maturation (blastes 1 %).
+QUESTION N° 2 :
+Vers quel diagnostic vous orientent en priorité ces résultats ? Justifier votre réponse en listant les
+Page 1/31603 UD 5
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 5
+arguments.
+Proposition de réponse
+Le diagnostic le plus probable est celui d'un syndrome myéloprolifératif et plus particulièrement la leucémie
+myéloïde chronique (LMC).
+Les arguments orientant vers ce diagnostic sont les suivants :
+- âge moyen
+- splénomégalie isolée
+- hyperleucocytose > 50 G/L, prédominant sur les polynucléaires neutrophiles
+- hyperbasophilie, hyperéosinophilie
+- hyperplaquettose
+- présence d'une myélémie importante, avec tous les stades de maturation (du métamyélocyte au blaste)
+QUESTION N° 3 :
+Quels sont les examens biologiques complémentaires nécessaires pour poser ce diagnostic ? Quels en sont
+les résultats attendus ?
+Proposition de réponse
+Les examens biologiques nécessaires à réaliser chez ce patient sont :
+- la recherche du transcrit de fusion bcr-abl dans le sang par biologie moléculaire (toujours mis en évidence)
+; la quantification du transcrit permet en outre d'évaluer la réponse au traitement et le suivi de la maladie
+résiduelle.
+- un myélogramme : moelle très riche, hyperplasie myéloïde avec hyperéosinophilie et hyperbasophilie, pas
+de signes majeurs de dysplasie dans les lignées érythroblastique et granuleuse (dysplasie mégacaryocytaire
+possible). Le pourcentage de blastes dans la moelle est indispensable pour définir le stade de la maladie :
+< 10 % dans la phase chronique, entre 10 et 20% dans la phase d'accélération, > 20 % dans la phase
+acutisée.
+- un caryotype sur le sang ou la moelle pour rechercher la présence du chromosome Philadelphie t(9;22),
+présent dans 95 % des cas.
+- l'hybridation in situ (FISH) avec sondes bcr et abl. La mise en évidence de la t(9;22) permet d'éliminer les
+autres syndromes myéloprolifératifs (thrombocytémie essentielle, myélofibrose primitive et polyglobulie
+primitive).
+QUESTION N° 4 :
+Une prise en charge thérapeutique est-elle indispensable ? Justifier votre réponse.
+Proposition de réponse
+Une prise en charge thérapeutique est indispensable.
+En l'absence de traitement, il y a une acutisation spontanée de la maladie avec une médiane de survie à 3
+ans.
+Page 2/31603 UD 5
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 5
+QUESTION N° 5 :
+Quelle est la molécule de première génération utilisée en 1  intention pour traiter cette pathologie ?ère
+Préciser la physiopathologie de cette maladie, le mécanisme d'action de cette molécule et le suivi du
+traitement.
+Proposition de réponse
+La molécule de première génération utilisée en 1  intention est l'èreimatinib  (GLIVEC®) (400 - 600 mg en
+phase chronique) : molécule inhibitrice de l'activité tyrosine kinase de la protéine de fusion bcr-abl, par
+compétition avec l'ATP, empêchant la phosphorylation de ses substrats sur leurs résidus tyrosyl.
+La translocation t(9;22) entraîne la fusion du gène bcr du chromosome 22 avec le gène abl du chromosome
+9. La protéine anormale de fusion qui en résulte a une activité tyrosine kinase constitutive. L'activation de
+plusieurs cascades de transmission de signaux qui en résulte est à l'origine de la prolifération non contrôlée
+de la lignée granuleuse.
+La réponse au traitement est contrôlée en réalisant régulièrement les examens suivants :
+- l'hémogramme : la normalisation de l'hémogramme (avec des critères précis) définit la réponse
+hématologique (partielle ou complète)
+- le caryotype : la normalisation du caryotype définit la réponse cytogénétique
+- la quantification du transcrit bcr-abl (par PCR quantitative) au niveau sanguin : la diminution ou la
+disparition du transcrit définit la réponse moléculaire (partielle ou complète).
+QUESTION N° 6 :
+Trois mois plus tard, le myélogramme révèle la présence de 12 % de blastes.
+Que pouvez-vous conclure en ce qui concerne l'évolution de la maladie de ce patient ?
+Comment expliquer ce résultat ? Que proposer pour la prise en charge thérapeutique ?
+Proposition de réponse
+La LMC est en phase d'accélération.
+Le patient est probablement résistant à l'imatinib par mutation du gène bcr-abl qui code alors une protéine
+de fusion avec peu d'affinité pour l'inhibiteur de tyrosine kinase. L'identification de mutations peut aider à
+l'orientation de la stratégie thérapeutique.
+Il faut alors utiliser un inhibiteur de tyrosine kinase de deuxième ou de troisième génération,  comme le
+dasatinib (SPRYCEL ), le nilotinib (TASIGNA ) ou l'erlotinib (TARCEVA ).  L'allogreffe de moelle osseuse® ® ®
+doit être discutée selon l'état clinico-biologique du patient.
+Page 3/3

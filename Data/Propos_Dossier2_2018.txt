@@ -1,0 +1,93 @@
+1502 UD 2
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 2
+Enoncé
+Mr T., 40 ans, est hospitalisé suite à des hémoptysies répétées de faible abondance. Depuis 3 mois, ce
+patient se plaint d'asthénie, il a maigri de 6 kg et présente une toux persistante. Ce patient est originaire
+d'Afrique subsaharienne ; il est en France, dans la région parisienne, depuis 5 ans et vit dans un foyer de
+travailleurs. Le médecin prescrit un cliché radiologique pulmonaire qui montre des opacités bilatérales dont
+une opacité excavée au niveau du lobe supérieur droit. Un diagnostic de tuberculose pulmonaire est évoqué.
+Questions
+QUESTION N° 1 :
+Quels sont les éléments permettant d'orienter vers le diagnostic ?
+Proposition de réponse
+- Signes cliniques et radiologiques évocateurs : 
+    *Signes cliniques : toux persistante, asthénie, hémoptysies et amaigrissement évoluant depuis 3 mois
+    *Images radiologiques typiques
+- Epidémiologie : origine géographique du patient, vie en communauté
+QUESTION N° 2 :
+Quel est l'agent responsable de cette maladie et ses modalités de transmission ?
+Proposition de réponse
+Agent responsable :  du complexe  ou bacille de Koch (BK).  Mycobacterium tuberculosis
+La transmission est interhumaine et se fait par voie respiratoire (  les gouttelettes de Pflügge lors de la toux) à partirvia
+d'un patient excréteur.
+ 
+QUESTION N° 3 :
+Quels prélèvements biologiques doivent être effectués pour confirmer le diagnostic ?
+Proposition de réponse
+La recherche de  doit être effectuée dans les crachats ou les tubages gastriques, Mycobacterium tuberculosis
+éventuellement aspirations bronchiques et liquides de lavage broncho-alvéolaire.
+Trois examens successifs doivent être réalisés trois jours de suite pour augmenter la sensibilité de détection.
+Le tubage gastrique permet le diagnostic chez les patients qui ne peuvent expectorer (notamment les enfants). Il doit
+être réalisé le matin à jeun avant la vidange gastrique.
+QUESTION N° 4 :
+Page 1/31502 UD 2
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 2
+Quelles sont les étapes du diagnostic bactériologique ? Quels sont les délais des rendus de résultats ?
+Proposition de réponse
+- Etape 1 : décontamination/concentration du prélèvement (crachat ou tubage) pour éliminer les
+contaminants d'origine rhinopharyngée. Cette décontamination repose sur la résistance de la paroi  du genre
+ à de nombreux agents chimiques et est réalisée soit par la soude soit par les ammoniums Mycobacterium
+quaternaires. Les échantillons sont concentrés ensuite par centrifugation. Le culot sert à l'examen direct et la
+mise en culture.
+- Etape 2 : examen direct par coloration directement sur les crachats ou sur les culots de concentration des
+crachats et tubages gastriques.
+*Coloration de Ziehl-Neelsen mettant en évidence les bacilles acido-alcoolo résistants ou BAAR spécifiques
+au genre  (BAAR roses). Mycobacterium
+*Coloration à l'auramine permettant une lecture plus aisée en fluorescence (BAAR verts fluorescents).
+Un examen positif est transmis au clinicien.
+- Etape 3 :
+*culture sur milieux solides pour mycobactéries tels que Loewenstein-Jensen ou Coletsos. Le BK cultive en
+3 à 6 semaines.
+*culture en milieux liquides : par exemple, milieux contenant des fluorochromes qui fluorescent en absence
+d'oxygène (MGIT). La détection de la croissance est plus rapide (10 à 15 jours).
+- Etape 4 (sur le milieu de culture détecté positif) ou directement sur le prélèvement (de plus en plus pour la
+sensibilité et la rapidité du résultat) : diagnostic moléculaire par amplification génique (PCR) 
+- Etape 5 : antibiogramme obligatoire étant donné la possibilité de BK multirésistants. Méthode des
+proportions sur milieux solides ou méthodes rapides en milieux liquides sur automates de détection de
+croissance.
+QUESTION N° 5 :
+Quel est le traitement à instaurer ? Quelles en sont les modalités d'administration ? Justifier votre réponse.
+Proposition de réponse
+Association quadruple pendant 2 mois : rifampicine  + isoniazide  + éthambutol  + pyrazinamide. Puis
+bithérapie pendant les 4 mois suivants : rifampicine + INH (isoniazide).
+Au total, 6 mois de traitement.
+ 
+Association d'antituberculeux obligatoire pour éviter la sélection de mutants résistants.
+(probabilité de mutants résistants : 1 sur 10  pour l'isoniazide, 1 sur 10  pour la rifampicine ; si association6 8
+risque de mutants 1 sur 10 ).14
+ 
+Traitement à prendre en une seule prise le matin à jeun. Importance de la bonne observance pour éviter la
+sélection de bactéries résistantes.
+NB : Il existe des spécialités regroupant plusieurs antituberculeux pour faciliter la prise et l'observance :
+Rifater  (rifampicine + INH + pyrazinamide), Rifinah  (Rifampicine + INH).® ®
+Page 2/31502 UD 2
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 2
+QUESTION N° 6 :
+Quels sont les effets indésirables de ce traitement et le suivi de la thérapeutique à mettre en place ?
+Proposition de réponse
+- Rifampicine : toxicité hépatique accrue si association avec INH et pyrazinamide.
+Suivi de la fonction hépatique par l'évaluation des transaminases avant et pendant le traitement.
+Possibilité de réaction immuno-allergique.
+- INH : toxicité hépatique accrue si association avec la rifampicine impliquant le suivi décrit ci-dessus ;
+toxicité neurologique avec risque de neuropathies périphériques, troubles psychiques, convulsions. La
+toxicité neurologique est due à une carence en pyridoxine (vitamine B6) et en nicotinamide (vitamine B1).
+Ces vitamines peuvent être administrées à titre préventif.
+- Ethambutol : toxicité oculaire avec risque de névrite optique. Bilan ophtalmologique avant traitement et
+pendant.
+- Pyrazinamide : hépatotoxicité dose dépendante, aux doses usuelles faible toxicité. Interférence avec
+l'excrétion de l'acide urique d'où risque d'hyperuricémie. Suivi de l'acide urique sanguin et des fonctions
+hépatiques.
+Page 3/3

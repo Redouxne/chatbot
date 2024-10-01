@@ -1,0 +1,50 @@
+E 410 SE4 
+ 
+ ÉPREUVE D’EXERCICES D’APPLICATION – Décembre 2015 
+ 
+EXERCICE N° 4 
+ÉNONCÉ  
+ 
+ 
+On veut déterminer la constante de Michaelis K M et la vitesse maximale V max  d’une 
+préparation purifiée A de glucose-6-phosphatase (EC 3.1.3.9) contenant 8 mg.L-1 de protéines 
+totales. 
+Dans ce but quatre cinétiques sont effectuées sur u n mélange B réalisé à partir de 50 µL de A 
+et de 450 µL d’un tampon contenant des concentratio ns variables de glucose-6-phosphate. La 
+vitesse initiale V 0 est exprimée par la concentration en glucose libér é par unité de temps. Les 
+concentrations en substrat et les vitesses initiale s mesurées dans chaque mélange sont 
+reportées dans le tableau ci-dessous. 
+ 
+S (µmol.mL -1) V0 (µmol.mL -1.min -1) 
+1,25 1,52 
+2,5 2,32 
+5 3,28 
+10 4,00 
+ 
+ 
+Question N°1   
+Quels sont chez l’Homme, le rôle métabolique de la glucose-6-phosphatase et les localisations 
+tissulaires de l’enzyme ? 
+ 
+ 
+Question N°2   
+a) Déterminer par une représentation graphique liné aire (Lineweaver-Burk ou Eadie-Hofstee) 
+KM et Vmax  dans le mélange B en précisant les unités des axes  des abscisses et des ordonnées 
+ainsi que les expressions des intersections avec le s axes des x et des y. Les concentrations 
+seront exprimées par mL et les temps en min. 
+b) Quelles seraient les valeurs de K M et V max  mesurées directement dans une préparation 
+purifiée A’  obtenue à partir de A diluée au demi ? 
+ 
+ 
+Question N°3  
+La concentration cellulaire en glucose-6-phosphate est d’environ 0,2 mM. Quel serait le 
+pourcentage des sites actifs de l’enzyme occupés pa r le glucose-6-phosphate (on suppose que 
+l’on est dans des conditions de vitesse initiale) ?  
+ 
+ 
+Question N°4  
+Le phosphate est un inhibiteur compétitif de l’enzy me. Quelles seraient les valeurs attendues 
+pour K M et V max  dans le mélange B de l’énoncé contenant une concentration finale en 
+phosphate égale à 3 k i ? 
+ 
+ 

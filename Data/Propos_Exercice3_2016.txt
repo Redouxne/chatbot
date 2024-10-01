@@ -1,0 +1,76 @@
+E 484  SE3 
+1 EPREUVE D’EXERCICES D’APPLICATION – Décembre 2015 
+EXERCICE N° 3 
+PROPOSITIONS DE REPONSES* 
+ 
+*Important : Les propositions de réponses sont donn ées à titre indicatif. Elles n’ont 
+rien d’impératif pour les jurys des concours d’inte rnat en pharmacie qui restent 
+souverains et libres d’établir les grilles de corre ction et de cotation comme ils le 
+souhaitent. Les éléments de réponses doivent être c onsidérés pour l'année du 
+concours auxquels ils se rapportent. 
+ 
+ 
+ 
+REPONSES QUESTION N° 1 
+Il s’agit d’une chromatographie liquide à polarité de phases inversée : 
+chromatographie sur phase stationnaire apolaire, av ec phase mobile polaire. 
+ 
+ 
+REPONSES QUESTION N° 2 
+L’efficacité d’une colonne se définit comme le nomb re N de plateaux théoriques 
+contenus sur la colonne : N = longueur de la colonn e / hauteur équivalente à un 
+plateau théorique (L = NH) 
+Longueur de la colonne = 15 cm offrant 15 000 plate aux au mètre, N = 2250 ;  
+ 
+ 
+REPONSES QUESTION N° 3 
+Le méthanol a pour force éluante  ε0 = 0,70, l’acétonitrile ε0 = 0,51.  
+Le méthanol est plus polaire que l’acétonitrile.  
+Substituer le méthanol par l’acétonitrile conduit à  une phase mobile moins polaire 
+(plus apolaire). 
+Les interactions entre solutés et phase stationnair e apolaire s’en trouvent diminuées,  
+les temps de rétention diminuent. 
+ 
+ 
+REPONSES QUESTION N° 4 
+La résolution entre deux pics consécutifs est par d éfinition géométrique =  
+ 
+                  (t RB  - tRA ) 
+          R =    --------------------- 
+                      ( ωA/2 + ωB/2) 
+ω : largeur à la base du pic extrapolée par les tangent es aux points d’inflexion. 
+les deux pics sont supposés gaussiens     ωA/2 = 2 σA ; ωB/2 = 2 σB 
+ 
+or dans les théories chromatographiques     (t RA  /σA)2 = N 
+ R 484  SE3 
+2 ainsi    ( ωA/2 + ωB/2)  =  2 σA  +  2 σB =  2  (t RA  + t RB )/ N 
+ 
+N = 47.43 
+ 
+ tRB  - tRA  = 14,8 – 10,5 = 4,3 min ;       t RA  + t RB  = 14,8 + 10,5 = 25,3 min 
+ 
+                   N   (t RB  - tRA ) 
+          R =    ------------------------  =  4,03 
+                         2  (t RA  + t RB ) 
+ 
+Les deux pics sont très bien résolus s’ils sont gau ssiens et d’égale importance. 
+Dans ce cas, la résolution est acceptable pour R > 1.5  car  99,7 % de la surface d’un 
+pic gaussien est compris entre max. ± 3 σ.  
+Le chevauchement de 0,15 % de chacun des solutés l’ un par l’autre est analogue 
+donc acceptable. 
+R = 3( σA +  σB)  : 2 ( σA +  σB) = 1,5  
+ 
+ 
+REPONSES QUESTION N° 5 
+Nouveau débit : ΔP passe de 12.8 MPa à 20 MPa. 
+Le débit, comme la vitesse de la phase mobile, sont  proportionnels à la perte de 
+charge sur la colonne. 
+D = 0,8 x 20 : 12,8 = 1,25 mL.min -1 
+D est multiplié par 1,562 ; le temps mort est divis é par 1,562. 
+   tRA  et  t RB   deviennent       t RA  = 6,72 min  
+                                           t RB  =  9,47 min. 
+ 
+σB  =  tRB  /√N       σB  =  9,47 /47,43  = 0,20min 
+ 
+Durée de l’analyse   = t RB  +  4  σB  =  9,47  +  0,8 = 10 ,27 min. 
+ 

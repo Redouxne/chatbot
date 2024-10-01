@@ -1,0 +1,37 @@
+EPREUVE D’EXERCICES D’APPLICATION – Mai 2013
+Exercice 3
+PROPOSITIONS DE REPONSES *
+1) Les sous-types D2, D3 et D4 constituent les récepteurs D2-like. Dans la maladie de Parkinson on  
+observe  une  dégénérescence  des  neurones  dopaminergiques  de  la  voie  nigro-striée.  Donc  en  
+stimulant les récepteurs dopaminergiques on compense la perte en dopamine.
+2) Une étude clinique est dite «  contrôlée » lorsque la molécule évaluée est comparée soit à un  
+traitement de référence, soit à un placebo (éventuellement à l’un et à l’autre). Une étude est  
+« ouverte » lorsque le patient  et le médecin  ont connaissance de la molécule  administrée  par  
+opposition aux études en simple - ou double - aveugle.
+3) Pour les stades précoces, la prescription de pramipexole (et plus généralement des agonistes  
+dopaminergiques) a pour objectif de corriger les symptômes sans avoir recours à la levodopa  ; les 
+effets de cette dernière diminuant inexorablement, il est souhaitable d’en différer la prescription.  
+Pour  les  stades  avancés,  les  agonistes  dopaminergiques  sont  prescrits  en  association  avec  la  
+lévodopa  pour  en  compléter  l’action  thérapeutique  (limiter  notamment  les  phases  off  des  
+syndromes on-off).
+4)  Cette  influence  de  l’alimentation  sur  la  vitesse  d’absorption  du  pramipexole  n’a  rien  de  
+spécifique ; la majorité des médicaments étant résorbé au niveau de l’intestin grêle, la prolongation  
+du  temps  de  présence  dans  l’estomac  consécutive  à  la  prise  alimentaire  diffère  l’arrivée  du  
+médicament au niveau des zones d’absorption diminuant ainsi la vitesse de celle-ci.
+5) Chez un patient, les concentrations varieront proportionnellement à la dose (pas de phénomène  
+de dose-dépendance). Cela indique également que les paramètres pharmacocinétiques n’évoluent  
+pas dans le temps (pas de phénomène de temps-dépendance).
+6) Pour un patient ayant un débit de filtration glomérulaire normal (DFG = 120 mL/min), la  
+clairance de filtration glomérulaire du pramipexole (CLfg) peut être estimée par CLfg = fu  x DFG  
+avec fu fraction libre plasmatique du pramipexole (> 90 %) soit CLfg proche de 120 mL/min. La  
+clairance rénale dépasse très largement celle de la filtration glomérulaire (400 mL/min versus 120  
+mL/min) ; ce médicament est donc sécrété de façon importante au niveau tubulaire.
+7) Pour un médicament dont l’élimination est principalement rénale, il est logique que la clairance  
+d’élimination soit plus faible (et que donc la t½ soit plus longue) chez les patients âgés dont la  
+fonction rénale est toujours moins bonne que celle des patients jeunes. L’augmentation qui n’est  
+que de 50 % (t½ de 12 heures contre 8 heures) alors que le DFG est souvent diminué d’un facteur 2  
+ou  plus  chez  les  personnes  âgées  peut  s’expliquer  par  le  fait  que  la  sécrétion  tubulaire  du  
+pramipexole est sans doute moins affectée par l’âge que ne l’est la filtration glomérulaire.
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des concours  
+d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils le souhaitent.  
+Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.

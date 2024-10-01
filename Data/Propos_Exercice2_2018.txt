@@ -1,0 +1,106 @@
+40 UE 2
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+Enoncé
+500 mg du médicament M sont administrés par voie intraveineuse à Monsieur G.
+éliminé essentiellement par métabolisme hépatique et son pourcentage de fixation à Ce médicament est 
+l’albumine est de 80 %.
+ 
+Le tableau correspondant aux concentrations plasmatiques en fonction du temps est donné ci-dessous :
+ 
+ 
+Temps
+ Concentrations
+(h) (µg.mL )-1
+0,083 59,0
+0,25 40,0
+0,5 25,0
+0,75 18,6
+1,0 15,1
+1,5 10,0
+2,0 8,0
+2,5 6,6
+3,0 5,2
+3,5 4,2
+4,0 3,4
+ 
+Questions
+QUESTION N° 1 :
+A partir du graphique reliant concentration plasmatique et temps, déterminer la demi-vie terminale
+. d'élimination (t β) et la demi-vie de distribution (t α)1/2 1/2
+ 
+Proposition de réponse
+D’après le graphique :      B = 20 µg/mL
+En soustrayant aux concentrations observées entre T0 et T + 1 h, les valeurs   pour chaque temps,
+puis en reportant ces valeurs :
+Temps
+ 
+Page 1/440 UE 2
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+(h)  
+ 
+0,083 59 – 19,5 = 39,5
+0,25 40 – 18 = 22
+0,5 25 – 16 = 9
+0,75 18,6 – 14,1 = 4,5
+1 15,1 – 13 = 2,1
+ 
+ 
+ 
+ 
+QUESTION N° 2 :
+Calculer l’aire sous la courbe.
+Proposition de réponse
+ 
+(La méthode des trapèzes avec extrapolation à l’infini peut également être appliquée).
+QUESTION N° 3 :
+Sachant que la clairance d’élimination correspondant à ces données est de 8,7 L.h , calculer le volume de-1
+distribution correspondant à la phase d’élimination.
+Proposition de réponse
+QUESTION N° 4 :
+Monsieur G est admis en réanimation. Les cliniciens souhaitent administrer le médicament M de façon
+réitérée. En ne tenant compte que de la demi-vie terminale d’élimination, quel est l’intervalle de temps
+maximal entre deux administrations, sachant que les concentrations thérapeutiques sont comprises entre 10
+et 64 µg.mL  ? -1
+Proposition de réponse
+C = Cmin    maxe-.t   d'où C  = C e  min max-0,462t
+intervalle de temps maximal : 10 = 64 e-0,462.t
+t = 0,462.Ln (64/10) = 4 heures.
+Page 2/440 UE 2
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+QUESTION N° 5 :
+Quelle  serait  la vitesse  de  perfusion  continue  nécessaire  pour  obtenir  une  concentration  moyenne 
+de  30 µg.mL  ?-1
+Proposition de réponse
+Pour obtenir une concentration de 30 µg.mL , la vitesse perfusion doit être calculée selon la formule-1
+suivante :
+Vitesse de perfusion = C  x Clairance = 261 mg.hss-1
+QUESTION N° 6 :
+Sachant que le débit sanguin hépatique est égal à 90 L.h , calculer le coefficient d’extraction hépatique du-1
+médicament M.
+Proposition de réponse
+Le coefficient d’extraction hépatique du médicament M est égal à :
+QUESTION N° 7 :
+Un médicament B administré de façon concomitante au médicament M, entraîne une diminution du débit
+sanguin cardiaque. Quelles sont les conséquences sur la clairance totale et la demi-vie d’élimination du
+médicament M ?
+Proposition de réponse
+Le médicament B entraîne une diminution du débit sanguin cardiaque, donc une diminution du débit sanguin
+hépatique. Le médicament M ayant un coefficient d’extraction hépatique faible (E  < 0,3), la clairance totaleH
+est peu modifiée et donc la demi-vie d’élimination reste inchangée.
+QUESTION N° 8 :
+Lors du séjour de Monsieur G en réanimation, une diminution de l’albuminémie est observée. Quelles sont
+les conséquences sur la clairance et le volume de distribution du médicament M ?
+Proposition de réponse
+Le médicament M ayant un coefficient d’extraction hépatique faible, la clairance dépend donc de la fraction
+libre circulante (CL      f.CL  intrinsèque). Du fait de l’hypo-albuminémie, f  (fraction libre plasmatique)
+u u
+Page 3/440 UE 2
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+augmente : la clairance hépatique est donc augmentée. Le volume de distribution est également augmenté
+(Vd = V + V .f/f  où f  et f   correspondent, respectivement, aux fractions libresPLASMA  TISSULAIRE uu,T u u,T
+plasmatique et tissulaire).
+Page 4/4

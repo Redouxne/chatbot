@@ -1,0 +1,43 @@
+8 VE1
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 1 (40 points)
+
+Enoncé
+
+La concentration catalytique d’une déshydrogénase X a cinétique michaélienne est déterminée par la
+mesure de la vitesse initiale en conditions conventionnelles.
+La réaction catalysée est la suivante :
+S$+NADH,H > SH, +NAD™
+Le protocole opératoire retenu est :
+Introduire successivement dans une cuve de spectrophotométre de 1 cm de trajet optique :
+
+Tampon (30.1073 mol/L, pH 7,35) 246 uL
+Solution NADH,H* (1.10 mol/L) 49 uL
+Echantillon contenant X 10 uL
+
+Au bout de 2 minutes, on initialise la réaction par 10 uL d’une solution tamponnée du substrat S.
+Note : le coefficient d'absorbance linéique molaire (£) du NADH,H * 4 340 nm est de 6300 L.mof!.cm!
+
+Questions
+
+QUESTION N° 1:
+
+a) Pour déterminer la concentration catalytique de l'enzyme X, quelle doit étre la concentration minimale de
+substrat S dans le milieu réactionnel si l'on souhaite mesurer plus de 90 % de l’activité enzymatique
+maximale ? La constante de Michaelis de X pour S est de 1.10 mol/L.
+
+b) En déduire la concentration minimale requise de substrat dans la solution tamponnée de S.
+
+QUESTION N° 2:
+
+Sachant qu’a 340 nm, I'absorbance du tampon est nulle et que |'échantillon dilué au 1/100®™® dans ce
+tampon présente une absorbance de 0,0305 sous 1 cm de trajet optique, quelle est l'absorbance de la
+solution réactionnelle avant initialisation par les 10 uL de la solution de substrat S ?
+
+QUESTION N°3:
+
+Quelles sont les valeurs des coefficients reliant la variation d'absorbance, mesurée en conditions de vitesse
+initiale toutes les 30 secondes a 340 nm, a la concentration catalytique de X dans |'échantillon, exprimée en
+U/L d'une part et en kat/L d'autre part ?
+
+Page 1/1

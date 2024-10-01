@@ -1,0 +1,188 @@
+54 EX02-2017R
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+
+re ree prt ee ee See eee eee
+
+Partie A
+
+Enoncé
+(Les deux parties sont indépendantes)
+Deux acides (HA,) et (HA,) ont été séparés par chromatographie d’échange d’ions sur une colonne dont la
+longueur est égale a 15 cm.
+
+Pour chacun des composés, les temps de rétention (tr) et les largeurs des pics omega (w), extrapolés par
+les tangentes aux points d’inflexion, sont les suivants :
+
+HA, :tr=5 min et w = 0,3 min
+HA, : tr = 6 min et w = 0,4 min
+
+Questions
+
+QUESTION N° 1:
+
+Calculer pour le composé le plus retenu :
+
+- le nombre de plateaux théoriques de la colonne
+
+- la HEPT (Hauteur Equivalente d'un Plateau Théorique).
+
+Préciser dans quelle(s) condition(s) ces calculs peuvent étre réalisés.
+
+Proposition de réponse
+
+Condition de validité des formules : le pic est supposé gaussien.
+Pour HA ,
+
+6 2
+
+N= isx (3 = 3600
+
+spy = 20_ = 9.042
+HEPT = ge55 = 0,042 mm
+
+QUESTION N° 2:
+
+Quel paramétre permet d'évaluer la séparation entre les 2 composés HA, et HA, ?
+Calculer et interpréter la valeur de ce paramétre.
+
+Page 1/5
+54
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+
+Proposition de réponse
+
+La séparation s'évalue par la valeur de la résolution.
+Si les pics sont supposés gaussiens et d’égale importance, la résolution R est égale a:
+
+Les deux composés sont bien séparés (R > 1,5)
+
+EX02-2017R
+
+Page 2/5
+54 EX02-2017R
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+
+Les deux parties A et B sont indépendantes
+
+Partie B
+
+Enoncé
+
+(Les deux parties sont indépendantes)
+
+On dose lacide salicylique (métabolite de l'acide acétylsalicylique) par HPLC dans un plasma de patient
+ayant ingéré de l’aspirine.
+
+A 1 mL de plasma, on ajoute 1 mL d’une solution d’acide para-hydroxybenzoique (étalon interne) a 100 mg.L
+-1
+
+On extrait deux fois avec 10 mL de dichlorométhane en milieu acide.
+On concentre les deux extraits réunis 4 1 mL et on injecte 100 yL dans le chromatographe.
+
+On obtient sur l'enregistrement :
+
+- surface du pic de l'acide salicylique —: 32 300 unités arbitraires (UA)
+- surface du pic de |'étalon interne : 7000 UA
+
+L'injection sans extraction de 100 wL des solutions d'acide salicylique 4 1000 mg.L tT et d'acide
+para-hydroxybenzoique a 100 mg.L “1 donne respectivement des surfaces de pics de 80 500 UA et 7400 UA.
+Questions
+
+QUESTION N°1:
+
+Quel est le rendement d'extraction de l'acide para-hydroxybenzoique ?
+Proposition de réponse
+
+Dans 100 pL de l'extrait plasmatique injecté en HPLC, ona:
+
+Xug d’acide salicylique 32 300 UA
+10 pg d'étalon interne 7 000 UA
+Dans 100 WL des solutions étalons, ona:
+
+100 yg d'acide salicylique <-----> 80 500 UA
+10 ug d'étalon interne Kanne > 7 400 UA
+
+., 7000 x 100
+
+it ——s7e = 94,6 %
+Soit 7400 6%
+
+Page 3/5
+54 EX02-2017R
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+
+QUESTION N° 2:
+
+En supposant que l'acide para-hydroxybenzoique et l’acide salicylique présentent le méme rendement
+d'extraction, quelle est la concentration plasmatique en acide salicylique, en mg.L 19
+
+Proposition de réponse
+
+Concentration en acide salicylique en mgt! dans le plasma :
+
+Acide salicylique (ac.Sal) et acide p.Hydroxybenzoique (Ac.pHB) présentant le méme rendement
+d'extraction, les rapports des aires des deux pics sont les mémes avec et sans extraction.
+
+La concentration en ac.pHB étant la méme dans la solution Etalon et dans le plasma, le rapport des aires
+(ac.Sal)/(ac.pHB) est proportionnel a la concentration en acide salicylique.
+
+La concentration plasmatique en acide salicylique s'obtient en calculant :
+
+1) le rapport des réponses ac.Sal/Ac.pHB pour I'étalon a 1000 mg.L! : lest de 80 500/7 400 = 10,878
+2) le rapport des réponses ac.Sal/Ac.pHB pour I'échantillon de plasma a X mg.t! :
+
+il est de 32 300/7 000 = 4,614
+
+La concentration plasmatique en acide salicylique est de :
+
+4,614 x 1000
+
+= 4
+“TORR 424.2 mg.L
+
+QUESTION N° 3:
+
+Calculer le coefficient de partage lambda (A) de l’'acide parahydroxybenzoique entre le plasma et le
+dichlorométhane.
+
+Proposition de réponse
+
+Pour extraction double, le rendement Ry!
+
+R,=t-——
+
+B
+(+n gy)
+
+avec A : coefficient de partage
+Vay: volume de dichlorométhane
+V, ° volume de plasma + volume d’El
+
+Page 4/5
+54
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+
+doa (1+ 52)? = aoe = 18,48
+
+(1+ 52.) = 18,48 = 4,30
+
+i = 0,66
+
+QUESTION N° 4:
+
+EX02-2017R
+
+Quel est le rendement d’extraction de l'acide para-hydroxybenzoique si on extrait le plasma par trois fois 10
+
+mL de dichlorométhane ?
+
+Proposition de réponse
+
+Pour l’extraction triple, le rendement Rg:
+
+Page 5/5

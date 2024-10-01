@@ -1,0 +1,82 @@
+EPREUVE D’EXERCICES D’APPLICATION – Mai 2013
+Exercice 5
+PROPOSITIONS DE REPONSES *
+Réponse N° 1 :
+a)Calcul de Km :
+d’après la courbe A  :
+- 1 / Km = - 1.104 mol-1.L
+Km = 10-4 mol.L-1
+b)Calcul de Vmax :
+1 / Vmax = 0,1.106 mol-1 min.L
+Vmax = 10.10-6 mol. L-1.min-1
+c)Pente :
+pente = Km / Vmax =  10 min 
+Réponse N° 2 :
+D’après la courbe B nous pouvons déterminer Km app et Vm app  :
+- 1 / Km app = - 5.104 mol-1.L
+Km app = 0,2.10-4 mol.L-1
+Soit Km app < Km
+1 / Vm app = 0,5.106 mol-1 min.L
+Vm app = 2.10-6 mol.min-1 L-1
+Soit Vm app < Vmax
+KM et Vmax sont tous deux diminués par un même facteur = 5 d’où inhibition anticompétitive =  
+uncompétitive = incompétitive
+Réponse N° 3 :
+5[I]/Ki1  )[I]/K/(1K Kou )[I]/K/(1VV imapp mimaxapp m=+⇒+= +=
+15imol.L2.10K−−=
+Réponse N° 4 :
+a) app mm41 1K0,2KM0,2.10 ][SPour ===−
+M/1,67.10(0,2/1,2)10.10v6 60− −=×= min
+M/min1.10(1/2)2.10v66app 0− −=×=
+% 40,1100])/vv[(vinh % 0app  00=×−=
+app mm42 5KKM1.10 ][SPour ===−
+M/min5.10(1/2)10.10v660− −=×=
+M/min1,67.10(5/6)2.10v6 6app 0− −=×=
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des concours  
+d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils le souhaitent.  
+Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.% 6,66inh %=
+Lorsque [S] augmente, le pourcentage d’inhibition augmente ce qui est logique car I ne se fixe  
+que sur le complexe ES qui est le véritable substrat de I augmente aussi.
+b)Soit a)KI(1
+i=+
+00i
+00i0
+vv1vvvinh % −=−
+=
+aSKSK
+S)aK(S)(K
+a1
+vv avec
+mm
+mm
+00i
+++
+=
+++
+=
+aS)(K1)S(a
+aS)(KS)(K1inh %
+mmm
++−
+=
+++
+−=→
+Remplaçons a par son expression )KI(1
+i+
+SKISK1)]KI[S(1
+inh %
+imi
+++−+
+=
+On multiplie numérateur et dénominateur par K i/S pour n’avoir que (I) au numérateur.
+](S)K[1K(I)(I)
+(I)K(S)KK(I)inh %
+miiim++=
+++=
+On constate effectivement que lorsque (S) augmente le pourcentage d’inhibition augmente.
+Cas limite : lorsque (S) → infini, (I)K(I)inh %
+i+→
+Nous sommes dans le cas d’une inhibition non compétitive.
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des concours  
+d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils le souhaitent.  
+Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.

@@ -1,0 +1,79 @@
+88 VE3
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 3 (40 points)
+
+Enoncé
+
+En 2017, une étude de mortalité est initiée dans les régions A et B. Les populations totales sont de 1 million
+d'individus pour la région A et de 1,4 million d'individus pour la région B.
+
+La répartition et les taux spécifiques de mortalité par tranches d'age des populations des régions A et B sont
+présentés dans le tableau n°1 :
+
+Tableau n°1 : Taux de mortalité pour 1000 (tA et tB) et repartition de la population en pourcentage (pA et pB)
+par tranches d'age dans les régions A et B
+
+| Région A
+
+| Ss |
+| |tA (pour 1000)
+
+e 20 ans S Tea (SG k eee 22
+20 & 39 ans fis 20 oe 1,8 31
+
+|40 259 ans 102 E 7.1 24 |
+60 479 ans '36,0 |20 (28,9 one
+5 80ans |ss2 a5 |e (90,5 E |
+
+Par ailleurs en 2017, il est dénombré 2000 cas d'infarctus du myocarde (IDM) dans la région A et 2800 dans
+la région B. La méme année, le nombre de décés par IDM est de 700 dans la région A et de 750 dans la
+région B.
+
+il
+
+Questions
+QUESTION N° 1:
+Calculer les taux bruts de mortalité (TBM) exprimés pour 1000 habitants pour la région A et pour la région B.
+QUESTION N° 2
+Pouvez-vous conclure que la mortalité dans la région A différe de la mortalité dans la région B ? Justifier.
+QUESTION N° 3:
+
+Définir et calculer les taux de prévalence de I'infarctus du myocarde pour 1000 habitants dans les régions A
+et B.
+
+Page 1/2
+88 VE3
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 3 (40 points)
+
+QUESTION N° 4
+Définir et calculer les taux de létalité par IDM (exprimé pour 1000) dans les régions A et B.
+QUESTION N° 5
+
+Qn décide de suivre les personnes survivantes d'IDM de la région A (1300 personnes) pendant 5 ans.
+On cherche a vérifier I'impact du suivi des recommandations nutritionnelles et d'activité physique sur
+l'incidence des récidives d'lIDM.
+
+Dans quel type de prévention (primaire, secondaire ou tertiaire) s'inscrivent ces recommandations ?
+QUESTION N° 6
+
+De quel type d'étude s'agit-il ?
+
+QUESTION N° 7
+
+Au bout de 5 ans les résultats observés sont les suivants :
+|Suivi des recommandations d'activités physiques et nutritionnelles [Récidive IDM} Pas de récidive ip ||
+
+Ee strict 157 |
+
+[Pas de suivi | 70 |
+
+On considére le groupe de personnes ne suivant aucune des recommandations comme le groupe de
+patients non exposés (soit groupe "pas de suivi").
+
+Calculer le risque relatif avec son intervalle de confiance pour chacun des niveaux de suivi ("strict et
+"partiel") des recommandations.
+
+Commenter les résultats.
+
+Page 2/2

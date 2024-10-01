@@ -1,0 +1,39 @@
+EPREUVE D’EXERCICES D’APPLICATION – Mai 2013
+Exercice 3
+ENONCE
+Les informations ci-dessous sont extraites du Résumé des Caractéristiques du Produit du Sifrol 
+(pramipexole).
+Pharmacodynamie . Le pramipexole est un agoniste dopaminergique qui se fixe avec une forte  
+sélectivité et une forte spécificité sur les récepteurs dopaminergiques D2.
+Essais  cliniques  dans  la  maladie  de  Parkinson  :  Au  cours  des  études  cliniques  contrôlées,  
+l’efficacité  du  traitement  aux  stades  précoces  et  avancés  de  la  maladie  de  Parkinson  a  été  
+maintenue pendant 6 mois environ. Dans des études ouvertes de suivi menées sur des périodes de  
+plus de trois ans, il n’y a pas eu de diminution de l’efficacité.
+Pharmacocinétique . Après administration orale, le pramipexole est rapidement et complètement  
+absorbé. La biodisponibilité absolue est supérieure à 90 % et les concentrations plasmatiques  
+maximales sont atteintes au bout de 1 à 3 heures. La prise concomitante d’aliments ralentit la  
+vitesse d’absorption sans diminuer l’absorption totale. La cinétique du pramipexole est linéaire.  
+Chez l’homme, le taux de liaison du pramipexole aux protéines est très faible (< 20 %) et le  
+volume  de distribution est important (400 L). Chez l’homme, le pramipexole  est faiblement  
+métabolisé. Le pramipexole est essentiellement éliminé sous forme inchangée par voie rénale. La  
+clairance totale du pramipexole est d’environ 500 mL/min et la clairance rénale d’environ 400  
+mL/min. La demi-vie d’élimination (t ½) est comprise entre 8 heures chez les patients jeunes et 12  
+heures chez les patients âgés.  
+Question n° 1 : 
+Quels sont les différents sous-types de récepteurs correspondant aux récepteurs D2  ? Pour quelle 
+raison stimule-t-on les récepteurs dopaminergiques dans la maladie de Parkinson  ?
+Question n° 2 : 
+Que signifient les termes «  études cliniques contrôlées  » et « études ouvertes » ?
+Question n° 3 : 
+ Quelle est la stratégie d’utilisation des agonistes dopaminergiques selon le stade d’évolution de la  
+maladie de Parkinson  ?
+Question n° 4 : 
+Comment  expliquer  la  vitesse  d’absorption  ralentie  quand  le  médicament  est  pris  
+concomitamment avec des aliments  ?
+Question n° 5 : 
+Que signifie le fait que la cinétique du pramipexole est linéaire  ?
+Question n° 6 : 
+Estimer la clairance de filtration glomérulaire rénale du pramipexole. Quels sont les processus subis  
+par ce médicament au niveau du néphron  ?Question n° 7 : 
+Commenter la différence de demi-vie d’élimination entre patients jeunes et âgés. Pour quelle raison  
+une différence était-elle attendue  ? Pourquoi n’est-elle pas plus importante  ?

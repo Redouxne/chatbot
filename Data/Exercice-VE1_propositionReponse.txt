@@ -1,0 +1,100 @@
+8 EX01-2017R
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 1 (40 points)
+
+Enoncé
+
+La concentration catalytique d’une déshydrogénase X a cinétique michaélienne est déterminée par la
+mesure de la vitesse initiale en conditions conventionnelles.
+La réaction catalysée est la suivante :
+S+NADH,H - SH, +NAD'
+Le protocole opératoire retenu est :
+Introduire successivement dans une cuve de spectrophotométre de 1 cm de trajet optique,
+
+Tampon (30.10°8 mol/L, pH 7,35) 246 UL
+Solution NADH,H * (1.10°9 mol/L) 49 uL
+Echantillon contenant X 10 pL
+
+Au bout de 2 minutes, on initialise la réaction par 10 pL d’une solution tamponnée du substrat S.
+Note : le coefficient d'absorbance linéique molaire (¢) du NADH,H * 4 340 nm est de 6300 L.mol"!.cm"!
+
+Questions
+
+QUESTION N° 1:
+
+a) Pour déterminer la concentration catalytique de l'enzyme X, quelle doit étre la concentration minimale de
+substrat S dans le milieu réactionnel si l'on souhaite mesurer plus de 90 % de lactivité enzymatique
+maximale ? La constante de Michaelis de X pour S est de 1.10°° mol/L.
+
+b) En déduire la concentration minimale requise de substrat dans la solution tamponnée de S.
+
+Proposition de réponse
+
+a) SoitS = ak,
+
+Vo a 8
+>09 > = :
+max a + | Kin + Ss
+
+Done [S} > 9K. soit [S] > 9.10% mol/L
+
+>09 => OJla>09 = a>
+
+b) La concentration de $ dans la solution réactionnelle doit étre > 9.10 mol/L
+comme la solution de S est diluée au 315/10°®
+{S] 2 283,5.10° mol/L
+
+Page 1/3
+8 EX01-2017R
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 1 (40 points)
+
+QUESTION N° 2:
+
+Sachant qu’a 340 nm, l'absorbance du tampon est nulle et que I'échantillon dilué au 1/100°™® dans ce
+tampon présente une absorbance de 0,0305 sous 1 cm de trajet optique, quelle est l'absorbance de la
+solution réactionnelle avant initialisation par les 10 yL de la solution de substrat S ?
+
+Proposition de réponse
+
+Soit A cette absorbance.
+
+_ 10 | 49 _ 6300 _
+A= (0,0305 x 100) x 355+ a= X75 95 = LI2
+
+QUESTION N° 3:
+
+Quelles sont les valeurs des coefficients reliant la variation d'absorbance, mesurée en conditions de vitesse
+initiale toutes les 30 secondes a 340 nm, a la concentration catalytique de X dans I'échantillon exprimée en
+U/L d'une part et en kat/L d'autre part ?
+
+Proposition de réponse
+
+Sachani que A = ..C (C représentant la variation de la concentration de NADH,H*)
+
+AC pendant 30 secondes = a A en mol/L/30 secondes,
+: . , 1 5 |
+Concentration catalytique de X = |-—-3 x 10° x 2 x 3s =FAA
+. ed 10
+_ yy, 10° 0315, _
+avec F = (2X a455 45°) = 10000 U/L
+
+NB : considérer la reponse comme correcte pour F = -10000 U/L (inversion du signe)
+
+Pour une concentration catalytique en kat/L :
+
+pe (gd 315) = 1666104 ke
+I (35*eaq0* Fa? 1,666.10 kat/L
+
+ou encore, comme 1 kat = 60.10° U
+= 10000 = 1,666.10 kat/L
+60.10
+
+Page 2/3
+8
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 1 (40 points)
+
+EX01-2017R
+
+Page 3/3

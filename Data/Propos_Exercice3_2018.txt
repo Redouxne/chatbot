@@ -1,0 +1,54 @@
+42 UE 3
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 3 (40 points)
+Enoncé
+On étudie une solution partiellement purifiée d’uréase (EC 3.5.1.5) contenant 12 mg.mL  de protéines-1
+totales.
+Questions
+QUESTION N° 1 :
+Sachant que la formule de l’urée est CO(NH ), écrire la réaction catalysée par cette enzyme.22
+Proposition de réponse
+CO(NH ) + H O  22 2→  CO2 + 2 NH3  
+ 
+QUESTION N° 2 :
+On veut déterminer Km et Vmax de cette enzyme sur une dilution au 1/10  de la solution initiale.ème
+ 
+a) Indiquer le(s) paramètre(s) qui doit (doivent) varier et celui (ceux) qui doit (doivent) être préalablement
+défini(s ) et maintenu(s) constant(s).
+b) La vitesse est mesurée en  conditions  de vitesse initiale.  Indiquer  pourquoi  et préciser  comment la
+mesurer.
+Proposition de réponse
+a) Pour déterminer  Km et Vmax, il faut mesurer la vitesse initiale (V ) de la réaction en présence de0
+ concentrations croissantes en substrat. Tous les autres paramètres (nature et concentration du tampon,
+pH,  température, concentration  en enzyme, concentrations  en effecteurs, ...) doivent être définis et
+maintenus constants.
+ 
+b) La relation de Michaelis permettant de calculer Km et Vmax n’est vérifiée qu’en conditions de vitesse
+initiale (V0).
+Elle est mesurée par la pente de la courbe [S] = f (t) ou [P]  = f (t)  lorsque t tend vers 0 (tangente à l'origine).
+QUESTION N° 3 :
+La Vmax mesurée dans le milieu réactionnel sur la solution purifiée diluée au 1/10  est de 96 µmol.mLème -1
+.min de produit formé. Par ailleurs, on constate que pour une concentration en urée dans le milieu-1 
+réactionnel de 5,6 mmol.L , la vitesse mesurée est de 76,8 -1µmol. mL-1.min-1.
+ 
+Calculez Km et Vmax de l’uréase dans la solution purifiée.
+Proposition de réponse
+Page 1/242 UE 3
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 3 (40 points)
+/ Vmax = [S] / Km + [S] = a / (a + 1) lorsque S est exprimée en unités Km : [S] = a.KmV0
+On en déduit :  
+Km + 5,6) = a / (a + 1) → a = 4 → Km = 5,6 / 4 = 1,4 mmol.L 76,8 / 96 = 5,6 / (-1
+ 
+Vmax de la solution purifiée = 960 µmol. mL-1.min-1
+QUESTION N° 4 :
+Déterminer la pureté (en %) de la préparation purifiée, sachant que la masse moléculaire de l’uréase est de
+224 kDa et que k  = 240 000 minkat-1
+ 
+Proposition de réponse
+(Et) = 96.10  / 240 000 = 400.10  mol.mL-6 -12 -1
+ x 224 000 = 89,6 µg d’enzyme.mL 400.10 -12 -1
+pour 1,2 mg.mL  de protéines 89,6 µg d’enzyme/mL -1
+→ pureté = 7,4 %
+ 
+Page 2/2

@@ -1,0 +1,84 @@
+54 VE2
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+
+Les deux parties A et B sont indépendantes
+
+Partie A
+
+Enoncé
+
+Deux acides (HA,) et (HA,) ont été séparés par chromatographie d’échange d’ions sur une colonne dont la
+longueur est égale a 15 cm.
+
+Pour chacun des composés, les temps de rétention (tr) et les largeurs des pics omega (w), extrapolés par
+les tangentes aux points d’inflexion, sont les suivants :
+
+HA, : tr=5 min et w = 0,3 min
+HA, : tr= 6 min et w = 0,4 min
+
+Questions
+
+QUESTION N° 1:
+
+Calculer pour le composé le plus retenu :
+
+- le nombre de plateaux théoriques de la colonne
+
+- la HEPT (Hauteur Equivalente d'un Plateau Théorique).
+
+Préciser dans quelle(s) condition(s) ces calculs peuvent étre réalisés.
+
+QUESTION N° 2:
+
+Quel paramétre permet d'évaluer la séparation entre les 2 composés HA, et HA, ?
+Calculer et interpréter la valeur de ce paramétre.
+
+Page 1/2
+54 VE2
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 2 (40 points)
+
+Les deux parties A et B sont indépendantes
+
+Partie B
+
+Enoncé
+
+On dose I’acide salicylique (métabolite de l’acide acétylsalicylique) par HPLC dans un plasma de patient
+ayant ingéré de l’aspirine.
+
+A 1 ml de plasma, on ajoute 1 mL d’une solution d’acide para-hydroxybenzoique (étalon interne) a 100 mg.L7!.
+On extrait deux fois avec 10 mL de dichloromethane en milieu acide.
+
+On concentre les deux extraits réunis a 1 mL et on injecte 100 uL dans le chromatographe.
+
+On obtient sur l'enregistrement :
+- surface du pic de l'acide salicylique —: 32 300 unités arbitraires (UA)
+- surface du pic de I'étalon interne :7 000 UA
+
+L'injection sans extraction de 100 uL des solutions d'acide salicylique a 1000 mg.L"! et d'acide
+para-hydroxybenzoique a 100 mg.L “1 donne respectivement des surfaces de pics de 80 500 UA et 7400 UA.
+
+Questions
+
+QUESTION N° 1:
+
+Quel est le rendement d'extraction de I'acide para-hydroxybenzoique ?
+
+QUESTION N° 2:
+
+En supposant que l'acide para-hydroxybenzoique et l’acide salicylique présentent le méme rendement
+d'extraction, quelle est la concentration plasmatique en acide salicylique, en mg.L ay)
+
+QUESTION N° 3:
+
+Calculer le coefficient de partage lambda (A) de l’'acide parahydroxybenzoique entre le plasma et le
+dichlorométhane.
+
+QUESTION N° 4:
+
+Quel est le rendement d’extraction de l’'acide para-hydroxybenzoique si on extrait le plasma par trois fois
+10 mL de dichlorométhane ?
+
+Page 2/2

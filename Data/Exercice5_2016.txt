@@ -1,0 +1,74 @@
+E471   SE5  
+ 1 
+ÉPREUVE D’EXERCICES D’APPLICATION – Décembre 2015 
+ 
+EXERCICE N° 5 
+ÉNONCÉ  
+ 
+ 
+Le générateur de Tc 99m 
+43  représente une solution intéressante pour produire , dans un service de Médecine 
+nucléaire, un radionucléide très utilisé pour la ré alisation de scintigraphies. 
+Le radionucléide Tc 99m 
+43  est obtenu par filiation radioactive à partir du r adionucléide parent 99 
+42 Mo .  
+Les périodes sont T 1 = 66 h pour 99 
+42 Mo  et T 2 = 6,0 h pour Tc 99m 
+43 . 
+L’activité A 2 de Tc 99m 
+43 à l’instant t est donnée par :  )ee (A At t
+10 
+122
+22 1 λ − λ −−λ −λλ=  
+Avec :  A 10   activité de Mo 99 
+42  à l’instant t = 0 
+λ1  constante radioactive de Mo 99 
+42  
+λ2  constante radioactive de Tc 99m 
+43  
+(Les questions 1, 2, 3, 4, 5 et 6 sont indépendante s) 
+ 
+ 
+Question 1 
+Ecrire l’équation de désintégration radioactive de 99 
+42 Mo  en Tc 99m 
+43 . Préciser le type de désintégration et 
+les particules émises. 
+ 
+Question 2 
+Calculer le temps t M au bout duquel l’activité A 2 de Tc 99m 
+43 est maximale. 
+ 
+Question 3 
+Un flacon contenant une solution de Tc 99m 
+43  a une activité A 20 = 30 MBq un jour donné à 18 heures. 
+Calculer l’activité A 2 contenue dans ce flacon : 
+a)  le même jour à 12 heures ; 
+b)  le lendemain à 12 heures puis à 18 heures. 
+ 
+Question 4 
+a)  Pour un temps t > 10 T 1, les deux radionucléides Mo 99 
+42 et Tc 99m 
+43  sont en équilibre de régime. 
+Le terme t2eλ − devient alors négligeable dans l’expression de A 2. Quelle est l’expression du 
+rapport de leurs activités A 2/A 1, à l’instant t, en fonction des périodes radioacti ves Τ1 et Τ2 ? 
+b)  Quelle est, pour un temps t > 10 T 1, l’activité A 2 (en MBq) d’un échantillon de Tc 99m 
+43  en 
+équilibre de régime avec le radionucléide parent Mo99 
+42  d’activité A 1 = 30 MBq ? 
+ 
+Question 5 
+On considère une activité initiale A 20 = 3200 MBq de Tc 99m 
+43  en équilibre de régime avec Mo 99 
+42 . Au 
+bout de 198 heures, on sépare les deux radionucléid es. Calculer l’activité (en MBq) de Tc m 99 
+43  
+a)  au moment de la séparation ;  
+b)  24 heures après cette séparation. 
+ R471  SE5 
+ 2Question 6 
+Sachant que les tabliers plombés d’épaisseur 0,2 mm  utilisés dans le service de Médecine nucléaire par  
+les manipulateurs d’électroradiologie atténuent de 52% les rayonnements γ de 140 keV émis par Tc 99m 
+43 . 
+Calculer le coefficient d’atténuation linéaire (en cm -1) du matériau utilisé pour confectionner ces 
+tabliers.  

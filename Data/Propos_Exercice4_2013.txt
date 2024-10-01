@@ -1,0 +1,94 @@
+EPREUVE D’EXERCICES D’APPLICATION – Mai 2013
+Exercice 4
+PROPOSITIONS DE REPONSES *
+Réponse 1     : 
+- L’étude de la valeur diagnostique des γ-GT est effectuée sur une population différente de celle que l’on  
+veut réellement étudier (= étudiants). On peut s’interroger sur la représentativité de cette population.
+Le pourcentage de buveurs excessifs peut être plus élevé ou plus bas parmi les consultants d'un service de  
+médecine que parmi la population des étudiants étudiés. Cette différence n'intervient pas dans le calcul de la  
+sensibilité et de la spécificité, mais elle joue un rôle dans celui des valeurs prédictives du test évalué.
+- Cette étude est réalisée par interrogatoire. On peut donc s’interroger sur la fiabilité des données recueillies  
+(sur- ou sous-estimation des quantités d’alcool consommé).
+Cependant, il est difficile de proposer d'autres méthodes réalistes. Il est seulement possible de l'améliorer par  
+des tests biologiques et l'examen clinique approfondi des cas d'alcoolisme.
+Réponse 2       
+Le test du χ2 (chi-2), après construction du tableau de contingence   permet de savoir si le pourcentage de  
+buveurs excessifs (> 80 g d’alcool/jour) différe selon le niveau des γ-GT.
+γ-GT (U/L)Consommation d’alcool (g/jour)Total> 80 < 80
+< 2017(34,8)(24,3 %)285(267,2)(53,1 %)302
+[20, 39]23(23,3)(32,8 %)179(178,7)(33,3 %)202
+[40, 59]14(6,0)(20,1 %)38(46,0)(7,1 %)52
+> 6016(6,0)(22,8 %)36(46,0)(6,8 %)52
+Total 70 538 608
+46246)(36
+46246)(38178,72178,7)(179
+267,22267,2)(285
+6,026)(16
+6,026)(14
+23,3223,3)(23
+34,8234,8)(17χ2
+−
++−+−
++−
++−
++−
++−
++−
+=
+41,2χ2=                         >>>>             X2 tabulé = 7,815
+La valeur du χ2 (chi-2) calculé est supérieure à celle du χ2 tabulé (pour un ddl = 1 et p< 0,05). 
+Une relation statistiquement significative entre la consommation d’alcool et la valeur des γ-GT (inférieure ou 
+supérieure à 80 U/L) est donc mise en évidence.
+Réponse 3     
+Le test est positif si γ-GT > 20 U/L, il y a donc construction d'un nouveau tableau de contingence
+γ-GT (U/L)Consommation d’alcool (g/jour)Total> 80 < 80
+Test (+)VP = 53(23 + 14 +16)FP = 253(140 + 28 + 26 + 39 +10 + 10) 306
+Test (-)FN = 17(17)VN = 285 (256 + 29)) 302
+Total 70 538 608
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des concours  
+d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils le souhaitent.  
+Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.% 7      Se     1001553          100FNVPVPSe 673=⇒×
++=×
++=
+%       Sp     1002285          100FPVNVNSp 5353285=⇒×
++=×
++=
+% VPP           10053          100FPVPVPPPV 1725353=⇒×
++=×
++=
+% 9VPN           100285          100FNVNVNPNV 417285=⇒×
++=×
++=
+La sensibilité et la spécificité permettent d’évaluer la performance d’un test.
+La  valeur  prédicitive  positive  (VPP)  et  la  valeur  prédictive  négative  (VPN)  permettent  d’évaluer  la  
+performance d’une stratégie diagnostique
+La sensibilité est assez bonne, mais la spécificité est faible. La VPP est faible et la VPN est élevée.
+Le dosage des γ-GT permet de repérer 76% des buveurs ayant des γ-GT > 80 U/L. Par contre, seulement  
+53% des non-buveurs sont considérés comme tels  : la conclusion est erronée 1 fois sur 2 avec ce test.
+Réponse 4      
+Le test est positif si γ-GT > 40 U/L. il y a donc construction d'un nouveau tableau de contingence.
+γ-GT
+(U/L)Consommation d’alcool (g/jour)Total> 80 < 80
+Test (+)VP = 30(14 +16)FP = 74(28 + 26 + 10 + 10) 104
+Test (-)FN = 40(17 + 23)VN = 464(256 + 40 + 29 + 39) 504
+Total 70 538 608
+% 43      Se     100403030          100FNVPVPSe =⇒×
++=×
++=
+% 8      Sp     100744464          100FPVNVNSp 664=⇒×
++=×
++=
+% 2VPP           10043030          100FPVPVPPPV 97=⇒×
++=×
++=
+% 9VPN           100404464          100FNVNVNPNV 264=⇒×
++=×
++=
+Se = 43% : plus faible que précédemment <=> Moins bon repérage des buveurs de > 80 g/jour.
+Sp = 86% : plus élevée <==> Meilleur aptitude à repérer les buveurs < 80 g/jour.
+VPP = 29% : faible (performance de la stratégie diagnostique ?)
+VPN : élevée – Idem réponse question 3
+VPP avec peu de variation de la VPN
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des concours  
+d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils le souhaitent.  
+Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.

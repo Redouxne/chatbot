@@ -1,0 +1,102 @@
+page 1  D1601             SD3 
+ 
+ÉPREUVE DE DOSSIERS THÉRAPEUTIQUES ET BIOLOGIQUES -  Décembre 2015 – 
+ 
+DOSSIER N°3 
+ 
+PROPOSITIONS DE REPONSES * 
+ 
+*Important : Les propositions de réponses sont donn ées à titre indicatif. Elles n’ont rien d’impératif  pour les jurys 
+des concours d’internat en pharmacie qui restent so uverains et libres d’établir les grilles de correct ion et de 
+cotation comme ils le souhaitent. Les éléments de r éponses doivent être considérés pour l'année du con cours 
+auxquels ils se rapportent. 
+ 
+ 
+REPONSES QUESTION n°:   1 
+ 
+Le bilan biochimique est perturbé : hypoglycémie (N  : 3,9 - 5,5 mmol/L) ; 
+aminotransférases très augmentées (ALAT N : < 45 UI /L ; ASAT N : < 35 UI/L) 
+témoignant d'une cytolyse hépatique (même si la LDH  est modérément augmentée) (N : < 
+248 UI/L). La diminution de l'activité du complexe prothrombinique (TP) (N : 70 - 
+130%) est le signe d'une insuffisance hépatocellula ire sévère. La paracétamolémie à 
+la 10 ème  heure est élevée ; elle indique une intoxication a iguë au paracétamol. 
+ 
+Pas d'anomalie sur le bilan ionique (sodium (N : 13 5 - 14,5 mmol/L), potassium (N : 
+3,5 - 4,5 mmol/L) et chlorure ( N : 95 - 105 mmol/L ) ). 
+ 
+L'absence d'Ag HBs permet d'éliminer une hépatite B  aiguë sévère ou fulminante. 
+ 
+Le dépistage HIV négatif n'est pas en faveur d'une infection, sauf contamination 
+récente. 
+ 
+Le risque d'hépatotoxicité est important compte ten u de la paracétamolémie à la 10 ème  
+heure (80 mg/L). En effet, il existe un risque hépa totoxique pour des 
+paracétamolémies supérieures à 200, 100, 50 mg/L re spectivement aux 4 ème , 8 ème  et 12 ème  
+heure. La clinique est en accord avec l'intoxicatio n : nausées, asthénie, sensibilité 
+de l'hypocondre droit à la palpation abdominale. 
+ 
+ 
+REPONSES QUESTION n°:   2 
+ 
+En cas de surdosage par le paracétamol, les process us habituels de conjugaison de la 
+molécule (glucuronoconjugaison 70 % et sulfoconjuga ison 25 %) sont saturés, alors que 
+l'élimination sous forme libre ne représente que 5 %. Le paracétamol en excès va être 
+oxydé par les hépatocytes en N-hydroxyparacétamol, lui-même transformé en N-acétyl-
+parabenzoquinone-imine (NAPBQI) fortement électroph ile. Cette réaction est cytochrome 
+P450 dépendante (1A2, 2E1, 3A4). Ce métabolite toxi que subit normalement une 
+détoxication par le glutathion réduit (GSH) pour êt re éliminé dans les urines sous 
+forme d'acide mercapturique. Cependant en cas de su rdosage, les réserves de GSH sont 
+rapidement épuisées et la NAPBQI se lie de manière covalente sur les fonctions SH des 
+protéines hépatocytaires provoquant la cytolyse et une dégénérescence 
+centrolobulaire. 
+ 
+ 
+REPONSES QUESTION n°:   3 
+ 
+Chez l'éthylique chronique, la toxicité du paracéta mol est profondément modifiée. 
+Chez ce patient, la forte élévation des aminotransf érases et la baisse de l'activité 
+du complexe prothrombinique sont particulièrement p récoces, elles s'expliquent par 
+plusieurs mécanismes : 
+- la toxicité du paracétamol est augmentée par la d éplétion en glutathion. Les sujets 
+éthyliques chroniques ont souvent un apport protéiq ue insuffisant qui affecte la 
+concentration hépatique en glutathion ; 
+ 
+- la toxicité du paracétamol est également augmenté e par les inducteurs enzymatiques page 2  (éthanol, barbituriques), enzymes microsomales hépa tiques P450 dépendantes qui 
+interviennent dans le métabolisme des médicaments ;  ici, elles majorent la production 
+du métabolite toxique, la NAPBQI ; 
+ 
+- les sujets éthyliques chroniques peuvent avoir de s concentrations plasmatiques 
+abaissées de sélénium (cofacteur de la glutathion p eroxydase) et de vitamine E (anti-
+oxydante). 
+ 
+ 
+ 
+REPONSES QUESTION n°:   4 
+ 
+Le traitement fait appel à la N-acétylcystéine (NAC ) qui peut diffuser facilement 
+vers l'hépatocyte pour servir de précurseur à la sy nthèse hépatique du glutathion 
+réduit (GSH). Le GSH peut capter le métabolite toxi que du paracétamol (N-acétyl-
+parabenzoquinoneimine NAPBQI). Ce traitement peut ê tre donné par voie orale ou par 
+voie IV. La voie IV s'impose en cas de vomissements . Le traitement doit être initié 
+le plus rapidement possible (en principe avant la 1 0ème heure après la prise) mais il 
+s'est montré efficace même en cas d'instauration pl us tardive. Il est noter de rares 
+réactions allergiques comme effets secondaires du t raitement par cet antidote. 
+ 
+Les traitements associés pour ce malade doivent cor riger l'hypoglycémie et la 
+diminution du TP, respectivement par mise en place d'une perfusion de sérum glucosé 
+et apport de vitamine K. 
+ 
+ 
+REPONSES QUESTION n°:   5 
+ 
+Dans le cadre du suivi du malade, les examens doive nt comporter : 
+- le dosage régulier du paracétamol dans le sang po ur suivre sa décroissance et 
+calculer sa demi-vie, mais aussi comparer les résul tats obtenus avec les nomogrammes, 
+en raison du contexte clinique (atteinte hépatique chez un éthylique chronique) ; 
+ 
+- le suivi du TP et le dosage sanguin de l'ion ammo nium (pour évaluer 
+l’encéphalopathie) afin d’envisager une greffe hépa tique en urgence si aggravation de 
+l'insuffisance hépato cellulaire. 
+ 
+- le contrôle quotidien de la glycémie, des enzymes  de la cytolyse hépatique (ASAT, 
+ALAT), du TP et de l'équilibre hydro-électrolytique . 

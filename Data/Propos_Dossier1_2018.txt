@@ -1,0 +1,95 @@
+1469 UD 1
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Enoncé
+Une femme de 50 ans, originaire du Burkina Faso, vit en France depuis 8 ans. Au cours de la visite annuelle
+de la Médecine du travail, elle déclare au médecin que, depuis 3 à 4 jours, elle a observé des lésions
+linéaires sur les fesses et le bassin ; ces lésions sont très prurigineuses. A l'interrogatoire, il n'y a pas
+d'antécédents médicaux récents signalés, en particulier pas de phénomènes allergiques, mais des douleurs
+abdominales avec épisodes alternant diarrhées et constipation. A l'examen clinique, il n'y a pas d'altération
+de l'état général mais une petite douleur dans la région ombilicale et des lésions cutanées de type "urticaire"
+disséminées sur l'abdomen. L'hémogramme prescrit révèle une éosinophilie à 1,5 G/L. La VS à la première
+heure est de 8 mm. Du fait de la provenance géographique de la patiente, la symptomatologie intestinale,
+les lésions cutanées et l'hyperéosinophilie sanguine, le médecin évoque une anguillulose.
+Questions
+QUESTION N° 1 :
+Donner le nom de genre et d'espèce du parasite responsable de l'anguillulose.
+Proposition de réponse
+. Strongyloides stercoralis
+QUESTION N° 2 :
+Quelle est la répartition géographique habituelle de ce parasite ?
+Proposition de réponse
+Toutes les régions tropicales et sub-tropicales (quelques foyers dans les régions tempérées).
+QUESTION N° 3 :
+Comment contracte-t-on une anguillulose ? Quel est le stade infestant ?
+Proposition de réponse
+Par pénétration transcutanée de la larve strongyloïde infestante L III
+par exemple en marchant les pieds nus dans la boue.
+QUESTION N° 4 :
+Décrire le(s) cycle(s) du parasite.
+Proposition de réponse
+Le cycle de  est complexe. Strongyloides stercoralis
+Page 1/31469 UD 1
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Les femelles parthénogénétiques qui vivent dans le duodénum pondent des oeufs qui éclosent dans
+l'intestin.
+Les larves rhabditoïdes ainsi libérées sont éliminées dans le milieu extérieur avec les selles. Il existe
+3 cycles qui coexistent :
+- Cycle direct ou cycle externe court :  Dans des conditions dé favorables de température et d'humidité
+(<20°C, atmosphère sèche), ces larves rhabditoïdes se transforment en larves strongyloïdes infestantes qui,
+après passage transcutané, migreront vers les poumons par voie sanguine, remonteront le carrefour
+aéro-pharyngé et seront ensuite dégluties. Les larves iront dans le duodénum où elles se transformeront en
+adultes (les femelles parthénogénétiques).
+- Cycle indirect ou cycle externe long : Dans des conditions favorables (>20°C, atmosphère humide), les
+larves rhabditoïdes émises dans les selles donnent des adultes libres stercoraires mâles et femelles qui, à
+leur tour, donnent des larves rhabditoïdes de 2ème génération qui se transformeront en larves
+strongyloïdes.
+- Cycle d'auto-infestation : les larves rhabditoides se transforment en larves strogyloides infestantes
+directement dans l'intestin (sans passage par le milieu extérieur). Elles franchissent la paroi digestive,
+passent en sous-cutané puis rejoignent la circulation générale, migrent vers les poumons,  remontent le
+carrefour aéro pharyngé et sont ensuite dégluties. Les larves vont dans le duodénum où elles se
+transforment en adultes (les femelles parthénogénétiques).
+QUESTION N° 5 :
+Quelle est la complication majeure de l'anguillulose et dans quelles circonstances se produit-elle ?
+Proposition de réponse
+La complication majeure est l'anguillulose maligne ou invasive qui survient surtout chez les sujets
+immunodéprimés par de fortes doses de corticoïdes.
+ 
+NB : Les anguilluloses malignes sont très rares au cours de  l'infection par le VIH.
+D'autres facteurs favorisants sont évoqués : co-infection par le HTLV1, traitement anticancéreux,
+malnutrition. 
+QUESTION N° 6 :
+Sur quel prélèvement biologique et avec quelle(s) technique(s)  est-il possible de mettre en évidence des
+éléments parasitaires pour confirmer le diagnostic d'anguillulose ? Justifier la technique la plus adaptée.
+Proposition de réponse
+Prélèvement biologique : selles, prélèvement répété à quelques jours d'intervalle
+pour effectuer un examen parasitologique des selles :
+Technique "spécifique" : la technique de Baermann basée sur le thermotropisme, l'hygrotropisme et la
+Page 2/31469 UD 1
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+mobilité des larves rhabditoides
+ 
+Remarques :
+- Des techniques de coproculture sur boîte de Pétri sont possibles, qui donnent de très bons résultats. Mais
+les résultats sont plus longs (2 à 7 jours). 
+- Examen direct ou après concentration (Bailenger, Ritchie) : peu informatifs
+QUESTION N° 7 :
+Décrire le stade parasitaire normalement observé lors de la mise en oeuvre de la technique la plus adaptée.
+Proposition de réponse
+Eléments parasitaires : les larves rhabditoïdes. Elles sont très mobiles. Les larves rhabditoïdes de 
+ mesurent environ 250 µm de long x 15 µm de diamètre. Elles possèdent une cavité Strongyloides stercoralis
+buccale courte, un oesophage rhabditoïde (à 2 renflements) et une ébauche génitale bien visible à la moitié
+du corps. Extrémité postérieure effilée.
+QUESTION N° 8 :
+Quelle est la caractéristique de l'éosinophilie sanguine au cours de la phase chronique d'une anguillulose
+chez l'immunocompétent ?
+Proposition de réponse
+Elle est dite en "dents de scie" ou fluctuante (provoquée par le cycle endogène ou d'auto-infestation).
+QUESTION N° 9 :
+Citer un médicament (DCI) actuellement utilisé dans le traitement de l'anguillulose non compliquée.
+Proposition de réponse
+- Ivermectine  
+- ou en seconde intention : albendazole 
+Page 3/3

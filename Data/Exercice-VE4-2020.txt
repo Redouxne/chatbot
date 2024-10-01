@@ -1,0 +1,77 @@
+74 VE4
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 4 (40 points)
+
+Enoncé
+
+AZACTAM® (Aztréonam) : Extrait d'aprés le RCP - partie Pharmacocinétique
+
+A) Distribution
+
+- Concentrations sériques chez le sujet sain
+
++ Voie intramusculaire : aprés injection de 1 gramme, le pic sérique atteint au bout d'une heure est de 46
+microgrammes/mL. Les taux sériques restent supérieurs a 4 microgrammes/mL pendant huit heures et a 1
+microgramme/mL pendant douze heures.
+
++ Voie intraveineuse : [...] Douze heures aprés une injection de 1 ou 2 grammes, les taux résiduels sont
+respectivement de l'ordre de 0,9 0u1,8 microgrammes/mL [...].
+
+» L'administration de doses réitérées toutes les huit heures pendant 7 jours n'entraine pas d'accumulation
+sérique.
+
+- Demi-vie plasmatique : 1,7 heure en moyenne indépendamment de la dose et de la voie d'administration.
+
+- Diffusions humorale et tissulaire : \'aztreéonam diffuse dans tous les secteurs de l'organisme (liquides
+biologiques et tissus). [...]
+
+- Liaison aux protéines plasmatiques : 56 pour cent.
+
+B) Biotransformation
+L'aztréonam est faiblement métabolisé ; 87 pour cent sont éliminés sous forme inchangée par le rein et en
+faible proportion par la bile sous forme inchangée. Les métabolites sont inactifs.
+
+Questions
+
+QUESTION N° 1:
+
+La pharmacocinétique de l’aztréonam est-elle linéaire ? Justifier votre reponse.
+
+QUESTION N° 2:
+
+Sachant que le modéle pharmacocinétique est monocompartimental, calculer :
+- la concentration initiale Cy apres une administration IV de 2g ;
+- le volume de distribution (Vd).
+
+Page 1/2
+74 VE4
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 4 (40 points)
+
+QUESTION N° 3:
+
+a. Calculer la clairance plasmatique totale et la clairance rénale de ce médicament.
+
+b. Dans I'hypothése ou ces résultats ont été obtenus chez un sujet dont la clairance de la créatinine est de
+60 mL/min, I'aztréonam est-il préférentiellement reabsorbé ou sécrété au niveau tubulaire ? Justifier votre
+réponse.
+
+QUESTION N° 4:
+
+Un patient atteint de mucoviscidose doit étre traité pour une infection bronchique a Pseudomonas
+aeruginosa. On cherche a maintenir la concentration plasmatique supérieure a 49 mg/L pour pouvoir
+atteindre une concentration suffisante dans les secrétions bronchiques en utilisant des injections IV
+de 2 g répétées toutes les 12 heures.
+
+A ’équilibre, quelles sont les concentrations plasmatiques maximale et minimale ?
+
+QUESTION N° 5:
+
+a. Une fois l'état d’équilibre atteint, pendant combien de temps entre 2 injections IV de 2 g toutes les
+12 heures obtient-on la concentration efficace ( > 49 mg/L) ?
+
+b. En quoi cette donnée est-elle importante pour ce type d’antibiotique ? Le schéma thérapeutique
+proposé vous parait-il optimal ? Justifier votre reponse et proposer une éventuelle
+modification (principe de modification sans calcul).
+
+Page 2/2

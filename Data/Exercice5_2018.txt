@@ -1,0 +1,79 @@
+81 UE5
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)
+
+Enoncé
+
+Le gallium 68 (&8Ga) est un radionucléide émetteur de positons, utilisé dans le marquage de peptides pour
+limagerie tumorale en médecine nucléaire. Il est obtenu a l'aide d'un générateur d’isotope par filiation
+radioactive a partir du germanium 68 (Ge). On considére que les conditions d’équilibre séculaire sont
+satisfaites : constante radioactive du °°Ge négligeable devant celle du 58Ga (A, << Ap).
+
+Données :
+
+* constante d’Avogadro : Na = 6,02.1023 mol!
+
+* équivalent énergétique de I'unité de masse atomique : 1 u = 931,5 MeV/c’
+* masse des atomes : M(‘*Ga) = 67,927980 u et M(“\Zn) = 67,924848 u
+
+* masse de I’électron : m, = 0,511 MeV/c?
+
+* périodes radioactives : T, = 271 jours pour 8Ge et T, = 68 min pour 8Ga
+
+2
+
+Questions
+QUESTION N°1:
+a. Le germanium 68 est préparé par bombardement d’une cible par des particules alpha selon la
+réaction suivante :)X +a —+ {Ge + 2)n. Déterminer le nombre de masse A et le numéro atomique
+Z du noyau X.
+
+b. Le germanium 68 se désintégre en gallium 68 par capture électronique dans 100% des cas. Ecrire
+la réaction de transformation nucléaire en précisant le numéro atomique et le nombre de masse des
+différents nucléides ainsi que la (les) particule(s) émise(s).
+
+Page 1/2
+81 UES5
+
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)
+
+QUESTION N° 2:
+Le gallium 68 se désintégre soit par capture électronique (CE), soit par émission 8* selon le schéma
+
+simplifié ci-aprés :
+
+1077 kev.
+
+= Zn stable
+
+a. Ecrire l'équation de désintégration B,* du ca, en précisant le numéro atomique et le nombre de
+masse des différents nucléides ainsi que la (les) particule(s) et rayonnement(s) émis.
+
+b. Calculer, en MeV, I'énergie Qa, mise en jeu lors de la désintégration B*.
+
+c. Calculer, en MeV, l’énergie cinétique maximale Ep *max des positons B,* émis.
+
+QUESTION N° 3:
+
+La radiopharmacie recoit un générateur 68G¢ / 88a dont l'activité en ©8Ge est de 1850 MBq au (t)) temps
+initial.
+
+On considére qu’a t,, seul 58Ge est présent.
+
+On donne le temps au bout duquel l’activité en 58a est maximale tu= 14,2 h.
+
+a. Calculer la masse de ©8Ge fixée sur la colonne du générateur au temps tp.
+
+b. Quelle est l'activité maximale théorique en 88Ga qu'il est possible d’éluer au bout d'un intervalle de
+temps At = 14,2 h ?
+
+c. Calculer le rendement d’élution R du générateur (rapport de l'activité en 86a réellement éluée a
+l'activite en ©8Ga disponible) si activité en °8Ga éluée est de 1200 MBq.
+
+d. Vactivite en Ga au temps t, A(t), peut s’exprimer en fonction de l'activité en 68Ge au temps to,
+Aug par la relation A,(t) = Ajy.(1 —e% 2'). Calculer les rendements d’élution en 68Ga, R, et Ro, quill
+est possible d’obtenir au bout d'un intervalle de temps At, = T. (T, étant la période radioactive du
+68Ga) et au bout d’un intervalle de temps At, =2T,?
+
+Page 2/2

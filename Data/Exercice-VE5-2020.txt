@@ -1,0 +1,95 @@
+85 VES
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)
+
+Enoncé
+
+Le thallium 201 (2°'T1 est utilisé pour réaliser des scintigraphies du myocarde dans le but d’évaluer la
+perfusion coronarienne et la viabilité du myocyte.
+
+Données :
+
+e équivalent énergétique de l'unité de masse atomique : 1 u = 931,5 MeV/c?
+* masse des atomes : M(7°'TI) = 200,970794 u et M(2°'Hg) = 200,970277 u
+* masse de l’électron : m,= 0,511 MeV/c?
+
+* périodes radioactives : T(2°'TI) = 73 h et T(20Tl) = 294 h
+
+© numéro atomique Z des éléments suivants :
+
+° énergies d'ionisation E; (en keV) des niveaux électroniques du mercure 201 :
+
+Les questions N°1, 2 et 3 sont indépendantes.
+
+Questions
+
+QUESTION N° 1:
+
+Formation du thallium 201
+
+a. Une cible de thallium 203 est soumise a un flux de protons ; il se forme alors du plomb 201. Ecrire
+l’équation de cette transformation et donner le nom des particules émises.
+
+b. Le plomb 201 se transforme spontanément en thallium 201. Quels sont les types de désintégration
+théoriquement possibles ? Justifier.
+
+Page 1/2
+85 VE5
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)
+
+QUESTION N° 2:
+
+Désintégration du thallium 201
+Le thallium 201 se désintégre en mercure 201 par capture électronique (CE) selon le schéma simplifié ci-aprés :
+
+201
+sill
+A
+GE '
+Qce}
+167 keV :
+32 keV
+Vv
+
+0
+
+201
+so Hg stable
+
+a. Pourquoi la désintégration beta + du thallium 201 n’est-elle pas possible ?
+
+b. Quelle est I’énergie, en keV, des photons gamma y, et gamma y, émis au cours de cette
+désintégration ?
+
+c. Au cours de cette désintégration, un électron de conversion interne d’énergie 84 keV est émis.
+Expliquer son origine.
+
+d. Au cours de cette désintégration, un rayonnement X d’énergie 71 keV est émis. Expliquer son
+origine.
+
+QUESTION N°3:
+
+Radiopharmacie
+
+Six scintigraphies myocardiques doivent étre réalisées dans un service de médecine nucléaire le jeudi 1°" au
+matin a 10 h. Pour simplifier, on considére qu’elles sont réalisées en méme temps. L’activité injectée par
+patient est de 110 MBq. La radiopharmacie a commandé un flacon de thallium 201 d’activité 296 MBq,
+calibrée le lundi suivant (le 5) a 10 h du matin.
+
+a. L’activite commandée est-elle suffisante ? Justifier votre choix.
+
+b. Aprés utilisation pour les six patients, calculer |’activité résiduelle en thallium 201 dans le flacon le
+jeudi a 10h.
+
+c. Le flacon est entreposé dans le local a déchets radioactifs pendant 12 périodes physiques. Quelle
+est alors I’activité, en kBq, restant dans le flacon ?
+
+d. La solution de thallium 201 recue le jeudi a 10 h contient du thallium 202 qui est une impureté
+radionucléidique dont l’activité est égale a 0,5% de celle du thallium 201. La solution ne peut plus
+étre injectée lorsque le rapport de l’activité du thallium 202 sur celle du thallium 201 devient
+supérieur 4 2%. Au bout de combien de jours la solution de thallium 201 n’est plus utilisable ?
+
+e. La période biologique du thallium 201 est Thiot = 10j. Calculer sa période effective.
+
+Page 2/2

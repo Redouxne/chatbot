@@ -1,0 +1,41 @@
+ 
+*Important  : Les propositions de réponses sont données à titre indicatif. Elles  n’ont rien d’impératif pour les jurys des 
+concours d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme 
+ils le souhaitent.  Les éléments de réponses  doivent être considéré s pour l'année du concours  auxquels  ils se rapportent.  
+ 
+ 
+ EPREUVE D'EXERCICES D'APPLICATION - Mai 2012  
+ 
+PROPOSITIONS DE REPONSES  
+ 
+Exercice 5  
+ 
+ 
+ 
+1) Concentration à l’équilibre = 
+Z de e plasmatiqu Clairance) mg.h en perfusion de K(vitesse1  
+ 
+1 1 1 1mL.min 69,3  L.h 4,166 mg.L /18 mg.h 75 Cl     
+ 
+)t )/(tC Ln C (Ln ke1 2 2 1  
+où C2 et C1 sont les concentrations en Z dans la phase 
+décroissante d’élimination.  
+Par exemple  : 
+ ke = (Ln 13,642 - Ln 1,485) / (24 – 16) = 0,277 h -1 
+ t1/2 = Ln2 / 0,277 = 2,5 h  
+ Vd = 
+Cl/ke # 15 L  
+ 
+NB : le fait que la concentration au temps 2,5 h soit très proche de la moitié de la 
+concentration à l’équili bre permet de conclure  : t½ ≈ 2,5 h  
+ 
+2) Dose IVD = Vd.Css = 15 L x 18 mg.L-1 # 270 mg  
+ 
+ 
+3) K = Css.Cl = 25 mg.L-1 x 4,166 L.h-1 = 104,2 mg.h-1 
+ 
+ 
+4) La SSC IVD estimée après injection en IVD de 200 mg de Z serait  : 
+SSC IVD = D / Cl = 200 mg / 4,166 L.h-1 = 48 mg.L-1.h 
+Biodisponibilité absolue de Z en comprimé = F = SSC VO / SSC IVD = 40 /48 = 0,833  
+ 

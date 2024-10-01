@@ -1,0 +1,78 @@
+81 UE 5
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)
+a.  
+b.  Enoncé
+Le gallium 68 ( Ga) est un radionucléide émetteur de positons, utilisé dans le marquage de peptides pour68
+l’imagerie tumorale en médecine nucléaire. Il est obtenu à l’aide d’un générateur d’isotope par filiation
+radioactive à partir du germanium 68 ( Ge). On considère que les conditions d’équilibre séculaire sont68
+satisfaites : constante radioactive du Ge négligeable devant celle du Ga (λ  << λ ).68 68
+1 2
+ 
+Données :
+constante d’Avogadro : N  = 6,02.10  molA23 -1
+équivalent énergétique de l’unité de masse atomique : 1 u = 931,5 MeV/c2
+masse des atomes :  M( ) = 67,927980 u et M( ) = 67,924848 u
+masse de l’électron : m  = 0,511 MeV/ce2
+périodes radioactives : T  = 271 jours pour Ge et T  = 68 min pour Ga168
+268
+Questions
+QUESTION N° 1 :
+Le germanium 68 est préparé par bombardement d’une cible par des particules alpha selon la
+réaction suivante : . Déterminer le nombre de masse A et le numéro atomique
+Z du noyau X.
+Le germanium 68 se désintègre en gallium 68 par capture électronique dans 100% des cas. Ecrire
+la réaction de transformation nucléaire en précisant le numéro atomique et le nombre de masse des
+différents nucléides ainsi que la (les) particule(s) émise(s).
+ 
+Proposition de réponse
+QUESTION N° 2 :
+Le gallium  68 se désintègre soit par capture électronique (CE), soit par émission β  selon le schéma+
+simplifié ci-après :
+Page 1/581 UE 5
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)
+a.  
+b.  
+c.  
+a.  
+b.  
+c.  
+d.  
+Ecrire l’équation de désintégration β  du Ga, en précisant le numéro atomique et le nombre de1+ 68
+masse des différents nucléides ainsi que la (les) particule(s) et rayonnement(s) émis.
+Calculer, en MeV, l’énergie Q mise en jeu lors de la désintégration β .β+ +
+Calculer, en MeV, l’énergie cinétique maximale E   des positons  émis.maxβ1+ β1+
+Proposition de réponse
+QUESTION N° 3 :
+La radiopharmacie reçoit un générateur Ge /  Ga dont l’activité en Ge est de 1850 MBq au temps initial68 68 68
+(t).0
+On considère qu’à t , seul Ge est présent.068
+On donne le temps au bout duquel l’activité en Ga est maximale t  = 14,2 h.68
+M
+Calculer la masse de Ge fixée sur la colonne du générateur au temps t .68
+0
+Quelle est l’activité maximale théorique en Ga qu’il est possible d’éluer au bout d’un intervalle de68
+temps Δt = 14,2 h ?
+Calculer le rendement d’élution R du générateur (rapport de l’activité en Ga réellement éluée à68
+l’activité en Ga disponible) si l’activité en Ga éluée est de 1200 MBq.68 68
+L’activité  en Ga  au  temps t, A (t), peut  s’exprimer en fonction de l’activité en Ge  au  temps t ,68
+268
+0
+A, par la relation . Calculer les rendements d’élution en Ga, R  et R , qu’il10
+68
+1 2
+est possible d’obtenir au bout d’un intervalle de temps  = T  (T étant la période radioactive du Δt1 2268Page 2/581 UE 5
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)d.  
+est possible d’obtenir au bout d’un intervalle de temps  = T  (T étant la période radioactive du Δt1 2268
+Ga) et au bout d’un intervalle de temps Δt  = 2T  ?2 2
+ 
+Proposition de réponse
+Page 3/581 UE 5
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)
+Page 4/581 UE 5
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)
+Page 5/5

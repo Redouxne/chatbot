@@ -1,0 +1,47 @@
+EPREUVE D’EXERCICES D’APPLICATION – Mai 2013
+Exercice 1
+PROPOSITIONS DE REPONSES
+PARTIE A
+La forme moléculaire est la forme acide, la forme ionisée est la forme basique.
+[acide][base]logpKpHa+=
+d’où
+[acide][base]= 5
+M-45.10  base C acide C =+
+D’après la valeur du rapport B/A = 5
+C Base = 5 C Acide d’où 6 C Acide = 5.10  -4   M  
+C acide = M8,33.1065.1054
+−−
+=
+C base = M4,165.1058,33.1045 − −=×
+Absorbance = )8,33.10  cm 1(320)4,165.10x  cm 1(850-5 4××+ ×−
+                         A = 0,380
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des  
+concours d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme  
+ils le souhaitent. Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.PARTIE B
+1)Calcul des ε
+D’après la Loi de Beer Lambert  :
+ε.1.CA=
+:ε coefficient d’absorption spécifique
+1 : trajet optique = 1 cm
+C : concentration de la solution mesurée  : g.L-1
+Acide salicylique :
+5,9ε:λ.cm27,1L.gε:λ
+221111
+==−−
+Acide parahydroxybenzoïque  :
+106,1ε:λ0ε:λ
+2211
+==
+2)Calcul des concentrations des deux acides dans le mélange.
+•à 1λ seul l’acide salicylique absorbe donc dans le mélange après dilution au 1/100è.
+C en acide salicylique 13g.L4,1.1027,10,111 −−==
+Avant dilution 10,41g.L−
+•à 2λ l’acide salicylique et l’acide parahydroxybenzoïque absorbent
+13-ème22
+g.L7,94.10 y 1/100 au dilution aprèsy 106,10,842roxy.B)y(Ac.p.hyd106,1y5,9)(0,41.100,866A
+−−
+==+×==
+avant dilution 0,79 g.L-1
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des  
+concours d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme  
+ils le souhaitent. Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.

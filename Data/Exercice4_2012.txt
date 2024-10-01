@@ -1,0 +1,59 @@
+ EPREUVE D’EXERCICES D’APPLICATION  - Mai 2012  
+ 
+Exercice 4  
+ 
+Les deux parties A et B sont indépendantes.  
+ 
+PARTIE A  
+ 
+Enoncé  : 
+On enregistre au niveau de la mer, les courbes spirométriques (a) et (b) chez un sujet.  
+L’analyse des gaz expirés chez ce même sujet i ndique des fractions de 16 % pour O 2, 4 % 
+pour CO 2 et 80 % pour N 2. 
+(Le gaz expiré est totalement saturé en vapeur d’eau, ce qui correspond à une pression 
+partielle d’eau de 47 mm de Hg).  
+ 
+ 
+ 
+ 
+Questions  : 
+Question N°1  : Définir et déterminer graphiquement VC (Volume Courant), VRE 
+(Volume de Réserve Expiratoire), VRI (Volume de Réserve Inspiratoire), VEMS 
+(Volume d’Expiration Maximal en une Seconde), CV (Capacité vitale). Calculer le 
+rapport de Tiffeneau.  
+ 
+ 
+Question N°2  : Calculer les pressions partielles da ns le gaz expiré de l’O 2, du CO 2, de 
+l’N 2 dans les conditions standard (BTPS  : Body Temperature and Pressure Saturated).  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Partie B  
+ 
+Enoncé  : 
+On a mesuré sur du sang artériel, la pression partielle en oxygène, l’hémoglobine et la 
+saturation en oxygèn e, pour un patient A et un patient B.  
+ 
+ 
+Patient A.  SgA pO 2 = 85 mmHg  
+  SgA Oxyhémoglobine / Hémoglobine totale (SaO 2) = 0,95  
+  (H) Sg Hémoglobine = 70 g/L  
+ 
+Patient B.  SgA pO 2 = 55 mmHg  
+  SgA Oxyhémoglobine / Hémoglobine totale (SaO 2) = 0,85  
+  (H) Sg Hémogl obine = 150 g/L  
+ 
+ 
+On donne  : 
+ 
+- pouvoir oxyphorique de l’hémoglobine  : 1,34 mL d’oxygène par g d’hémoglobine  
+- solubilité de l’oxygène dans le sang  : 0,03 mL O 2/L/mmHg de pO 2 
+ 
+ 
+Question  : 
+Lequel de ces deux patients est le plus hypoxémique  ? Justifier  vot re réponse.  
+ 

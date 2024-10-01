@@ -1,0 +1,71 @@
+21 UE 1
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 1 (40 points)
+Enoncé
+On prépare un litre d'une solution aqueuse (tampon A) contenant :
+- 9,4 g de monohydrogénophosphate de sodium
+- 41,2 g de dihydrogénophosphate de sodium
+ 
+Données :
+Masse molaire de Na HPO  = 141,98 g.mol2 4-1
+Masse molaire de NaH PO = 119,98 g.mol2 4-1
+Les pKa de l'acide phosphorique sont : 2,23 ; 7,21 ; 12,32
+ 
+ 
+Questions
+QUESTION N° 1 :
+Calculer le pH.
+Proposition de réponse
+  appartiennent au même couple de pKa = 7,21
+ 
+QUESTION N° 2 :
+Quelle est la molarité de ce tampon ?
+Proposition de réponse
+La molarité du tampon est la somme des concentrations :
+    = 0,0662 + 0,343 = 0,409 M
+Molarité = 0,409 M ≈ 0,41 M
+QUESTION N° 3 :
+Page 1/321 UE 1
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 1 (40 points)
+Comment préparer 250 mL de tampon B phosphorique 0,10 M par simple dilution de la solution de tampon A
+dans de l'eau distillée ?
+Proposition de réponse
+Tampon B est une dilution dans l'eau du tampon A.
+soit 25 mmol de composés phosphoriques 
+complété avec de l'eau distillée à 250 mL (soit environ 250 - 61 = 189 mL)
+QUESTION N° 4 :
+Quel est le pH du tampon B ?
+Proposition de réponse
+Le pH du tampon B est égal à celui du tampon A = 6,50
+QUESTION N° 5 :
+On dispose uniquement du tampon A, d'une solution de HCl 0,50M ou d'une solution d'hydroxyde sodium
+0,50M.
+Comment préparer 500 mL de tampon phosphorique de pH = 7,40 iso-osmotique au plasma sanguin ?
+Proposition de réponse
+Le pH sera de 7,40 si dans le mélange, 
+Les 500 mL de mélange tampon doivent contenir 150 mosmoles.
+L'osmolarité du mélange de x mmoles de Na HPO  et de y mmoles de NaH PO est de 3x + 2y : 1502 4 2 4
+mOsmol.
+x = 1,55 y
+3(1,55y) + 2y = 150      soit        y = 22,55 mmoles de NaH PO et x = 34,95 mmoles de Na HPO  2 4 2 4
+d'où au total 57,5 mmoles de composés phosphorique.
+Le tampon A apporte 0,409M de composés phosphorique.
+Le volume de tampon A nécessaire est de : 
+ 
+Ces 140,5 mL apportent 9,3 mmoles de Na HPO  et 48,2 mmoles de NaH PO. 2 4 2 4
+Pour obtenir le pH, il faut ajouter NaOH.
+Page 2/321 UE 1
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 1 (40 points)
+Pour transformer 34,95 - 9,3 = 25,65 mmoles de NaH PO  en Na HPO  il faut la quantité2 4 2 4,
+NaOH = 25,65 mmol., c'est à dire le volume de NaOH 0,5M = 51,3 mL.
+ 
+La quantité de NaH PO est alors de 48,2 - 25,65 = 22,55 mmoles.2 4
+ 
+Pour préparer 500 mL de solution phosphorique de pH = 7,40 isoosmotique au plasma sanguin ou mélange :
+140,5 mL de tampon A
+51,3 mL de NaOH 0,5M
+eau qsp 500 mL
+ 
+Page 3/3

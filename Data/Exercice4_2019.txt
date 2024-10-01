@@ -1,0 +1,54 @@
+1 WE4
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 4 (40 points)
+
+Enoncé
+
+On veut mesurer la concentration catalytique de la glutamate déshydrogénase (GLDH) d'une préparation
+purifiée dont la concentration en protéines totales est de 1,6 mg/mL.
+
+Pour cela, on introduit successivement dans une cuve réactionnelle :
+
+20 uL d’une solution de sulfate d’ammonium
+240 pL d'un tampon a pH 8,0
+
+10 pL d’une solution de NADH,H s
+
+10 yL de la préparation purifiée
+
+20 uL d’a-cétoglutarate.
+
+Questions
+
+QUESTION N° 1:
+
+a) Quelles sont les conditions opératoires a respecter pour que la vitesse de la réaction enzymatique ne
+dépende que de I'activité enzymatique a mesurer ?
+
+b) Ecrire la réaction catalysée par la GLDH dans les conditions de mesure. Donner un ordre de grandeur
+de la concentration de chaque substrat par rapport 4a son Km pour que la mesure de Ia vitesse initiale
+soit optimisée ?
+
+c) Quel est le réle du tampon et l'influence de la température ?
+
+QUESTION N° 2:
+
+a) La valeur absolue de la variation d'absorbance a 340 nm, lue sur la partie linéaire de la cinétique et
+pour un trajet optique de 5 mm, est de 0,041 par minute. Préciser le sens de cette variation
+d’absorbance et justifier le choix de la longueur d’onde.
+
+b) Calculer la concentration catalytique de la GLDH dans la préparation purifiée.
+
+c) Sachant que la masse moléculaire de la GLDH est de 560 kDa, calculer son activité spécifique.
+
+d) En supposant que l’enzyme de la préparation soit pure, calculer son activité moléculaire spécifique k..4
+
+(on suppose que Ia vitesse initiale est mesurée dans des conditions opératoires de vitesse maximale).
+
+NB:
+Les résultats seront exprimés en prenant comme unités : le litre, le gramme, la minute et pour les quantités
+catalytiques, l’unité U et le nanokatal.
+
+La valeur du coefficient d’absorbance linéique molaire du NADH,H* a 340 nm est de 6300 L.mol.cm”?.
+
+Page 1/1

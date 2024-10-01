@@ -1,0 +1,19 @@
+EPREUVE D’EXERCICES D’APPLICATION – Mai 2013
+Exercice 5
+ENONCE
+La courbe A représente les résultats d’une étude cinétique de l’activité d’une enzyme E sur un  
+substrat S dans des conditions bien définies.
+Question n° 1 :
+      a) Calculer le Km de l’enzyme pour son substrat.
+b)Calculer la Vmax.
+c)A quoi correspond la pente de cette courbe  ? Calculer sa valeur en précisant les unités.
+Question n° 2 : 
+La courbe B représente les résultats d’une cinétique obtenue dans les mêmes conditions mais en  
+présence dans le milieu d’incubation d’un inhibiteur à une concentration de [I] = 8.10-5 M. Dans 
+quel type d’inhibition peut-on classer cet inhibiteur  ? Justifier votre réponse.
+Question n° 3 : 
+Calculer la constante d’inhibition (Ki) de l’inhibiteur pour l’enzyme.
+Question n° 4 : 
+a)Déterminer v0 et v0  app pour [S]1 = 0,2. 10-4 M et pour [S]2 = 1.10-4 M. En déduire le  
+pourcentage d’inhibition. Commenter l’évolution de ce pourcentage lorsque [S] augmente.
+b)Démontrer l’équation exprimant le pourcentage d’inhibition en fonction de (S), (I), K M et Ki.

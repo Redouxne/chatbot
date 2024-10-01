@@ -1,0 +1,76 @@
+E471   SE5  
+ 1 EPREUVE D’EXERCICES D’APPLICATION – Décembre 2015 
+EXERCICE N° 5 
+PROPOSITIONS DE REPONSES* 
+ 
+*Important : Les propositions de réponses sont donn ées à titre indicatif. Elles n’ont rien d’impératif  pour les jurys 
+des concours d’internat en pharmacie qui restent so uverains et libres d’établir les grilles de correct ion et de 
+cotation comme ils le souhaitent. Les éléments de r éponses doivent être considérés pour l'année du con cours 
+auxquels ils se rapportent. 
+ 
+ 
+ 
+REPONSES QUESTION N° 1 
+ 
+99 99m 
+42 43 e Mo Tc −→ +β +ν  
+Désintégration β- avec émission d’un électron par le noyau ( β-) et d’un antineutrino (électronique) 
+ 
+ 
+REPONSES QUESTION N° 2 
+L’activité A 2 est maximale à l’instant t M tel que la dérivée dA 2/dt = 0 
+1 M 2 M t t 
+2 2 
+10 
+2 1 dA d e e A 0 dt dt ( ) −λ −λ λ −= = λ −λ   ⇔  1 M 2 M t t 
+1 2 e e −λ −λ λ = λ  
+⇔ 2 2 
+1 2 
+M 2 2 
+1 2 n n 105 10 116 10 t 22 8 h 105 10 116 10 ( / ) ( , . / , . ) ,, . , . − − 
+− − λ λ = = = λ −λ − l l 
+Avec 2 1 
+1
+1n2 105 10  h T, . − − λ = = l et 2 1 
+2
+2n2 116 10  h T, . − − λ = = l 
+ 
+REPONSES QUESTION N° 3 
+a) Loi de décroissance radioactive : 0A A  exp( λt) = −  avec λ = ln2/T 
+ou A = A 0/2 n  avec n nombre de périodes radioactives  
+L’activité A 0 est donnée le jour J à 18 heures. A 12 heures le m ême jour, soit 6 heures avant, l’activité 
+était de : 2A 30 exp[ ( 6 n2/6)] = − − ⋅ l  soit  A 2 = 60 MBq 
+b) A 12 heures le lendemain, soit au bout de 3 péri odes après le temps de référence t 0, l’activité sera 
+égale à A 0/2 3 = A0/8 soit A 2 = 30/8 = 3,75 MBq. 
+ 
+A 18 heures, A = 30/16 = 3,75/2 = 1,87 MBq 
+ 
+ 
+REPONSES QUESTION N° 4 
+a) 2 2 2 1 
+2 1 1 1 1 
+2 1 1 2 
+2 1 2 1 n2 1 
+λ T T T A A A A A n2 n2 1 1 λ λ T T 
+T T T T = = = = − − − − l
+l l  
+b) 2 1 1 66 A A 11 A 33 MBq 66 6 0 ,,= = ⋅ = − 
+ 
+ 
+ R471  SE5 
+ 2REPONSES QUESTION N° 5 
+a) Tant que Tc 99m 
+43  est en équilibre de régime avec son père Mo 99 
+42 , il décroît avec la période de Mo 99 
+42 . 
+La séparation ayant lieu au bout de 198 heures soit  Δt = 3 * 66 h = 3 périodes, la radioactivité au 
+moment de la séparation est :  
+A2 = A 20 / 2 3 = 3200/8 = 400 MBq 
+b) Après la séparation, Tc 99m 
+43  décroît avec sa propre période qui est de 6 h, don c au bout de 24 heures, il 
+s’est écoulé t = 4 * 6 h = 4 périodes. Soit A 2 = A 20  / 2 4 = 400 /16 = 25 MBq. 
+ 
+ 
+REPONSES QUESTION N° 6 
+0φ φ exp ( µx) et x 0,02 cm = ⋅ − =    1
+01 1 n( φ/φ) n(100/48) 36,7 cm x 0 02 ,−µ = = = l l  

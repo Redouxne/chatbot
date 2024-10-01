@@ -1,0 +1,79 @@
+E 490  SE2 
+ 
+1 EPREUVE D’EXERCICES D’APPLICATION – Décembre 2015 
+EXERCICE N° 2 
+PROPOSITIONS DE REPONSES* 
+ 
+*Important : Les propositions de réponses sont donn ées à titre indicatif. Elles n’ont rien d’impératif  
+pour les jurys des concours d’internat en pharmacie  qui restent souverains et libres d’établir les gri lles 
+de correction et de cotation comme ils le souhaiten t. Les éléments de réponses doivent être 
+considérés pour l'année du concours auxquels ils se  rapportent. 
+ 
+ 
+ 
+REPONSES QUESTION N° 1 
+ 
+H0 : la RVS est indépendante de la RVR  
+H1 : la RVS dépend de la RVR 
+ RVS Pas RVS 
+RVR 9/6,5 4/6,5 
+Pas RVR 6/8,5 11/8,5 
+ 
+χ²=3,39<3,84 (ddl=1) donc la RVS ne dépend pas de la  RVR  
+ 
+REPONSES QUESTION N° 2 
+ 
+( )6 , 0699
+FN VP VP Se =+=+=  
+( )73 , 0411 11 
+FP VN VN Sp =+=+=  
+ 
+ 
+REPONSES QUESTION N° 3 
+Non, car la sensibilité et la spécificité sont des caractéristiques intrinsèques des tests 
+diagnostiques qui, par définition, ne dépendent pas  de la prévalence dans la population. 
+REPONSES QUESTION N° 4 
+ 
+ 
+Ici t (n-1 ddl, α)=t 14, 5%=2,145 
+IC 0,95 = 4350 ± 2,145* 15 /1300 2 = ]3630 ; 5070[ 
+Comparaison des variances : 
+H0 : σ²1 = σ²2    H1 : σ²1 ≠ σ²2 
+F=1300²/1000²= 1,69 < F seuil   à 14 et 14 ddl 
+Fseuil est compris entre 2,95 et 3,05  )n² stm  ;  n² stm (IC ) , 1 n ( ) , 1 n ( 1 α − α − α − + −=R 490  SE2 
+2  
+ 
+Comparaison des moyennes 
+ 211210 µµ :H /µµ :H ≠ =  
+ 
+ 
+ 
+ 
+ddl= n 1 + n 2 – 2 = 28 
+ 
+Les ASC 0-12h  moyennes sont significativement différentes dans c es 2 groupes de patients 
+ 
+ 
+REPONSES QUESTION N° 5 
+ 
+H0 : la réduction de la charge virale après 4 semai nes de traitement est indépendante de 
+l’ASC 0-12h  
+H1 : la réduction de la charge virale après 4 semai nes de traitement  et  l’ASC 0-12h  sont 
+linéairement corrélées 
+ 
+ 
+        ddl = 30 – 2 = 28 
+On ne montre pas de corrélation linéaire entre la c harge virale après 4 semaines de 
+traitement  et  l’ASC 0-12h . 
+ 1345000 2nns ). 1n (s ). 1n (² s
+212
+2 22
+1 1=−+−+−=048 , 2t12 , 3
+ns
+nsxxtseuil 
+22
+1221=>=
++−=
+048 , 2t53 , 02n
+² r1rtseuil =<=−
+−=

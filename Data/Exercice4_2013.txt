@@ -1,0 +1,40 @@
+EPREUVE D’EXERCICES D’APPLICATION – Mai 2013
+Exercice 4
+ENONCE
+Pour identifier les buveurs excessifs dans une population d’étudiants, on souhaite disposer d’un test  
+prédictif, facile à réaliser en routine. 
+On décide d’étudier la validité du test des  γ-GT. Pour cela, on interroge 608 hommes, venant  
+consulter dans un service hospitalier de Médecine Interne, sur leur consommation de boissons  
+alcoolisées et on dose l’activité enzymatique plasmatique des γ-GT. 
+Le tableau suivant donne la répartition des sujets en fonction de la distribution des γ-GT et de la 
+consommation de boissons alcoolisées.
+Consommation d’alcool (en g/jour)
+γ-GT (U/L) 0 - 59 60 - 79 plus de 80 TOTAL
+< 20
+20 - 39
+40 - 59
+> 60256
+140
+28
+2629
+39
+10
+1017
+23
+14
+16302
+202
+52
+52
+TOTAL 450 88 70 608
+Question n° 1 :
+Que pensez-vous de cette façon de procéder pour étudier la validité du test ?
+Question n° 2 : 
+Si on considère comme buveurs excessifs les buveurs d’au moins 80 g d’alcool par jour, le  
+pourcentage de buveurs excessifs diffère-t-il selon le niveau de γ-GT ?
+Question n° 3 : 
+Si on considère comme test positif, les valeurs de γ-GT supérieures ou égales à 20 U/L, quelles sont  
+la sensibilité, la spécificité, la valeur prédictive positive et la valeur prédictive négative du test ?
+Question n° 4 : 
+Quels avantages et inconvénients y-a-t-il à choisir plutôt comme test positif les valeurs de  γ-GT 
+supérieures ou égales à 40 U/L ? Raisonner en fonction des objectifs de cette étude.

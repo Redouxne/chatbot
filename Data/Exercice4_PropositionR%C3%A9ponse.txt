@@ -1,0 +1,70 @@
+1 EXO4bis_P2018
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° (40 points)
+Enoncé
+On veut mesurer la concentration catalytique de la glutamate déshydrogénase (GLDH) d’une préparation
+purifiée dont la concentration en protéines totales est de 1,6 mg/mL.
+Pour cela, on introduit successivement dans une cuve réactionnelle :
+20 µL d’une solution de sulfate d’ammonium
+240 µL d’un tampon à pH 8,0
+10 µL d’une solution de NADH,H +
+10 µL de la préparation purifiée
+20 µL d’α-cétoglutarate.
+Questions
+QUESTION N° 1 :
+a) Quelles sont les conditions opératoires à respecter pour que la vitesse de la réaction enzymatique ne dépende que
+de l'activité enzymatique à mesurer ?
+b) Ecrire la réaction catalysée par la GLDH dans les conditions de mesure. Donner un ordre de grandeur de la
+concentration de chaque substrat par rapport à son Km pour que la mesure de la vitesse initiale soit optimisée ?
+c) Quel est le rôle du tampon et l'influence de la température ?
+ 
+Proposition de réponse
+ 
+a) L'activité enzymatique étant la variable à mesurer, il faut opérer dans des conditions de vitesse initiale et
+en définissant toutes les variables de la réaction : pH, force ionique, nature et concentration du tampon,
+concentration saturante de substrats, nature et concentration en effecteurs. 
+ 
+b)  
+alpha-cétoglutarate + NH  + NADH,H  ---------->  glutamate + H O + NAD3+ 
+2+
+ 
+Pour optimiser la mesure il faut travailler en concentration proche de la saturation pour chaque substrat,
+c’est-à-dire (S) >> Km, en pratique (S) > 10 Km.
+ 
+c) Les différentes constantes de vitesse dépendent du pH et de la température.
+Pour une enzyme donnée, il y a un pH optimum et une température optimale.
+De plus ici (mesure de l'activité GLDH), la réaction consomme 1 proton.
+Il faut donc tamponner et maintenir la température constante.
+QUESTION N° 2 :
+Page 1/21 EXO4bis_P2018
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° (40 points)
+a) La valeur absolue de la variation d’absorbance à 340 nm, lue sur la partie linéaire de la cinétique et
+pour un trajet  optique de 5 mm, est de 0,041 par minute. Préciser le sens de cette variation
+d’absorbance et justifier le choix de la longueur d’onde.
+b) Calculer la concentration catalytique de la GLDH dans la préparation purifiée.
+c) Sachant que la masse moléculaire de la GLDH est de 560 kDa, calculer son activité spécifique.
+d) En supposant que l’enzyme de la préparation soit pure, calculer son activité moléculaire spécifique k
+cat
+(on suppose que la vitesse initiale est mesurée dans des conditions opératoires de vitesse maximale).
+ 
+NB :
+Les résultats seront exprimés en prenant comme unités : le litre, le gramme, la minute et pour les quantités
+catalytiques, l’unité U et le nanokatal.
+La valeur du coefficient d’absorbance linéique molaire du NADH,H  à 340 nm est de 6300 L.mol .cm .+ -1 -1
+Proposition de réponse
+  a) Parmi les coenzymes, seul le NADH,H  absorbe à 340 nm et puisqu'il est consommé, le sens de+
+variation est négatif (décroissant).
+ 
+b) Pour 1 cm de trajet optique, la variation d'absorbance ΔA/min = 0,082
+   d’où v0dans la cuve réactionnelle et en µmol/L/min = (0,082/6300) x 106= 13 µmol/L/min,
+soit pour la préparation en tenant compte de la dilution au 1/30ème
+, une vitesse initiale de   390
+µmol/L/min,
+  ce qui correspond à une concentration catalytique de 390 U/L,  ou en nkat/L : 390 x 103/60 = 6500
+nkat/L.
+ 
+c) Activité spécifique = 390/1,6 = 244 U/g  ou  4,1 nkat/g
+ 
+d)
+Page 2/2

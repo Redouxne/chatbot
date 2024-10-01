@@ -1,0 +1,86 @@
+64 UE 4
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 4 (40 points)
+
+Enoncé
+
+Une équipe médicale développe une nouvelle technique d’imagerie : I'IRM en opposition de phase. II s’agit
+d’évaluer les performances de cette technique (simple et non invasive) pour le diagnostic de stéatose
+hépatique.
+
+L’équipe a expérimenté IRM sur une population de 360 patients hospitalisés pour hépatopathie chronique
+non alcoolique et a comparé les résultats obtenus avec ceux de l'examen anatomopathologique d'une
+biopsie hépatique (PBH) (examen de référence).
+
+On cherche a fixer une valeur seuil du signal obtenu en IRM au-dessus de laquelle le sujet sera considéré
+comme atteint de stéatose et suivi en conséquence.
+L'IRM est dite positive si la valeur du signal est supérieure ou égale au seuil fixe et négative dans le cas
+
+contraire.
+
+| Valeur seuil du signal _| Résultat de l' IRM Résultat de la PBH__| Nombre de patients -
+| + 190
+40 + 80
+
+fi
+
++
+°
+
++ 4/0
+tle
+os
+&
+
+80
+
++4
+N
+
+| eaeeemeeanee ee
+|
+L
+
++ 4/s
++/+
+<}
+3
+
+120
+
+He
+ga
+
++ +i0
+©
+a
+
+240
+
+Page 1/2
+64 UE4
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 4 (40 points)
+
+Questions
+
+QUESTION N° 1:
+La population étudiée refléte-t-elle toutes les situations cliniques pour lesquelles |'IRM sera utilisée en
+pratique courante ?
+
+QUESTION N° 2:
+Lors de I'interprétation de I'IRM, les résultats de la PBH étaient connus des radiologues. Que pensez-vous
+de la méthodologie employée ?
+
+QUESTION N° 3:
+
+Calculer les résultats de sensibilité et spécificité de I"IRM pour les quatre valeurs seuils présentées dans le
+tableau.
+
+QUESTION N° 4:
+
+A la lecture des valeurs de sensibilité et de spécificité calculées en question 3, quel outil va permettre de
+choisir la valeur seuil permettant d'utiliser I'IRM comme test diagnostique de la stéatose hépatique ?
+Expliquer sa construction et son principe d’interprétation.
+
+Page 2/2

@@ -1,0 +1,137 @@
+88
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° (40 points)
+
+Enoncé
+
+En 2017, une étude de mortalité est initiée dans les régions A et B. Les populations totales sont de 1 million
+d'individus pour la région A et de 1,4 million d'individus pour la région B.
+
+La répartition et les taux spécifiques de mortalité par tranches d'age des populations des régions A et B sont
+présentés dans le tableau n°1 :
+
+Tableau n°1 : Taux de mortalité pour 1000 (tA et tB) et répartition de la population en pourcentage (pA et pB)
+par tranches da age dans | les régions A et B
+
+Région B —
+)_| "(pour 1000)
+
+Par ailleurs en 2017, il est denombré 2000 cas d'infarctus du myocarde (IDM) dans la région A et 2800 dans
+la région B. La méme année, le nombre de décés par IDM est de 700 dans la région A et de 750 dans la
+région B.
+
+Questions
+
+QUESTION N° 1
+
+Calculer les taux bruts de mortalité (TBM) exprimés pour 1000 habitants pour la région A et pour la région B.
+Proposition de réponse
+
+Le taux brut de mortalité (TBM) exprimé pour 1000 habitant est égal a Zpx . tx, soit :
+- pour la région A, TBM-A = 2,016 + 0,57 + 2,04 + 7,2 + 5,352 = 17, 18 pour 1000
+~ pour la region B, TBM-B = 1,892 + 0,558 + 1,704 + 5,202 + 4,525 = 13,88 pour 1000
+
+QUESTION N° 2
+
+Pouvez-vous conclure que la mortalité dans la région A différe de la mortalité dans la région B ? Justifier.
+
+Page 1/3
+88
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° (40 points)
+
+Proposition de réponse
+
+Non, les taux bruts de mortalité ne permettent pas de comparer directement la mortalité observée dans des
+populations de structures en age différentes.
+
+Pour comparer la mortalité de la région A a la mortalité de la région B, il faut calculer les taux standardisés
+de mortalité qui prennent en compte la structure en ge des 2 populations.
+
+QUESTION N° 3:
+
+Définir et calculer les taux de prévalence de I'infarctus du myocarde pour 1000 habitants dans les régions A
+et B.
+
+Propasition de réponse
+
+Le taux de prévalence correspond au rapport entre le nombre de cas d’IDM et l'effectif total de la population
+pendant la période d'étude.
+
+Taux de prévalence dans la Région A : 2000/1000000 = 2 pour 1000
+
+Taux de prévalence dans la Région B : 2800/1400000 = 2 pour 1000
+
+QUESTION N° 4:
+
+Définir et calculer les taux de létalité par IDM (exprimé pour 1000) dans les régions A et B.
+Proposition de réponse
+
+Le taux de létalité correspond au rapport entre le nombre de décés par IDM et le nombre total de cas d'IDM
+dans la population étudiée.
+
+Taux de fetalité dans la région A : 700/2000 = 3,5 pour 1000
+
+Taux de létalité dans la région B : 750/2800 = 2,7 pour 1000
+
+QUESTION N° 5:
+
+On décide de suivre les personnes survivantes d'IDM de la région A (1300 personnes) pendant 5 ans.
+On cherche a verifier I'impact du suivi des recommandations nutritionnelles et d'activité physique sur
+l'incidence des récidives d'IDM.
+
+Dans quel type de prévention (primaire, secondaire ou tertiaire) s'inscrivent ces recommandations ?
+
+Proposition de réponse
+
+Prévention tertiaire
+
+QUESTION N°6:
+
+De quel type d’étude s'agit-il ?
+Page 2/3
+88
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 3 (40 points)
+
+Proposition de réponse
+Etude épidémiologique analytique prospective de type exposés-non exposés.
+
+QUESTION N° 7
+
+Au bout de 5 ans les résultats observés sont les suivants :
+Suivi des recommandations d'activités physiques et nutritionnelles
+
+= IDM [Pas de ré de récidive =
+
+[Suivi strict strict p 157° 157
+
+Pasco —
+
+On considére le groupe de personnes ne suivant aucune des recommandations comme le groupe de
+patients non exposés (soit groupe "pas de suivi").
+
+Calculer le risque relatif avec son intervalle de confiance pour chacun des niveaux de suivi ("strict" et
+"partiel") des recommandations.
+
+Commenter les résultats.
+
+Proposition de réponse
+
+Risque a 5%
+Risque relatif pour le groupe "Suivi strict"
+RR = 45/ (45+157) / 70/ (70+75) = 0,46 IC = [0,34 - 0,63]
+
+Risque reiatif pour le groupe "Suivi partiel”
+RR = 62/ (62+91) / 70/(70+75) = 0,84 IC = [0,65 - 1,09]
+
+Pour le groupe "Suivi Strict", le risque relatif est significativement inférieur a 1 (la valeur 1 n’appartient pas a
+Nintervaile de confiance 4 95%). Ceci est un argument en faveur du caractére protecteur du suivi des
+recommandations (“Suivi strict") vis 4 vis de la récidive de I'IDM.
+
+Pour le groupe "Suivi partiel”, le risque relatif bien qu'inférieur 4 1 n'est pas significativement inférieur a 1 (la
+
+valeur 1 appartient a l'intervalle de confiance a 95%). La recommandation “Suivi partiel" ne peut pas étre
+considérée comme un facteur protecteur du risque de récidive de I'IDM.
+
+Page 3/3

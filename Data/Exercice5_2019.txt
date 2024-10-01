@@ -1,0 +1,86 @@
+82
+
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° 5 (40 points)
+
+WES
+
+Enoncé
+
+Dans le cadre de la politique de Santé Publique, des études ont été conduites afin de mettre en oeuvre
+des actions de prévention du saturnisme.
+
+Ces études ont été réalisées dans une ville comptant plus de 10% d'habitat ancien (c'est-a-dire construit
+avant 1949) et plus de 20 000 habitants.
+
+Dans une premiére étude (Etude 1), il a été demandé aux médecins, sensibilisés au préalable, de prescrire
+une plombémie pour tout enfant vu en consultation entre le 1° janvier et le 31 mars 2016, et présentant,
+selon les déclarations des parents, au moins un des critéres suivants :
+
++ logement dans un habitat ancien
++ présence de peintures au plomb dans I'habitat
+
+* exposition professionnelle au plomb pour au moins un des parents
+* consommation réguliére de tabac pour au moins un des parents.
+
+Les résultats des plombémies mesurées chez les enfants sont présentés dans le Tableau N°1.
+
+Tableau N°1 : Etude 1 - Plombémies mesurées chez les enfants vus entre le 1° janvier et le 31 mars 2016.
+
+smo a Genre}|Habitat
+(années) i
+
+82 WES
+EPREUVE D'EXERCICE D'APPLICATION
+
+Exercice N° 5 (40 points)
+
+Parallélement, une seconde étude (Etude 2) a été réalisée. Tous les enfants présentant des troubles cog-
+nitifs (diagnostic établi selon des criteres de référence) ont été inclus suite a une consultation dans le ser-
+vice de pédiatrie d'un établissement de santé de la ville au cours de l'année 2016. Chaque enfant présen-
+tant des troubles cognitifs a été apparié a un enfant de méme age, de méme sexe, et résidant dans la
+méme ville.
+
+Plusieurs facteurs de risque ont été étudiés (lieu de résidence, professions des parents, consommation de
+tabac dans le foyer et plombémie). Le Tableau N°2 présente la répartition des enfants en fonction de leur
+plombémie et de la présence ou non de troubles cognitifs .
+
+Tableau N°2 : Etude 2 - Répartition des enfants en fonction de la plombémie et des troubles cognitifs
+
+Plombémie strictement supérieure a 100 pg/L
+
+Plombémie comprise entre 50 et 100 yg/L
+
+| Plombémie ‘strictement inférieure €@ 50 pg/L
+
+Questions
+
+QUESTION N° 1:
+Calculer la moyenne et I'écart type de la plombémie des enfants inclus dans l'étude 1 ?
+QUESTION N° 2:
+
+Dans la population de l'étude 1, peut-on mettre en évidence une corrélation linéaire entre la plombéemie
+et l'age des enfants, au risque alpha = 5% ?
+
+QUESTION N° 3:
+
+Dans |'étude 1, les plombémies des enfants résidant dans un habitat ancien (A) sont-elles en moyenne
+différentes (au risque alpha = 5%) des plombémies des enfants résidant dans un habitat récent (R) ?
+
+QUESTION N° 4:
+
+Pour chacune des deux études (Etude 1 et Etude 2) réalisées, indiquer avec précision le type d'enquéte
+épidémiologique.
+
+Question N°S
+
+Dans |'étude 2, peut-on mettre en évidence une association entre les troubles cognitifs et la plombémie
+chez ces enfants ?
+
+Question N°6
+Dans |'étude 2, considérant comme valeur de référence, une plombemie strictement inférieure a 50 ug/L,
+
+calculer pour chacun des autres niveaux de plombémie l'Odd Ratio (OR) et son intervalle de confiance 4 95%.
+Interpréter les résultats.
+
+page 2

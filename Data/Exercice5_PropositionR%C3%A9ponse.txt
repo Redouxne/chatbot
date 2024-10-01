@@ -1,0 +1,136 @@
+82 EXO5_P2018
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° (40 points)
+Enoncé
+Dans le cadre de la politique de Santé Publique, des études ont été conduites afin de mettre en oeuvre des
+actions de prévention du saturnisme.
+Ces études ont été réalisées dans une ville comptant plus de 10% d'habitat ancien (c'est-à-dire construit
+avant 1949) et plus de 20 000 habitants.
+Dans une première étude (Etude 1), il a été demandé aux médecins, sensibilisés au préalable, de prescrire
+une plombémie pour tout enfant vu en consultation entre le 1  janvier et le 31 mars 2016, et présentant,er
+selon les déclarations des parents, au moins un des critères suivants  :
+logement dans un habitat ancien ;
+présence de peintures au plomb dans l'habitat ;
+exposition professionnelle au plomb pour au moins un des parents ;
+consommation régulière de tabac pour au moins un des parents.
+Les résultats des plombémies mesurées chez les enfants sont présentés dans le Tableau N°1.
+ 
+Tableau N°1 : Etude 1 - Plombémies mesurées chez les enfants vus entre le 1  janvier et le 31 mars 2016.er
+EnfantsPlombémie
+(µg /L)Age
+(années)Genre HabitatPeinture au
+plombExposition professionnelle pour au
+moins un des parentsTabagisme pour au moins
+un des parents
+1 15 2 F ancien oui non oui
+2 23 5 F récent non oui non
+3 12 4 M récent non non oui
+4 80 8 M récent non oui non
+5 35 4 F récent non oui oui
+6 89 6 M ancien oui non oui
+7 115 9 F ancien non oui oui
+8 47 2 M récent non oui non
+9 97 10 F ancien oui oui oui
+10 32 4 M récent oui non non
+11 41 7 M récent non oui non
+12 90 8 M récent non non oui
+13 33 4 F ancien non non non
+14 68 9 M ancien oui oui oui
+15 21 2 F récent non non oui
+16 22 3 F récent non non oui
+17 142 10 M ancien oui oui non
+18 112 7 F ancien oui oui oui
+Page 1/582 EXO5_P2018
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° (40 points)
+19 71 4 M  ancien oui oui oui
+20 81 6 M ancien oui oui non
+ 
+Parallèlement, une seconde étude (Etude 2) a été réalisée. Tous les enfants présentant des troubles
+cognitifs (diagnostic établi selon des critères de référence) ont été inclus suite à une consultation dans le
+service de pédiatrie d'un établissement de santé de la ville au cours de l'année 2016. Chaque enfant
+présentant des troubles cognitifs a été apparié à un enfant de même âge, de même sexe, et résidant dans la
+même ville.
+Plusieurs facteurs de risque ont été étudiés (lieu de résidence, professions des parents, consommation de
+tabac dans le foyer et plombémie).  Le Tableau N°2 présente la répartition des enfants en fonction de leur
+plombémie et de la présence ou non de troubles cognitifs .
+ 
+Tableau N°2 :  Etude 2 - Répartition des enfants en fonction de la plombémie et des troubles cognitifs
+ 
+  Présence de troubles cognitifs Absence de troubles cognitifs
+Plombémie strictement supérieure  à 100 µg/L 18 6
+Plombémie comprise entre 50 et 100 µg/L 20 10
+Plombémie strictement
+inférieure à 50 µg/L50 72
+ 
+ 
+Questions
+QUESTION N° 1 :
+Calculer la moyenne et l'écart type de la plombémie des enfants inclus dans l'étude 1 ?
+Proposition de réponse
+moyenne m = 61
+écart type estimé s = 38
+QUESTION N° 2 :
+Dans la population de l'étude 1, peut-on mettre en évidence une corrélation linéaire entre la plombémie et
+l'âge des enfants, au risque alpha = 5% ?
+Proposition de réponse
+Test de corrélation linéaire de Pearson
+Page 2/582 EXO5_P2018
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° (40 points)
+La corrélation linéaire entre la plombémie et l'âge des enfants est significative au risque alpha = 5% dans
+cette population.
+ 
+QUESTION N° 3 :
+Dans l'étude 1, les plombémies des enfants résidant dans un habitat ancien (A) sont-elles en moyenne
+différentes (au risque alpha = 5 %) des plombémies des enfants résidant dans un habitat récent (R) ? 
+Proposition de réponse
+Test de comparaison de deux moyennes observées, échantillons indépendants
+La plombémie moyenne chez les enfants résidant dans un habitat ancien est significativement différente  de
+celle des enfants résidant dans un habitat récent, au risque alpha = 5%.
+ 
+ 
+ 
+ 
+ 
+QUESTION N° 4 :
+Pour chacune des deux études (Etude 1 et Etude 2)  réalisées, indiquer avec précision le type d'enquête
+épidémiologique.
+Proposition de réponse
+Etude 1: Il s'agit d'une enquête épidémiologique descriptive
+Etude 2 : Il s'agit d'une enquête épidémiologique analytique ou étiologique de type cas-témoins
+Page 3/582 EXO5_P2018
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° (40 points)
+rétrospective.
+ 
+QUESTION N° 5 :
+Dans l'étude 2, peut-on mettre en évidence une association entre les troubles cognitifs et la plombémie chez
+ces enfants ?
+Proposition de réponse
+Hypothèse H0 : Indépendance entre les troubles cognitifs et la plombémie dans cette population
+Hypothèse H1 : Liaison entre les troubles cognitifs et la plombémie dans cette population
+Conditions d'application : effectifs théoriques ≥ 5 et observations indépendantes
+ 
+L'association entre les troubles cognitifs et la plombémie est significative au risque alpha = 5% chez ces
+enfants.
+QUESTION N° 6 :
+Dans l'étude 2, considérant comme valeur de référence, une plombémie strictement inférieure à 50 ,µg/L
+calculer pour chacun des autres niveaux de plombémie l'  (OR) et son intervalle de confiance à Odd Ratio
+95%.
+Interpréter les résultats.
+Proposition de réponse
+Pour le niveau d'exposition 50 - 100  : OR = 2,88 et IC 95% = [1,24 - 6,68 ]µg/L
+Pour le niveau d'exposition > 100  : OR = 4,32 et IC 95% = [1,60 - 11,65 ]µg/L
+ 
+Les OR calculés sont significativement > 1 car 1 n'appartient aux IC 95% des OR.
+Les valeurs calculées des OR augmentent avec les valeurs de plombémie. Une relation dose-effet peut être
+évoquée.
+La plombémie peut être considérée comme un facteur de risque des troubles cognitifs observés chez les
+enfants de l'étude 2.
+ 
+ 
+Page 4/582 EXO5_P2018
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° (40 points)
+Page 5/5

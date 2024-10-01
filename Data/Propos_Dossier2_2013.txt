@@ -1,0 +1,48 @@
+DOSSIERS THERAPEUTIQUES ET BIOLOGIQUES - Mai 2013
+PROPOSITIONS DE REPONSES *
+Dossier 2
+REPONSES n°:   1
+La phosphatémie est diminuée (valeurs usuelles : 0,80 - 1,40 mmol/L).  La calcémie  
+totale est diminuée (valeurs usuelles : 2,20 - 2,60 mmol/L). Mais l'interprétation de  
+la calcémie totale doit se faire en tenant compte de la protidémie ou de  
+l'albuminémie (1 g d'albumine fixe environ 0,02 mmol de calcium). 
+Formule tenant compte de l'albumine :
+Calcémie corrigée = Calcémie mesurée + 0,02 (40 - albumine g/L)
+Pour Mme B. : calcémie corrigée = 2,16 mmol/L.
+L'hypocalcémie est confirmée. La détermination de la calcémie ionisée doit être  
+réalisée. 
+REPONSES n°:   2
+Rôle de la vitamine D :
+Stimulation de l'absorption intestinale du calcium et des phosphates.
+Examens complémentaires :
+Une hypocalcémie peut s'observer principalement au cours d'une :
+- hypoparathyroïdie : les phosphates sanguins sont augmentés ;
+- hypovitaminose D :
+* par carence : les phosphates sanguins sont diminués ;
+* par insuffisance rénale chronique : les phosphates sanguins sont augmentés.
+Mme B. présente une hypocalcémie associée à une hypophosphatémie, ce qui exclut  
+théoriquement une hypoparathyroïdie et une insuffisance rénale. Un dosage de 25-OH  
+vitamine D confirmerait la carence en vitamine D. Une carence d'apport par  
+dénutrition semble à l'origine de cette carence car la patiente présente une hypo-
+albuminémie, un indice de masse corporelle = 17,7 Kg/m 2 (IMC = poids/taille 2) et une 
+perte de poids récente. 
+REPONSES n°:   3
+Le dosage pourrait révéler une hyperparathyroïdie secondaire apparaissant pour  
+suppléer la carence en vitamine D et faire remonter la calcémie. La perte osseuse  
+consécutive à cette hyperparathyroïdie aboutit à un risque accru de fracture. 
+REPONSES n°:   4
+Parmi les dérivés de la vitamine D disponibles en thérapeutique, seuls les dérivés  
+non hydroxylés de la vitamine D2 (ergocalciférol) et D3 (cholécalciférol) sont  
+utilisés.
+Chez les sujets âgés dont l'observance thérapeutique est mauvaise, la vitamine D2  
+semble préférable à la vitamine D3 (car la demi-vie de la vitamine D2 est supérieure  
+à celle de la vitamine D3 ce qui autorise des cures plus espacées).
+REPONSES n°:   5
+Principale complication du traitement : hypercalcémie consécutive à un surdosage en  
+vitamine D.  Le suivi biologique sera réalisé par le dosage de la calcémie. REPONSES n°:   6
+La prazosine, antagoniste des récepteurs alpha-adrénergiques (alpha-bloquant), est  
+souvent responsable d'hypotension orthostatique. Le risque est ici augmenté par  
+l'association avec le furosémide, diurétique de l'anse de Henlé. 
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des  
+concours d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils  
+le souhaitent. Les éléments de réponses doivent être considérés pour l'année du concours auxquels ils se rapportent.

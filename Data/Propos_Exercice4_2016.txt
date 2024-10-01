@@ -1,0 +1,48 @@
+E 410 SE4 
+ 
+EPREUVE D’EXERCICES D’APPLICATION – Décembre 2015 
+EXERCICE N° 4 
+PROPOSITIONS DE REPONSES* 
+ 
+*Important : Les propositions de réponses sont donn ées à titre indicatif. Elles n’ont rien d’impératif  
+pour les jurys des concours d’internat en pharmacie  qui restent souverains et libres d’établir les gri lles 
+de correction et de cotation comme ils le souhaiten t. Les éléments de réponses doivent être 
+considérés pour l'année du concours auxquels ils se  rapportent. 
+ 
+ 
+ 
+REPONSES QUESTION N° 1 
+ 
+Enzyme permettant la sortie vers le secteur extrace llulaire du glucose produit à partir du 
+glucose-6-phosphate lors de la glycogénolyse et de la gluconéogenèse dans l’hépatocyte. 
+Localisation : foie (hépatocyte), rein dans le jeun e établi. 
+ 
+ 
+REPONSES QUESTION N° 2 
+a)  
+ 
+ R410 SE4 
+ 
+ 2
+ 
+ 
+ 
+b) Dans la préparation A’, Vmax = (5,25 x 10) / 2 =  26,3 µmol.mL -1min -1  
+ ou (5,22 x 10) / 2 = 26,1 µmol.mL -1min -1 
+ 
+KM ne change pas. 
+ 
+ 
+REPONSES QUESTION N° 3 
+ 
+Pourcentage d’enzyme occupée par S dans la cellule  
+ 
+= (V0/Vmax) x 100 = [(ES) / (E)t] x 100 = [0,2 / (3,06 +  0,2)] x 100 = 6,1 % 
+ Ou [0,2 / (3,09 + 0,2)] x 100 = 6,1 % 
+ 
+ 
+ 
+REPONSES QUESTION N° 4 
+ 
+Vmax  ne change pas # 5,25 µmol.mL -1.min -1 (calcul pouvant être effectué avec 5,22) 
+KM apparent = K M [1 + (I) / ki] = 4 K M # 12,2 µmol.mL -1 

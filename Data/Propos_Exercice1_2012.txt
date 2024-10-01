@@ -1,0 +1,107 @@
+ 
+*Important  : Les propositions de réponses sont données à titre indicatif. Elles  n’ont rien d’impératif pour les jurys des 
+concours d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme 
+ils le souhaitent.  Les éléments de réponses  doivent être considéré s pour l'année du concours  auxquels  ils se rapportent.  
+ 
+ EPREUVE D'EXERCICES D'APPLICATION - Mai 2012  
+ 
+PROPOSITIONS DE REPONSES  
+ 
+Exercice 1  
+ 
+ 
+1 - Comparaison de 2 pourcentages expérimentaux  : échantillons indépendants,  
+effectifs n 1p, n 1q, n 2p, n 2q  5. 
+ 
+)p (p / H)p (pH3 2 1 3 2 0  
+ 
+ 
+calcul du pourcentage commun 
+311,0 q                   0,69n npn pnpc
+3 233 22
+c    
+ 
+   1,645 1,94
+)n1
+n1(qpp pε
+3 2cc3 2
+
+       
+   
+ 
+2 – Comparaison de deux moyennes expérimentales  : échantillons indépendants (n > 30)  
+ 
+)µ (µH / )µ (µH2 1 1 2 1 0  
+ 
+ 
+   1,96  71,0
+s sx xε
+22
+2
+12
+12 1
+
+n n
+       
+ 
+ 
+3 – Calcul des intervalles de confiance  : 
+96,1 k           
+nskxIα 
+  
+ 
+groupe 1  : I1 = [15,8  ; 21,4]             groupe 2  : I2 = [24,5  ; 31,5]             
+ 
+ 
+4 – Groupe 1  : n grand  
+ 
+96,1 29,12
+12
+ n
+rrt
+          la corrélation n’est pas significative  
+ 
+ 
+   
+ Le pourcentage d’hommes dans le gr oupe 2 est 
+supérieur à celui du groupe contrôle  
+La durée de la maladie entre les 2 groupes de malades n’est pas  
+significativement différente   
+*Important  : Les propositions de réponses sont données à titre indicatif. Elles  n’ont rien d’impératif pour les jurys des 
+concours d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme 
+ils le souhaitent.  Les éléments de réponses  doivent être considéré s pour l'année du concours  auxquels  ils se rapportent.  
+ 
+ Groupe 2  : n grand  
+ 
+96,1 57,32
+12
+ n
+rrt
+      
+ 
+Grou pe 3 : il n’y a pas de corrélation linéaire t = 0,097 
+0)(r  entre l’âge du patient et le 
+DRS score.  
+ 
+5 – Comparaison des 2 distributions  : 
+)p (p)/Hpp:i(Hio i 1 io i 0    
+ 
+Allèle  Groupe 1  Groupe2  Groupe 3   
+total Apo E  obs(ni)  théo(ci)  ni ci ni ci 
+2
+ 5 6,5 7 5,5 8 8,0 20 
+3
+ 48 48,1 40 40,7 60 59,2 148 
+4
+ 12 10,4 8 8,8 12 12,8 32 
+total 65 55 80 200 
+ 
+4)  (d.d.l.     9,48 1,15cici) (niΣχ2
+2 
+     
+ 
+ 
+ La corrélation négative est significative  : lorsque l’âge du 
+patient augmente, le DRS score diminue (r < 0)  
+On n e met pas en évidence de lien entre la 
+maladie de Parkinson et le gène de l’Apo E.  

@@ -1,0 +1,88 @@
+E464   SE1 
+ 1 
+ 
+EPREUVE D’EXERCICES D’APPLICATION – Décembre 2015 
+EXERCICE N° 1 
+PROPOSITIONS DE REPONSES* 
+ 
+*Important : Les propositions de réponses sont donn ées à titre indicatif. Elles n’ont rien d’impératif  pour les jurys 
+des concours d’internat en pharmacie qui restent so uverains et libres d’établir les grilles de correct ion et de 
+cotation comme ils le souhaitent. Les éléments de r éponses doivent être considérés pour l'année du con cours 
+auxquels ils se rapportent. 
+ 
+ 
+ 
+REPONSES QUESTION N° 1 
+ 
+ R464  SE1 
+ 2 
+En appliquant la méthode des « résidus », on voit q ue : C = A e -αt + B e -βt 
+D’après le graphique B = 4,8 mg.L-1 
+-1 
+1/2 h  0,087 0,693/8 β        h          8βt = = =  
+en soustrayant aux concentrations observées entre t 0 et t + 4 h les valeurs B e-βt pour chaque t, on obtient : 
+ 
+Temps (h) t
+et
+e BtCAβ α −−=) ( 
+0 h 7,7 = 12,5 – 4,8 
+0,5 h 4,9 = 9,5 – 4,6 
+1 h 3,0 = 7,5 – 4,5 
+2 h 1,2 = 5,4 – 4,2 
+4 h 0,2 = 3,7 – 3,5 
+ 
+Donc C = 7,8 e-0,87+t + 4,8 e-0,087t  
+ 
+1 -
+211 -h  0,87 0,8 0,693   α          h  0,8  α        t mg.L  7,8 A == = =  
+ 
+ 
+REPONSES QUESTION N° 2  
+ 
+Demi-vie d’élimination : 
+T1/2 β = Ln2/0,087 # 8,0 h 
+ 
+Demi-vie de distribution : 
+T1/2 α = Ln2/0,87 = 0,8 h 
+ 
+ASC (aire sous la courbe des concentrations en fonc tion du temps) = B/ β + A/ α = 55,17 + 8,96 = 64,13 mg.L -1 .h 
+ 
+Cl = Dose / ASC = 3,9 L.h -1 
+ 
+(Vd β ou Varea) = Cl / β = 44,8 L 
+ 
+ 
+REPONSES QUESTION N° 3  
+ 
+ 
+Cl rénale = fe x Cl (où fe est la fraction de la do se IV éliminée inchangée dans les urines à l’ « inf ini ») 
+Ici, les urines ont été recueillies pendant 24 heur es 
+Si on considère que fe = 33 mg/250 mg = 0,13, Cl ré nale = 0,13 x 3,9 = 0,51 L.h -1 
+La clairance rénale est en fait un peu plus élevée car au temps 24 h, les concentrations dans l’organi sme ne sont pas 
+encore complètement négligeables (C t = 24 h = 0,6 mg.L-1) et donc fe sera > 0,13 
+ 
+Ici, les urines ont été recueillies pendant 24 heur es avec concentration à 24 h << concentration initi ale 
+Autre calcul possible : 
+ASC 0 ->24h = ASC – C 24h /β = 57,0 mg.L -1.h ; Ae 24h quantité éliminée dans les urines durant 24 h 
+Clrénale = Ae 24h / ASC 0 ->24h = 0,58 L.h -1 ; valeur “exacte” (ni sur- , ni sous-estimation) 
+ 
+ 
+ 
+ R464  SE1 
+ 3REPONSES QUESTION N° 4  
+ 
+F = (ASC oral /ASC IV ) x D IV /D orale  = 61/64,1 x 250/500 = 0,47 = 47 % 
+Cl non rénale =  Cl – Clrénale = 3,9 – 0,5 = 3,4 L. h-1 
+(En faisant l’hypothèse que cette clairance non rén ale correspond à la clairance hépatique) le coeffic ient d’extraction 
+hépatique, E H, est égal à CLnon rénale / Q H où Q H représente le débit sanguin hépatique (90 L.h-1) soit 4 %. Cette 
+valeur est très inférieure à ce qui n’a pas été abs orbé (1 – F = 53 %) ; l’effet de 1 er  passage hépatique, très faible pour 
+ce médicament, n’explique donc pas la valeur incomp lète de biodisponibilité par voie orale.  
+ 
+Autre réponse possible : 
+Le coefficient d’extraction hépatique ne peut pas ê tre calculé car les concentrations sanguines ne son t 
+pas indiquées, or : E H = Cl sanguine  / Q H 
+(commentaire additionnel non attendu : en considéra nt l’hématocrite proche de 50%, les concentrations 
+érythrocytaires en médicament ne pouvant pas être i nférieures à 0, valeur minimale de ASC sanguine  est 
+ASC (plasmatique)/ 2 ; donc valeur maximale de Cl sanguine  est 2 x Cl ; donc EH < 8% ; donc l’effet de 1 er  
+passage hépatique n’explique pas la valeur incomplè te de la biodisponibilité par voie orale). 
+ 

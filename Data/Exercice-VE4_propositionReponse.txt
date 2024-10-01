@@ -1,0 +1,144 @@
+74 EX04-2017R
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N°/, (40 points)
+
+Enoncé
+
+AZACTAM® (Aztréonam) : Extrait d'aprés le RCP - partie Pharmacocinétique
+
+* Distribution
+
+- Concentrations sériques chez le sujet sain
+
+. Voie intramusculaire : aprés injection de 1 gramme, le pic sérique atteint au bout d'une heure est de 46
+microgrammes/mIL Les taux sériques restent supérieurs a 4 microgrammes/mL pendant huit heures et a 1
+microgramme/mL pendant douze heures.
+
+. Voie intraveineuse : [...] Douze heures aprés une injection de 1 ou 2 grammes, les taux résiduels sont
+respectivement de l'ordre de 0,9 0u1,8 microgrammes/mL [...].
+
+. ‘administration de doses réitérées toutes les huit heures pendant 7 jours n'entraine pas d'accumulation
+sérique.
+
+- Demi-vie plasmatique : 1,7 heure en moyenne indépendamment de la dose et de la voie d'administration.
+
+- Diffusions humorale et tissulaire : ‘aztreonam diffuse dans tous les secteurs de l'organisme (liquides
+biologiques et tissus).
+
+[...]
+
+- Liaison aux protéines plasmatiques : 56 pour cent.
+
+* Biotransformation
+L'aztréonam est faiblement métabolisé. 87 pour cent sont éliminés sous forme inchangée par le rein et en
+faible proportion par la bile sous forme inchangée. Les métabolites sont inactifs.
+
+Questions
+QUESTION N° 1:
+
+La pharmacocinétique de l’aztréonam est-elle linéaire ? Justifier votre réponse.
+
+Propasition de réponse
+Un modeéle pharmacocinétique linéaire (ou d’ordre 1) pourrait décrire I’élimination de l’aztreonam car :
+
+* Le temps de demi-vie plasmatique de l’aztréonam est indépendant de la dose administrée et de la
+voie employée c’est-a-dire constant.
+
+* La concentration plasmatique aprés l’administration de 1 et 2 g sont respectivement de 0,9 et 1,8
+mg/L. Donc la concentration plasmatique est proportionnelle a la dose administrée.
+
+Page 1/3
+74 EX04-2017R
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N°4 (40 points)
+
+QUESTION N° 2:
+
+Sachant que le modéle pharmacocinétique est monocompartimental, calculer :
+- la concentration initiale C, aprés une administration IV de 2 g ;
+- le volume de distribution (Vd).
+
+Proposition de réponse
+
+La variation de concentration en fonction du temps est :
+C(t) = Cy: eket
+
+ke = Ln2/t,,. = 0,693/1,7 = 0,4077 h"!
+
+Aprés une injection de 2 g en IV at = 12 h C=1,8 pg/mL
+Co= C(t) / eK = 239,9 gimL
+
+Vd = D/C, = 2000/239,9 = 8,34 L
+
+QUESTION N° 3:
+
+a. Calculer la clairance plasmatique totale et la clairance rénale de ce médicament.
+
+b. Dans I'hypothése ou ces résultats ont été obtenus chez un sujet dont la clairance de la créatinine est de
+60 mL/min, I'aztréonam est-il préférentiellement réeabsorbé ou sécrété au niveau tubulaire ? Justifier votre
+réponse.
+
+Proposition de réponse
+
+a.
+- Clairance plasmatique totale :
+Cl=k, Vy
+Cl = 0.4077 . 8,34 = 3,40 L/h = 56,7 mL/min
+
+- Clairance rénale = 0,87 . 56,7 = 49,33 mL/min
+
+b. Cl filtration glomérulaire = fu. DFG =(4- 0,56) . 60 = 26,4 mL/min, si fu = fraction libre du médicament
+U'aztréonam est donc plus sécrété que réabsorbé.
+
+QUESTION N° 4:
+
+Un patient atteint de mucoviscidose doit étre traité pour une infection bronchique a Pseudomonas
+aeruginosa . On cherche a maintenir la concentration plasmatique supérieure 4 49 mg/L pour pouvoir
+atteindre une concentration suffisante dans les secrétions bronchiques en utilisant des injections IV de 2 g
+répétées toutes les 12 heures.
+
+A |'équilibre, quelles sont les concentrations plasmatiques maximale et minimale ?
+
+Proposition de réponse
+
+Le facteur d'accumulation R = 1/(1-e “Kei ) of T est I'intervalle entre les injections = 1,008
+Cssmax = R x Cy = 239,9 x 1,008 = 241,8 mg/L
+
+Page 2/3
+74 EX04-2017R
+
+EPREUVE D'EXERCICE D'APPLICATION
+Exercice N° }; (40 points)
+
+Cssmin = Cssmax . e*®7 = 1,81 mg/L
+QUESTION N° 5:
+
+a. Une fois |’état d’équilibre atteint, pendant combien de temps entre 2 injections IV de 2 g toutes les
+12 heures obtient-on la concentration efficace ( > 49 mg/L) ?
+
+b. En quoi cette donnée est-elle importante pour ce type d’antibiotique ? Le schéma thérapeutique
+proposé vous parait-il optimal ? Justifier votre reponse et proposer une éventuelle
+modification (principe de modification sans calcul).
+
+Proposition de réponse
+
+a. Al’équilibre, entre 2 administrations
+
+C(t) = Cssmax . eet
+
+Soit Ln C(t) = Ln Cssmax — ke.t
+
+Donc t= Ln (Cssmax/ C(t)) / ke
+
+Durée t telle que C(t) soit supérieure 4 49 mg/L
+
+t= Ln (Cssmax/ 49) / 0,4077 = Ln (241,8 / 49) / 0,4077 = 3,92 heures
+
+b] L'aztreonam est une B-lactamine dont I'efficacité est temps-dépendante. C’est le temps de contact de cet
+antibiotique avec la bactérie a une concentration efficace qui doit étre le plus long possible, sinon il y a un
+risque d’inefficacité et de sélection de souches résistantes.
+
+I faut allonger ce temps. Ici, il ne représente que 3,92 heures sur 12 heures. Ce temps pourrait étre allongé
+en rapprochant les injections (3 ou 4 fois par jour), voire envisager une perfusion IV continue.
+
+Page 3/3
