@@ -1,0 +1,65 @@
+CONCOURS D'INTERNAT EN PHARMACIE- EPREUVE Q.C.M – C oncours Décembre 2à&5 
+--------------------------------------------------- --------- 
+! CAHIER ! QUESTION ! TYPE QCM !  REPONSE  !  ANNUL ATION   ! 
+!--------!----------!----------!-----------!------- --------! 
+!   1    !   001    ! Simple   !         E !               ! 
+!   1    !   002    ! Simple   ! A         !               ! 
+!   1    !   003    ! Simple   !     C     !               ! 
+!   1    !   004    ! Simple   !     C     !               ! 
+!   1    !   005    ! Simple   ! A         !               ! 
+!   1    !   006    ! Simple   !       D   !               ! 
+!   1    !   007    ! Simple   !   B       !               ! 
+!   1    !   008    ! Simple   !     C     !               ! 
+!   1    !   009    ! Simple   !     C     !               ! 
+!   1    !   010    ! Simple   !     C     !               ! 
+!   1    !   011    ! Simple   !     C     !               ! 
+!   1    !   012    ! Simple   ! A         !               ! 
+!   1    !   013    ! Simple   !         E !               ! 
+!   1    !   014    ! Simple   !   B       !               ! 
+!   1    !   015    ! Simple   !   B       !               ! 
+!   1    !   016    ! Multiple ! A       E !               ! 
+!   1    !   017    ! Multiple ! A       E !               ! 
+!   1    !   018    ! Multiple !   B   D   !               ! 
+!   1    !   019    ! Multiple !   B     E !               ! 
+!   1    !   020    ! Multiple !   B     E !               ! 
+!   1    !   021    ! Multiple ! A B C D   !               ! 
+!   1    !   022    ! Multiple !   B C   E !               ! 
+!   1    !   023    ! Multiple ! A B C     !               ! 
+!   1    !   024    ! Multiple !   B   D   !               ! 
+!   1    !   025    ! Multiple !   B C D   !               ! 
+!   1    !   026    ! Multiple ! A B     E !               ! 
+!   1    !   027    ! Multiple !   B C   E !               ! 
+!   1    !   028    ! Multiple !   B     E !               ! 
+!   1    !   029    ! Multiple ! A     D E !               ! 
+!   1    !   030    ! Multiple ! A     D E !               ! 
+!   1    !   031    ! Multiple ! A B     E !               ! 
+!   1    !   032    ! Multiple ! A B C   E !               ! 
+!   1    !   033    ! Multiple !     C     !               ! 
+!   1    !   034    ! Multiple ! A   C D E !               ! 
+!   1    !   035    ! Multiple !   B     E !               ! 
+!   1    !   036    ! Multiple ! A   C   E !               ! 
+!   1    !   037    ! Multiple ! A   C D   !               ! 
+!   1    !   038    ! Multiple ! A B C D   !               ! 
+!   1    !   039    ! Multiple !     C D E !               ! 
+!   1    !   040    ! Multiple ! A       E !               ! 
+!   1    !   041    ! Multiple ! A   C D E !               ! 
+!   1    !   042    ! Multiple !   B C D E !               ! 
+!   1    !   043    ! Multiple ! A   C D E !               ! 
+!   1    !   044    ! Multiple ! A   C     !               ! 
+!   1    !   045    ! Multiple ! A B C     !               ! 
+!   1    !   046    ! Multiple !   B C     !               ! 
+!   1    !   047    ! Multiple !     C D E !               ! 
+!   1    !   048    ! Multiple ! A B   D   !               ! 
+!   1    !   049    ! Multiple ! A   C   E !               ! 
+!   1    !   050    ! Multiple !   B   D   !               ! 
+!   1    !   051    ! Multiple ! A B C   E !               ! 
+!   1    !   052    ! Multiple !   B   D   !               ! 
+!   1    !   053    ! Multiple ! A   C D E !               ! 
+!   1    !   054    ! Multiple ! A       E !               ! 
+!   1    !   055    ! Multiple !   B C D   !               ! 
+!   1    !   056    ! Multiple !     C   E !               ! 
+!   1    !   057    ! Multiple ! A   C     !               ! 
+!   1    !   058    ! Multiple ! A     D E !               ! 
+!   1    !   059    ! Multiple ! A B C D   !               ! 
+!   1    !   060    ! Multiple ! A B C   E !               ! 
+--------------------------------------------------- ---------  

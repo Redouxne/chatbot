@@ -1,0 +1,68 @@
+CONCOURS D'INTERNAT EN PHARMACIE - EPREUVE Q.C.M Concours Mai 2012    
+REPONSES PROPOSEES  
+------------------------------------------------------------  
+! CAHIER ! QUESTION ! TYPE QCM !  REPONSE  !  ANNULATION   !  
+!-------- !---------- !---------- !----------- !--------------- ! 
+!   1    !   001    ! Simple   !       D   !               !  
+!   1    !   002    ! Simple   !   B       !               !  
+!   1    !   0 03    ! Simple   !         E !               !  
+!   1    !   004    ! Simple   !     C     !               !  
+!   1    !   005    ! Simple   !       D   !               !  
+!   1    !   006    ! Multiple ! A   C     !               !  
+!   1    !   007    ! Mult iple !     C D E !               !  
+!   1    !   008    ! Multiple ! A   C D   !               !  
+!   1    !   009    ! Multiple !   B C   E !               !  
+!   1    !   010    ! Multiple ! A   C     !               !  
+!   1    !   011    ! Multiple !   B   D   !               !  
+!   1    !   012    ! Multiple !   B C   E !               !  
+!   1    !   013    ! Multiple !   B C D E !               !  
+!   1    !   014    ! Multiple ! A   C D E !               !  
+!   1    !   015    ! Multiple ! A   C D   !               ! 
+!   1    !   016    ! Multiple ! A B C D E !               !  
+!   1    !   017    ! Multiple ! A B   D   !               !  
+!   1    !   018    ! Multiple ! A   C D   !               !  
+!   1    !   019    ! Multiple ! A B   D   !               !  
+!   1    !   020    ! Multiple !   B   D   !               !  
+!   1    !   021    ! Multiple ! A B       !               !  
+!   1    !   022    ! Multiple !     C   E !               !  
+!   1    !   023    ! Multiple ! A B C     !               !  
+!   1    !   024    ! Multiple ! A B   D   !               !  
+!   1    !   025    ! Multiple ! A B     E !               !  
+!   1    !   026    ! Multiple !   B C D   !               !  
+!   1    !   027    ! Multiple ! A       E !               !  
+!   1    !   028    ! M ultiple ! A B C D   !               !  
+!   1    !   029    ! Multiple !     C D   !               !  
+!   1    !   030    ! Multiple ! A B C D   !               !  
+!   1    !   031    ! Multiple !   B   D E !               !  
+!   1    !   032    ! Multiple ! A B   D   ! NB : l'item E de la QCM a été supprimée  
+!   1    !   033    ! Multiple ! A   C     !               !  
+!   1    !   034    ! Multiple !   B C D   !               !  
+!   1    !   035    ! Multiple !   B C D E !               !  
+!   1    !   036    ! M ultiple !   B   D   !               !  
+!   1    !   037    ! Multiple ! A B   D   !               !  
+!   1    !   038    ! Multiple !   B     E !               !  
+!   1    !   039    ! Multiple !   B   D   !               !  
+!   1    !   040    ! Multiple !   B C     !               !  
+!   1    !   041    ! Multiple ! A B     E !               !  
+!   1    !   042    ! Multiple ! A B C     !               !  
+!   1    !   043    ! Multiple ! A B     E !               !  
+!   1    !   044    ! Multiple !     C D E !               ! 
+!   1    !   045    ! Multiple ! A B C     !               !  
+!   1    !   046    ! Multiple ! A B   D   !               !  
+!   1    !   047    ! Multiple ! A B       !               !  
+!   1    !   048    ! Multiple !   B C   E !               ! 
+!   1    !   049    ! Multiple !   B C   E !               !  
+!   1    !   050    ! Multiple !     C   E !               !  
+!   1    !   051    ! Multiple !   B C D   !               !  
+!   1    !   052    ! Multiple !   B   D E !               !  
+!   1    !   053    ! Multiple !   B C D E !               !  
+!   1    !   054    ! Multiple ! A   C D   !               !  
+!   1    !   055    ! Multiple ! A B   D E !               !  
+!   1    !   056    ! Multiple !       D E !               !  
+!   1    !   057    ! Multiple ! A   C D   !               !  
+!   1    !   058    ! Multiple !       D E !               !  
+!   1    !   059    ! Multiple ! A   C D E !               !  
+!   1    !   060    ! Multiple ! A   C     !               !  
+------------------------ ------------------------------------  
+*Important  : Les propositions de réponses sont données à titre indicatif. Elles  n’ont rien d’impératif pour les jurys des concours 
+d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils le souhaitent.  

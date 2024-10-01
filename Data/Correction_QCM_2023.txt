@@ -1,0 +1,61 @@
+Question Type QCM
+1 Simple E
+2 Simple E
+3 Simple D
+4 Simple B
+5 Simple C
+6 Simple E
+7 Simple D
+8 Simple E
+9 Simple B
+10 Simple D
+11 Multiple A E
+12 Multiple B C D E
+13 Multiple A C D
+14 Multiple B
+15 Multiple A B D
+16 Multiple A B E
+17 Multiple A C E
+18 Multiple C D E
+19 Multiple A D E
+20 Multiple A B D E
+21 Multiple B E
+22 Multiple B D
+23 Multiple B C
+24 Multiple A B C E
+25 Multiple A D
+26 Multiple A B
+27 Multiple A D
+28 Multiple C D
+29 Multiple A B
+30 Multiple A C D
+31 Multiple A C
+32 Multiple D
+33 Multiple A B C E
+34 Multiple C E
+35 Multiple B D
+36 Multiple A C D E
+37 Multiple D E
+38 Multiple B D E
+39 Multiple A B C D E
+40 Multiple B C D
+41 Multiple A E
+42 Multiple A C
+43 Multiple A B C
+44 Multiple C D
+45 Multiple A B C D
+46 Multiple
+47 Multiple A B D
+48 Multiple B C D
+49 Multiple A C Dréponse(s) exacte(s)
+annulée50 Multiple A C
+51 Multiple A C E
+52 Multiple B C D
+53 Multiple A B D
+54 Multiple A B C E
+55 Multiple A C D E
+56 Multiple A B C
+57 Multiple A D E
+58 Multiple A B C
+59 Multiple A C D
+60 Multiple B D

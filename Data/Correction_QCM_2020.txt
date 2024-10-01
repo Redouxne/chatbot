@@ -1,0 +1,60 @@
+Question Type QCM A B C D E
+1Simple C
+2Simple B
+3Simple
+4Simple E
+5Simple E
+6Simple D
+7Simple C
+8Simple C
+9Simple B
+10Simple B
+11Multiple A D E
+12Multiple A C D E
+13Multiple A B D
+14Multiple B C E
+15Multiple D
+16Multiple A B E
+17Multiple B C
+18Multiple A E
+19Multiple A B D E
+20Multiple A C
+21Multiple B C D
+22Multiple A B C D E
+23Multiple A C
+24Multiple A
+25Multiple A B E
+26Multiple B D
+27Multiple B C D
+28Multiple A B C D
+29Multiple B C
+30Multiple B C
+31Multiple A B C E
+32Multiple C D E
+33Multiple A B
+34Multiple A B C D
+35Multiple B E
+36Multiple B D E
+37Multiple A D E
+38Multiple A C D E
+39Multiple B E
+40Multiple C D E
+41Multiple A B C D E
+42Multiple B C D
+43Multiple A C D E
+44Multiple B E
+45Multiple A B D E
+46Multiple C D E
+47Multiple A E
+48Multiple B C D
+49Multiple A CAnnulée50Multiple B C D E
+51Multiple A B E
+52Multiple A B C
+53Multiple B D
+54Multiple C D
+55Multiple A B C
+56Multiple B C E
+57Multiple C E
+58Multiple B D
+59Multiple A C
+60Multiple C D E

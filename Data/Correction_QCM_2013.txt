@@ -1,0 +1,67 @@
+CONCOURS D'INTERNAT EN PHARMACIE - EPREUVE Q.C.M Concours Mai 2013  
+REPONSES PROPOSEES*
+! CAHIER ! QUESTION ! TYPE QCM !  REPONSE  !  ANNULATION   !
+!--------!----------!----------!-----------!---------------!
+!   1    !   001    ! Simple   !       D   !               !
+!   1    !   002    ! Simple   !       D   !               !
+!   1    !   003    ! Simple   !       D   !               !
+!   1    !   004    ! Simple   !         E !               !
+!   1    !   005    ! Simple   !     C     !               !
+!   1    !   006    ! Simple   !   B       !               !
+!   1    !   007    ! Simple   !   B       !               !
+!   1    !   008    ! Simple   !       D   !               !
+!   1    !   009    ! Simple   !       D   !               !
+!   1    !   010    ! Simple   !       D   !               !
+!   1    !   011    ! Simple   !     C     !               !
+!   1    !   012    ! Simple   !     C     !               !
+!   1    !   013    ! Multiple !       D   !               !
+!   1    !   014    ! Multiple ! A B     E !               !
+!   1    !   015    ! Multiple !     C     !               !
+!   1    !   016    ! Multiple ! A       E !               !
+!   1    !   017    ! Multiple ! A B   D   !               !
+!   1    !   018    ! Multiple ! A     D   !               !
+!   1    !   019    ! Multiple !       D E !               !
+!   1    !   020    ! Multiple ! A     D   !               !
+!   1    !   021    ! Multiple ! A   C D   !               !
+!   1    !   022    ! Multiple ! A     D E !               !
+!   1    !   023    ! Multiple ! A B C     !               !
+!   1    !   024    ! Multiple ! A B   D E !               !
+!   1    !   025    ! Multiple ! A B C     !               !
+!   1    !   026    ! Multiple !   B C     !               !
+!   1    !   027    ! Multiple ! A B C   E !               !
+!   1    !   028    ! Multiple !     C   E !               !
+!   1    !   029    ! Multiple !     C D   !               !
+!   1    !   030    ! Multiple !   B C   E !               !
+!   1    !   031    ! Multiple !     C D   !               !
+!   1    !   032    ! Multiple ! A B   D E !               !
+!   1    !   033    ! Multiple !   B C     !               !
+!   1    !   034    ! Multiple !     C D E !               !
+!   1    !   035    ! Multiple !   B   D   !               !
+!   1    !   036    ! Multiple ! A B C   E !               !
+!   1    !   037    ! Multiple ! A B       !               !
+!   1    !   038    ! Multiple ! A   C D   !               !
+!   1    !   039    ! Multiple ! A B C   E !               !
+!   1    !   040    ! Multiple !       D E !               !
+!   1    !   041    ! Multiple ! A B   D E !               !
+!   1    !   042    ! Multiple !   B     E !               !
+!   1    !   043    ! Multiple !   B   D   !               !
+!   1    !   044    ! Multiple ! A   C     !               !
+!   1    !   045    ! Multiple !   B C   E !               !
+!   1    !   046    ! Multiple !   B C   E !               !
+!   1    !   047    ! Multiple ! A     D E ! NB: l'item C a été neutralisé  
+!   1    !   048    ! Multiple !       D E !               !
+!   1    !   049    ! Multiple !   B       !               !
+!   1    !   050    ! Multiple ! A   C D   !               !
+!   1    !   051    ! Multiple ! A   C D   !               !
+!   1    !   052    ! Multiple !       D E !               !
+!   1    !   053    ! Multiple ! A   C D E !               !
+!   1    !   054    ! Multiple ! A B   D E !               !
+!   1    !   055    ! Multiple ! A     D   !               !
+!   1    !   056    ! Multiple ! A     D E !               !
+!   1    !   057    ! Multiple !   B C D E ! NB : l'item A a été neutralisé  
+!   1    !   058    ! Multiple ! A     D E !               !
+!   1    !   059    ! Multiple ! A       E !               !
+!   1    !   060    ! Multiple !   B   D   !               !
+------------------------------------------------------------
+*Important : Les propositions de réponses sont données à titre indicatif. Elles n’ont rien d’impératif pour les jurys des concours  
+d’internat en  pharmacie qui restent souverains et libres d’établir les grilles de correction et de cotation comme ils le souhaitent.
