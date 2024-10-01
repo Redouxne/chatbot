@@ -1,4 +1,5 @@
 openai
-llama-index
 streamlit
 requests
+langchain
+llama-index-core
