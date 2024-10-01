@@ -1,0 +1,84 @@
+1567 DTB4_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+Enoncé
+Madame F., 44 ans, est amenée aux urgences par le SAMU pour une tentative d'autolyse médicamenteuse.
+ll y a 1 heure environ à son retour du travail, son mari la retrouve inanimée, sur le sol de la salle à manger.
+Plusieurs boîtes vides de clomipramine et de bromazépam ont été retrouvées sur la table de cette pièce.
+Il n'a pas été possible d'évaluer la quantité de médicaments ingérés.
+L'examen clinique réalisé par le médecin des urgences montre un état comateux peu réactif, calme, sans
+déficit moteur périphérique. Il existe une mydriase bilatérale peu réactive. La fréquence cardiaque est de 100
+battements/min, la fréquence respiratoire de 14 cycles/min, la pression artérielle à 95/70 mm de Hg et la
+température corporelle à 37,0°C.
+Le résultat de la recherche dans le sang d'antidépresseurs tricycliques et de benzodiazépines est positif.
+Questions
+QUESTION N° 1 :
+A quel syndrome peut être rattachée la mydriase constatée chez Madame F. ?
+Quelle classe thérapeutique peut être responsable de ce syndrome ?
+Quels signes cliniques sont susceptibles de se manifester dans le cadre de ce syndrome ?
+Proposition de réponse
+C'est un syndrome anticholinergique ou " " observé avec les antidépresseurs tricycliques de type atropine-like
+imipraminique.
+Le syndrome anticholinergique est un syndrome précoce, d'intérêt diagnostique, caractérisé par :
+- mydriase,
+- sécheresse des muqueuses (bouche, œil),
+- troubles de la conscience,
+- rétention urinaire,
+- constipation,
+- tachycardie sinusale.
+QUESTION N° 2 :
+Quels sont les principaux troubles neurologiques qui peuvent être rencontrés dans une intoxication par la
+clomipramine prise isolément ? Sont-ils identiques ou différents lors d'intoxication mixte (clomipramine et
+bromazépam) dans ce cas ?
+Proposition de réponse
+Dans le cas d'une intoxication pure par clomipramine, on observe habituellement un coma peu profond,
+agité, avec syndrome pyramidal (hypertonie, hyper-réflexie, signe de Babinski bilatéral), des convulsions.
+Les signes neurologiques diffèrent selon qu'il s'agit d'une intoxication pure imipraminique ou d'une
+Page 1/31567 DTB4_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+poly-intoxication médicamenteuse.
+Dans le cas de l'intoxication par association d'imipraminique et de benzodiazépine, on observe un coma
+calme, hypotonique, avec hyporéflexie et de rares convulsions.
+QUESTION N° 3 :
+Quels sont les signes cardiaques qui peuvent être redoutés chez Madame F. ?
+A quel(s) médicament(s) peuvent-ils être attribués ?
+Proposition de réponse
+- Les imipraminiques sont des toxiques myocardiques directs qui sont responsables de modifications de
+l'ECG (tachycardie sinusale, troubles de la conduction par effet stabilisant de membrane = allongement de
+l'espace QT et du complexe QRS, troubles de l'excitabilité = extrasystoles ventriculaires, tachycardie,
+fibrillation ventriculaire).
+- En outre, ils peuvent entraîner des troubles hémodynamiques (hypotension artérielle, collapsus
+cardiovasculaire, choc cardiogénique, arrêt cardiorespiratoire possible).
+QUESTION N° 4 :
+Peu de temps après sa prise en charge médicale, des troubles cardiaques apparaissent brutalement chez
+Madame F.
+En parallèle du traitement de ces troubles cardiaques, quelles sont les grandes lignes du traitement
+symptomatique d'urgence et du suivi cardiaque à mettre en oeuvre dans le cas de Madame F. ?
+Proposition de réponse
+Les grandes lignes du traitement symptomatique d'urgence sont :
+- administration d'un soluté de remplissage (si hypovolémie, choc circulatoire) et de catécholamines (si
+collapsus)
+- monitoring cardiaque (ECG)
+- oxygénation au masque, si besoin intubation
+- mise en place d'une sonde vésicale si besoin
+ 
+ 
+ 
+Page 2/31567 DTB4_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+QUESTION N° 5 :
+L'interne en médecine évoque l'administration en urgence de l'andidote du bromazépam.
+Quel est cet antidote ? Quel est son mécanisme d'action ?
+Ce traitement est-il adapté dans le cas de Madame F. ? Justifier.
+Proposition de réponse
+L'antidote des benzodiazépines est le flumazénil.
+C'est un antagoniste pur et spécifique des benzodiazépines au niveau des récepteurs cérébraux, sans effet
+pharmacologique propre (administré par voie IV).
+ 
+L'administration de flumazénil est donc contre-indiquée dans le cas de Madame F.
+Dans le cas d'une intoxication polymédicamenteuse associant une benzodiazépine et un antidépresseur
+tricyclique, l'antagonisme de l'effet des benzodiazépines par le flumazénil peut favoriser la survenue de
+crises convulsives et de troubles du rythme (notamment ventriculaires).
+Page 3/3

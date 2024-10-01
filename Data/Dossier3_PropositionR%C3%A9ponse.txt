@@ -1,0 +1,76 @@
+1536 DTB3_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+Enoncé
+Mme H., française de 32 ans, est en mission au Vietnam depuis 2 mois pour une association humanitaire.
+Avant son départ, elle a été vaccinée contre la grippe saisonnière. Pour son travail, elle fréquente souvent
+les marchés où elle est au contact de différentes espèces animales (volailles, rongeurs). Depuis 48 heures
+elle a une fièvre à 40°C, des myalgies, des céphalées et une dyspnée. Devant la dégradation de son état
+clinique, elle est hospitalisée.
+Questions
+QUESTION N° 1 :
+A quelle famille appartiennent les virus grippaux ?
+Quels sont les différents genres des virus grippaux infectant l'Homme ?
+Quel est le genre impliqué dans les pandémies ?
+Proposition de réponse
+Les virus grippaux appartiennent à la famille des . Orthomyxoviridae
+Trois genres de virus grippaux infectent l'Homme : les  A, B et C. Influenzavirus
+Les virus du genre  A sont impliqués dans les pandémies. Influenzavirus
+QUESTION N° 2 :
+Décrire la structure des particules de virus grippaux.
+Proposition de réponse
+- Le génome est constitué de 7 ou 8 segments d'ARN monocaténaire de polarité négative. Chaque segment est
+entouré d'une capside de symétrie hélicoïdale.
+- Sur sa partie interne, l'enveloppe est tapissée de protéine de matrice M1.
+- Ces virus sont enveloppés. Trois types de protéines sont enchassés dans l'enveloppe : l'hémagglutinine, la
+neuraminidase et la protéine M2.
+ 
+QUESTION N° 3 :
+Expliquer la nature des variations génétiques des virus grippaux.
+Proposition de réponse
+Variations génétiques :
+- réassortiments génomiques (échanges de segments) conduisant à l'expression de nouvelles
+hémagglutinines et/ou neuraminidases ;
+- mutations sur les différents segments conduisant potentiellement à des variations antigéniques pouvant
+Page 1/31536 DTB3_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+s'accumuler avec le temps.
+QUESTION N° 4 :
+Quelles sont les conséquences de ces variations génétiques sur l'épidémiologie des infections par les virus
+grippaux ?
+Proposition de réponse
+Deux types de conséquences :
+- Evolution progressive des antigènes de surface des souches responsables des épidémies annuelles (une
+immunité partielle persiste dans la population) ;
+- Acquisition de nouvelles protéines de surface des souches responsables de pandémies du fait de
+l'absence d'immunité de la population.
+QUESTION N° 5 :
+Dans le cas de Mme H., quel diagnostic doit être évoqué ? Justifier.
+Quels prélèvements sont à réaliser pour en faire le diagnostic ?
+Quelles techniques de diagnostic seront mises en oeuvre sur ces échantillons biologiques ?
+Proposition de réponse
+Le diagnostic de grippe aviaire doit être évoqué chez Mme H. du fait de la localisation géographique, de
+l'exposition (volailles), de la vaccination pour la grippe communautaire et du syndrome grippal sévère.
+ 
+Les prélèvements sont :
+- Prélèvements respiratoires de sécrétions nasopharyngées ou de liquide de lavage broncho-alvéolaire.
+ 
+Les techniques de diagnostic mises en oeuvre sont :
+- recherche d'antigènes viraux (par immunofluorescence, immuno-enzymologie ou immunochromatographie )
+;
+- recherche du génome viral par PCR (RT-PCR ou PCR-multiplexe) sur les mêmes types de prélèvements.
+Les deux types de méthodes permettent de sous-typer les souches de virus grippaux.
+ 
+(La sérologie n'a pas d'indication dans le diagnostic de grippe)
+QUESTION N° 6 :
+Quels sont les antiviraux pouvant être proposés à cette patiente ?
+Quel est leur mécanisme d'action ? Quand doit être instauré ce traitement ?
+Proposition de réponse
+Traitement : oseltamivir (Tamiflu ) ou zanamivir (Relenza )® ®
+Page 2/31536 DTB3_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+Mécanisme d'action : agents inhibiteurs de la neuraminidase virale qui sont actifs sur les virus influenza A et
+B. Traitement à instaurer dans les 24-48 h après l'apparition des premiers symptômes cliniques.
+Page 3/3

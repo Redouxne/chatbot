@@ -1,0 +1,77 @@
+1615 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Enoncé
+Mademoiselle C., 19 ans, se présente aux urgences pour une fièvre à 39 °C apparue brutalement et
+persistant depuis trois jours ainsi que de très volumineuses adénopathies sous-maxillaires et cervicales
+bilatérales. La patiente est très asthénique. A la palpation, les adénopathies sont douloureuses. L'examen
+clinique ne révèle pas d'autres adénopathies, ni d'hépato-splénomégalie. Il n'y a pas d'ictère.
+Les résultats de l'hémogramme sont les suivants :
+Sg Hémoglobine : 127 g/L
+Sg Erythrocytes : 4,70 T/L
+Sg Hématocrite : 0,39
+Sg Plaquettes : 160 G/L
+Sg Leucocytes : 12 G/L
+Formule leucocytaire :
+Polynucléaires neutrophiles : 36 %
+Polynucléaires éosinophiles : 2 %
+Polynucléaires basophiles : 1 %
+Lymphocytes : 58 %
+Monocytes : 3 %
+Parmi les lymphocytes, présence de très grandes cellules lymphoïdes au cytoplasme hyperbasophile.
+Absence de blastes sur le frottis.
+Questions
+QUESTION N° 1 :
+Commenter les résultats biologiques après avoir calculé les constantes érythrocytaires.
+Proposition de réponse
+Calcul des constantes érythrocytaires :
+VGM : 83 fL
+CCMH : 33 %
+TCMH : 27 pg
+La patiente présente une hyperleucocytose (N : 4 - 10 G/L) avec une hyperlymphocytose à 7 G/L (N : 1 à 4
+G/L). Les autres paramètres de l'hémogramme sont normaux, en particulier l'hémoglobine, les constantes
+érythrocytaires, les polynucléaires neutrophiles (4,3 G/L - N : 2 à 7,5 G/L) et les plaquettes (150 - 450 G/L). 
+QUESTION N° 2 :
+Compte tenu des éléments cliniques et biologiques, quels examens complémentaires sont nécessaires pour
+préciser l'étiologie ? Justifier la réponse.
+Page 1/31615 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Proposition de réponse
+L'hyperlymphocytose associée à la présence de grandes cellules lymphoïdes au cytoplasme hyperbasophile
+sur le frottis, le début brutal du tableau clinique, le caractère douloureux des adénopathies et leur
+localisation, orientent vers un syndrome mononucléosique.
+Il convient de réaliser en première intention des sérologies EBV, CMV, HIV, hépatites et toxoplasmose (liste
+non exhaustive).
+QUESTION N° 3 :
+Quelle est l'origine des grandes cellules lymphoïdes circulantes ?
+Proposition de réponse
+Il s'agit d'une expansion de lymphocytes T réactionnels à l'infection. 
+QUESTION N° 4 :
+Un bilan hépatique est alors réalisé chez la patiente.
+Pl Activité du complexe prothrombinique (TP) : 101 %
+Se Bilirubine totale : 10 µmol/L
+Se ALAT : 88 UI/L
+Se ASAT : 75 UI/L
+Se GGT : 15 UI/L
+Commenter ce bilan en justifiant les résultats par rapport au contexte clinico-biologique.
+Proposition de réponse
+Il existe une cytolyse hépatique modérée avec une augmentation des ALAT (N < 45 UI/L) et des ASAT (N <
+35 UI/L), avec ALAT/ASAT > 1.
+Les autres paramètres sont normaux :
+il n'y a pas de signes d'insuffisance hépato-cellulaire, TP : N 70 - 130 % : 
+ de cholestase. GGT N  : < 38 UI/L, bilirubine : N < 17 µmol/L : pas 
+ 
+Ce bilan hépatique est compatible avec un syndrome mononucléosique (EBV ou CMV notamment), du fait
+d'un tropisme hépatique de ces virus.
+QUESTION N° 5 :
+Une antibiothérapie par amoxicilline a été prescrite ainsi que des corticoïdes . per os
+Commenter cette prescription.
+Proposition de réponse
+Il ne faut jamais prescrire d'amoxicilline dans un syndrome mononucléosique, en raison du risque de rash
+Page 2/31615 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+cutané.
+Des corticoïdes  peuvent être prescrits dans les formes sévères. per os
+Page 3/3

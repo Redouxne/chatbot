@@ -1,0 +1,84 @@
+1576 DTB5_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+Enoncé
+Un patient de 62 ans, hypertendu et porteur d'une fibrillation auriculaire, est traité depuis 8 ans par :
+- flécaïnide 100 mg, 2 cp/j,
+- warfarine, 9 mg/j, permettant l'équilibre de ce patient dans la zone thérapeutique,
+- losartan 100 mg, 1/2 cp/j.
+Suite à une infection broncho-pulmonaire, le patient est traité par clarithromycine 2 g/j et un antitussif.
+Après 7 jours de traitement, il présente une stomatite mycosique l'amenant à prendre du miconazole
+(Daktarin  2 % gel buccal).®
+Deux jours plus tard, le patient est hospitalisé en urgence : il présente une hémorragie cérébrale.
+L'INR est à 12 (vérifié à 13).
+L'examen clinique ne retrouve pas d'autre localisation hémorragique.
+Questions
+QUESTION N° 1 :
+A quelles classes thérapeutiques appartiennent les médicaments prescrits au patient ?
+Proposition de réponse
+flécaïnamide : anti-arythmique de classe 1 ;
+warfarine : anticoagulant oral, antivitamine K coumarinique ;
+losartan : antihypertenseur, antagoniste du récepteur de l'angiotensine II ;
+clarithromycine : antibiotique, macrolide ;
+miconazole : antimycosique azolé.
+QUESTION N° 2 :
+Définir l'INR et expliquer comment il est déterminé.
+Pour quelle indication ce patient est-il traité par warfarine ?
+Quelle est la zone thérapeutique recherchée chez ce patient ?
+Proposition de réponse
+L'INR ( ) est obtenu en calculant le rapport (Temps de Quick (TQ) du plasma International Normalized Ratio
+patient / TQ du plasma témoin), élevé à la puissance ISI ( ), propre à chaque International Standardized Index
+système analytique (réactif et automate). L'ISI est fourni par le fabricant.
+Pour ce patient, l'indication du traitement anticoagulant par warfarine est la prévention d'une embolie
+d'origine cardiaque liée à la fibrillation auriculaire.
+La zone thérapeutique recherchée est un INR compris entre 2 et 3.
+QUESTION N° 3 :
+Page 1/31576 DTB5_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+Quelle doit être la prise en charge thérapeutique de ce patient à son admission au service d'urgence ?
+Expliquer succinctement les mécanismes d'action du (des) médicament(s) utilisé(s) pour cette prise en
+charge.
+Quels sont les aspects réglementaires liés à l'utilisation du (des) médicament(s) prescrit(s) ?
+ 
+Proposition de réponse
+* La prise en charge comprend : 
+- arrêt de prise de warfarine, l'INR à 12 signifiant un surdosage
+- traitement du surdosage par l'administration IV de concentré de complexe prothrombinique (CCP ou
+PPSB) 
+La prescription n'est justifiée qu'en cas de nécessité d'antagonisation immédiate (saignement grave actif
+comme c'est le cas chez ce patient)
+- et administration  de vitamine K1 (voie orale ou IV lente).
+ 
+* Le concentré de complexe prothrombinique apporte directement les facteurs vitamine K-dépendants
+déficitaires et est immédiatement actif. 
+La vitamine K1 agit en quelques heures en restaurant la synthèse des facteurs vitamine K-dépendant
+fonctionnels (gamma-carboxylés). 
+ 
+* Aspect réglementaire : Le PPSB est un Médicament Dérivé du Sang (MDS), soumis à la traçabilité.
+ 
+QUESTION N° 4 :
+Quelle est l'origine probable du surdosage en AVK chez ce patient ?
+Proposition de réponse
+La clarythromycine et le miconazole interagissent sur la pharmacocinétique des AVK, au niveau de leur
+métabolisme par les cytochromes P450.
+Ils augmentent l'exposition sanguine au médicament.
+Ils potentialisent l'effet anticoagulant des AVK et donc le risque hémorragique.
+ 
+QUESTION N° 5 :
+Citer 3 éléments que doit connaitre un patient pour gérer son traitement par warfarine .
+Proposition de réponse
+Le patient doit connaître notamment :
+- les signes annonciateurs d'un surdosage ;
+- la conduite à tenir en cas d'oubli de prise ;
+Page 2/31576 DTB5_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+ ; - les risques liés à l'automédication et à l'alimentation
+- l'indication pour laquelle son traitement anticoagulant a été prescrit et  l'INR cible ;
+- la réalisation de contrôles de l'INR à intervalles réguliers et les modalités d'ajustement des posologies en fonction du
+résultat de l'INR ;
+ 
+ ; - la nécessité de signaler son traitement anticoagulant à tout professionnel de santé
+- les principes de l'utilisation et de la mise à jour de son carnet de surveillance (surveillance de l'INR, ...).
+Page 3/3

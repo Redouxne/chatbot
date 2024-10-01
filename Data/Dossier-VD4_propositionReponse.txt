@@ -1,0 +1,118 @@
+1509 DTB4-2017R 
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE  
+Dossier 4 
+Page 1/3  
+Enoncé 
+ 
+M., 8 ans, a une fièvre (39,5 0 C) évoluant depuis 2 jours en juillet. Elle se plaint de douleurs abdominales 
+et de maux de tête. Elle ne présente pas de troubles de la conscience, ni du comportement. 
+A l'examen clinique, le médecin note une discrète raideur de la nuque et décide de l'adresser aux 
+urgences pour la réalisation d'une ponction lombaire. 
+ 
+Le bilan biologique d'entrée à l'hôpital indique les résultats suivants : 
+Numération/Formule sanguine : 
+Sg Erythrocytes : 4,4 T/L 
+Sg Hématocrite : 0,46 
+Sg Hémoglobine : 135 g/L 
+Sg Thrombocytes : 300 G/L 
+Sg Leucocytes : 11 G/L 
+Polynucléaires neutrophiles : 0,38 
+Polynucléaires éosinophiles : 0,03 
+Polynucléaires basophiles : 0 
+Lymphocytes : 0,52 
+Monocytes : 0,07 
+Se Protéine C Réactive : 4 mg/L 
+Pl Glucose : 5 mmol/L 
+ 
+Examen du liquide céphalorachidien : 
+Aspect très légèrement trouble 
+200 leucocytes/mm3 avec plus de 80 % de lymphocytes 
+Absence de bactérie à l'examen direct après coloration de Gram 
+LCR Glucose : 3 mmol/L 
+LCR Protéines : 0,45 g/L 
+ 
+ 
+Questions 
+QUESTION N O 1 : 
+ 
+Commenter le bilan biologique en rappelant les valeurs usuelles (à interpréter selon les normes de 
+l'adulte). Quel diagnostic peut être évoqué en donnant les arguments cliniques et biologiques ? 
+ 
+1509 DTB4-2017R 
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE  
+Dossier 4 
+Page 2/3  
+Proposition de réponse 
+Sang : 
+La numération formule sanguine montre une légère hyperleucocytose (4,0 - 10,0 G/L), avec une 
+hypertyrnphocytose 5,72 G/L (1 - 4 G/L) (inversion de formule). 
+La protéine C réactive (< 5 mg/L) est normale, pas de syndrome inflammatoire. 
+LCR : 
+Glycorachie normale (2,50 - 3,50 mmol/L), soit 60 % de la glycémie. 
+Hyperprotéinorachie modérée (0,15 - 0,30 g/L). 
+Hypercellu|orachie ou pléiocytose (<10 éléments nucléés par mm3). 
+ 
+La symptomatologie clinique associe un syndrome infectieux et un syndrome méningé d’intensité 
+modérée en faveur d’une méningite. 
+Les paramètres biologiques du LCR (formule lymphocytaire, protéinorachie modérément augmentée, 
+glycorachie normale) orientent vers une étiologie virales La numération/formule sanguine est également 
+en faveur d'une infection virale. 
+Conclusion : probable méningite d’origine virale 
+ 
+ 
+QUESTION N O 2 : 
+ 
+Quel est l'agent infectieux le plus probablement responsable de cette pathologie ? 
+Quel examen biologique permet de confirmer l'hypothèse ? Par quelle méthode ? 
+ 
+Proposition de réponse 
+L'agent le plus probable est un entérovirus. 
+Le diagnostic biologique se fait dans le LCR par recherche de l’ARN génomique par PCR (RT-PCR). 
+ 
+ 
+QUESTION N O 3 : 
+ 
+Quelles sont les caractéristiques structurales de l'agent infectieux suspecté ? 
+ 
+Proposition de réponse 
+Les entérovirus sont des virus à génome ARN, simple, brin de polarité positive. 
+La particule virale est de petite taille, non enveloppée et possède une capside icosaédrique. 
+ 1509 DTB4-2017R 
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE  
+Dossier 4 
+Page 3/3  
+QUESTION N O 4 : 
+ 
+Quel est le traitement curatif spécifique de ce type d'infection ? 
+ 
+Proposition de réponse 
+Aucun traitement curatif spécifique antiviral nlexiste pour l'instant. 
+ 
+ 
+QUESTION N°5 : 
+ 
+En France métropolitaine, lister les autres agents infectieux responsables de ce type d’infection ? 
+ 
+Proposition de réponse 
+Herpès simplex virus (type 2) - VIH (primo-infection) - Listeria monocytogenes - Mycobacterium 
+tuberculosis - Treponema pallidum -  Crytococcus neoformans 
+ 
+NB : Autres agents : virus de la varicelle et du zona (hors programme) – virus des oreillons (hors 
+programme) – virus de la poliomyélite (exclu, éradiqué en Europe) 
+ 
+ 
+QUESTION N°6 : 
+ 
+Pour l’un des micro-organismes évoqués à la question précédente, il existe une prophylaxie vaccinale. 
+Préciser l’agent infectieux, le nom du vaccin, le principe vaccinant, la voie d’administration et les 
+principales populations ciblées hors indication professionnelle. 
+ 
+Proposition de réponse 
+Agent infectieux : Mycobacterium tuberculosis  
+ 
+Nom du vaccin : BCG ou bacille de Calmette et Guérin 
+Principe vaccinant : suspension de germes vivants atténués 
+Première obtention : culture de M. bovis sur pomme de terre-bile-glycérol  
+Administration : voie intradermique 
+Populations ciblées = enfants milieux défavorisés et migrants 
+ 

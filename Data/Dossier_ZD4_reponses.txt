@@ -1,0 +1,91 @@
+1560 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Enoncé
+Un enfant de 6 ans, 22 kg, revient le 5 septembre d'un séjour au Sénégal. La chimioprophylaxie
+antimalarique quotidienne est arrêtée le 9 septembre. Le 14 septembre, sa température est de 39 °C et il
+refuse de s'alimenter.
+A la suite de convulsions, il est hospitalisé en pédiatrie pour suspicion de paludisme. A son admission, on
+note une légère splénomégalie.
+Questions
+QUESTION N° 1 :
+Un frottis sanguin est réalisé.
+Citer deux autres techniques microscopiques (et seulement deux) et deux techniques non microscopiques
+(et seulement deux) permettant de poser le diagnostic biologique du paludisme.
+Proposition de réponse
+Autres techniques microscopiques :
+- Goutte épaisse
+- Quantitative Buffy Coat (QBC) Malaria
+ 
+Techniques non microscopiques :
+- PCR, Lamp (techniques de biologie moléculaire rapide)
+- Test de diagnostic rapide (TDR), recherche d'antigènes, immunochromatographie
+QUESTION N° 2 :
+A partir de la réception de l'échantillon biologique au laboratoire, en combien de temps le résultat du
+diagnostic biologique d'accès palustre doit-il être rendu au clinicien ?
+Proposition de réponse
+Les recommandations préconisent un rendu en moins de 2 h après réception de l'échantillon biologique.
+Remarque : Le résultat doit être rendu au maximum 4 h après le prélèvement
+QUESTION N° 3 :
+L'espèce identifiée est . Plasmodium falciparum
+Quelles sont alors les caractéristiques du frottis réalisé (aspect général, aspect des hématies et des formes
+parasitaires présentes) ?
+Proposition de réponse
+* Aspect général : monotone (présence quasi exclusive de trophozoïtes, quelques gamétocytes, pas de
+Page 1/31560 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+forme âgée dans le sang périphérique)
+* Hématies parasitées :
+- Taille et forme normales
+- Pluriparasitisme assez fréquent
+ 
+* Stades parasitaires :
+- Trophozoïtes (bague à chaton)
+- Gamétocytes : en forme de faux
+- Les formes âgées sont absentes du sang périphérique
+ 
+QUESTION N° 4 :
+Dans ce contexte clinico-biologique, quelle molécule antipaludique doit impérativement être prescrite en
+première intention ?
+Préciser la voie d'administration à l'admission en hospitalisation. Justifier le choix de la molécule prescrite.
+Proposition de réponse
+Traitement : Artesunate en I.V. lente
+Chez cet enfant : Accès palustre grave car présence de signes neurologiques : neuropaludisme à 
+. Plasmodium falciparum
+QUESTION N° 5 :
+Quelles sont les modalités de suivi biologique de l'efficacité et des effets indésirables d'un tel traitement ?
+Proposition de réponse
+- Suivi de l'efficacité du traitement anti-parasitaire :
+Frottis sanguin et goutte épaisse à J3, J7, J28 (objectif: observation de la disparition des formes
+plasmodiales)
+ 
+- Suivi des éventuels effets indésirables (hémolyse retardée) :
+Numération formule sanguine à J7, J14, J21, J28 (objectif : vérification de l'absence d'anémie
+post-traitement)
+ 
+QUESTION N° 6 :
+Sachant que le médecin avait pris en compte le fait que le Sénégal est en zone de "Multirésistance aux
+antipaludiques" et compte tenu des éléments du dossier, en déduire la chimioprophylaxie qui a été
+administrée à cet enfant.
+Page 2/31560 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Justifier la réponse, en écartant les autres possibilités de traitement.
+Proposition de réponse
+Chimioprophylaxie administrée : atovaquone + proguanil car :
+- Zone de Multirésistance : ce qui exclut la chloroquine ou l'association chloroquine + proguanil
+- Prise quotidienne : ce qui exclut la méfloquine
+- Enfant de moins de 8 ans, < 40 kg : ce qui exclut la doxycycline
+ 
+QUESTION N° 7 :
+La chimioprophylaxie a-t-elle été correctement suivie ? Justifier.
+Proposition de réponse
+La chimiprophylaxie n'a pas été correctement prise car elle devait être poursuivie jusqu'à 7 jours après le
+retour de la zone d'endémie palustre.
+QUESTION N° 8 :
+Cet enfant a dormi sous une moustiquaire non imprégnée.
+Quel répulsif aurait permis d'augmenter l'efficacité de cette protection anti-vectorielle ?
+Proposition de réponse
+La perméthrine.
+Page 3/3

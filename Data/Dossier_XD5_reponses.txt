@@ -1,0 +1,91 @@
+1610 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Enoncé
+L'enfant T., 7 mois, présente depuis 12 heures des vomissements, une fièvre à 38 °C et une diarrhée
+profuse. A son admission en pédiatrie, le diagnostic de gastro-entérite à rotavirus est posé.
+Les résultats du bilan biologique sont les suivants :
+Pl Sodium : 141 mmol/L
+Pl Potassium :  2,9 mmol/L
+Pl Chlorure : 103 mmol/L
+Pl Bicarbonate : 26 mmol/L
+Se Protéines : 83 g/L
+Pl Glucose : 5,3 mmol/L.
+Questions
+QUESTION N° 1 :
+Interpréter les résultats biologiques, en se référant aux valeurs biologiques usuelles de l'adulte, qui seront
+précisées pour chaque paramètre.
+Proposition de réponse
+Le bilan biologique montre  :
+- une augmentation de la concentration en protéines sériques (valeurs usuelles 65 - 80 g/L) du fait de la
+déshydratation extracellulaire causée par les vomissements et la diarrhée.
+- une hypokaliémie (valeurs usuelles 3,5 - 4,5 mmol/L) pouvant être expliquée par des pertes digestives de
+potassium liées aux diarrhées.
+- le reste du bilan biologique normal :
+Valeurs usuelles : glucose (3,9 - 5,5 mmol/L), bicarbonate (23 - 27 mmol/L),  sodium (135 - 145 mmol/L), 
+chlorure (95 - 105 mmol/L)
+ 
+ 
+QUESTION N° 2 :
+Préciser la classification et les principales caractéristiques structurales de l'agent viral en cause.
+Proposition de réponse
+Les rotavirus appartiennent à la famille des  et sont classés selon des critères sérologiques en Reoviridae
+groupes (A à G) eux-mêmes divisés en sérotypes.
+Les rotavirus sont des virus nus (non enveloppés), à capside icosaédrique constituée d'une triple couche de
+protéines.
+Page 1/3
+51610 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Le génome est constitué de 11 segments d’ARN double brin.
+Chaque segment d’ARN double brin porte un gène unique codant une ou deux protéine(s) structurale(s) ou
+non structurale(s).
+QUESTION N° 3 :
+Quel échantillon biologique et quelle(s) technique(s) ont permis de faire le diagnostic virologique ?
+Proposition de réponse
+Un prélèvement de selles est réalisé pour effectuer le diagnostic.
+Le diagnostic biologique repose sur :
+- la détection rapide d’antigènes de rotavirus à l’aide d’anticorps spécifiques (techniques
+d’immunochromatographie, d’agglutination) 
+- la détection du génome viral (PCR) .
+QUESTION N° 4 :
+Préciser les principales caractéristiques épidémiologiques des infections à rotavirus en France.
+Proposition de réponse
+Les infections à rotavirus représentent la principale cause de diarrhée aiguë infectieuse de l’enfant entre 6 et
+24 mois.
+La transmission des rotavirus est féco-orale.
+La résistance de ces virus (virus nus) facilite leur transmission interhumaine directement ou par
+l’intermédiaire des surfaces ou objets contaminés.
+Les diarrhées à rotavirus surviennent selon un mode épidémique hivernal (de novembre à mars) dans les
+pays tempérés comme la France.
+ 
+QUESTION N° 5 :
+Existe-t-il un traitement antiviral spécifique ?  Si oui, lequel ?
+Proposition de réponse
+Il n’existe pas de traitement antiviral spécifique.
+QUESTION N° 6 :
+Page 2/3
+51610 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Préciser les mesures préventives non spécifiques à mettre en place au sein du service de pédiatrie à la suite
+de l’hospitalisation de cet enfant.
+Proposition de réponse
+Les infections à rotavirus constituent la principale cause d’infections nosocomiales en pédiatrie.
+Leur prévention repose sur des mesures d’hygiène standard :
+- lavage soigneux des mains        
+- désinfection régulière des plans de soins ou de change        
+- désinfection des autres surfaces ou objets de l’environnement avec des solutions antiseptiques        
+adaptées.
+Elle repose aussi sur les mesures suivantes :
+- limitation des visites        
+- isolement géographique ou regroupement des patients infectés.        
+ 
+QUESTION N° 7 :
+Quelle mesure prophylactique spécifique existe-t-il vis-à-vis de cette infection ? Préciser sa (ses)
+caractéristique(s).
+Proposition de réponse
+Il existe deux vaccins vivants recombinés disponibles en France mais non recommandés : le Rotarix  et le®
+Rotateq . Ils sont administrés sous forme de solution buvable.®
+Page 3/3
+5

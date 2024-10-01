@@ -1,0 +1,126 @@
+1323 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Enoncé
+Madame X., 72 ans, est hospitalisée pour bilan d'une insuffisance rénale découverte fortuitement à la suite
+d'un bilan sanguin demandé lors d'un épisode de mastoïdite.
+Dans les antécédents de la patiente, on note :
+- Une hypertension artérielle traitée par spironolactone (Aldactone )®
+- Des épisodes d'infections ORL à répétition
+- Un foyer de dilatation des bronches mis en évidence par scanner
+- Un diabète de type 2 équilibré par régime et metformine (Glucophage ).®
+A l'examen clinique : patiente en bon état général, se plaignant essentiellement d'asthénie, d'un prurit, de
+céphalées et d'une polyuro-polydipsie. Tension artérielle = 170/95 mmHg.
+ 
+Examens biologiques :
+Prélèvement sanguin à jeun :                                         
+Pl Sodium  : 136 mmol/L                                                   
+Pl Potassium : 5,8 mmol/L                                                 
+Pl Chlorure : 98 mmol/L                                                   
+Pl Bicarbonate : 15 mmol/L
+Se Protéines : 66 g/L
+Se Albumine : 36 g/L
+Pl Calcium : 1,97 mmol/L
+Pl Phosphate : 2,01 mmol/L
+Pl Glucose : 5,9 mmol/L
+Pl Urée : 29,4 mmol/L
+Pl Créatinine : 706 µmol/L
+Sg Hémoglobine : 95 g/L
+Sg Erythrocytes : 3,2 T/L
+Sg VGM : 88 fL
+Sg Leucocytes  : 9 G/L
+ 
+Urine :
+Diurèse : 1,300 L/24 h
+dU Protéines : 1,52 g (valeurs usuelles <150 mg)
+dU Créatinine : 7,06 mmo l
+ 
+Questions
+QUESTION N° 1 :
+Commenter le bilan biologique, en indiquant les valeurs usuelles.
+Proposition de réponse
+Page 1/41323 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Paramètres sanguins augmentés :
+- potassium (3,5 - 4,5 mmol/L)
+- phosphate (0,8 - 1,4 mmol/L)
+- glucose (faiblement) (3,9 - 5,5 mmol/L)
+créatininémie (nette augmentation) (45 - 105 µ-  mol/L)
+- urée (nette augmentation) (2,5 - 7,5 mmol/L)
+Paramètres sanguins diminués :
+- bicarbonate (23 - 27 mmol/L)
+- calcium  (2,20 - 2,60 mmol/L)
+- hémoglobine (120 -160 g/L)
+- érythrocytes  (4,2 - 5,2 T/L)
+ 
+Paramètres sanguins normaux :
+- sodium (135 - 145 mmol/L)
+ chlorure (95 -105 - mmol/L)
+ leucocytes (4,0 - 10,0 G/L)-
+- VGM (80 - 100 fL)
+- protéines (65 - 80 g/L)
+- albumine  (38 - 48 g/L).
+ 
+Dans l'urine : protéines augmentées, créatinine diminuée (9 - 12  mmol/24 h, avec diurèse normale.
+QUESTION N° 2 :
+Commenter l'état de l'équilibre acido-basique.
+Proposition de réponse
+En l'absence du bilan acido-basique complet (pH et gaz du sang), la diminution plasmatique du bicarbonate 
+laisse suspecter une acidose métabolique.
+Il faut calculer le trou anionique : 
+Trou anionique plasmatique : (Na + K) - (Cl + bicarbonate) = 28,8 mmol/L (VU : 12 - 20 mmol/L)
+Cette acidose peut s'expliquer par l'insuffisance rénale (créatininémie et urémie très augmentées) mais
+aussi par l'accumulation d'indosés anioniques (trou anionique augmenté : probablement le lactate du fait
+du traitement par metformine).
+QUESTION N° 3 :
+Calculer et interpréter la clairance de la créatinine. 
+Quelle pathologie peut-on évoquer ? Justifier.
+Proposition de réponse
+Page 2/41323 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+- Clairance de la créatinine : C = UV/P = 9 mL/min (VU : 90 - 140 mL/min)
+- Il existe une insuffisance rénale terminale (clairance de la créatinine < 15 mL/min)
+- Cette insuffisance rénale est sûrement chronique (IRC) car il y a : absence d'oligo-anurie,  présence d'une
+hypocalcémie (avec protéinémie normale) associée à une hyperphosphatémie, présence d'une anémie
+normocytaire
+Les autres perturbations biologiques (acidose métabolique, hyperkaliémie) sont habituellement rencontrées
+au cours d'une insuffisance rénale.
+ 
+QUESTION N° 4 :
+Pour quelle raison une épuration extra-rénale par hémodialyse doit-elle être mise en place ?
+Expliquer le principe, l'objectif et la mise en œuvre.
+Proposition de réponse
+L'IRC étant au stade terminal (< 15 mL/mn), la dialyse est à envisager.
+L'épuration extra-rénale consiste à suppléer la fonction rénale défaillante : elle permet de diminuer les
+concentrations des composés azotés non protéiques [urée, créatinine, acide urique] et d'équilibrer le bilan
+hydro-électrolytique et acido-basique.
+L'épuration extra-rénale consiste à faire circuler le sang du malade dans un circuit extra-corporel. L'épuration
+est faite par un rein artificiel ou dialyseur qui comprend 2 compartiments séparés par une membrane
+semi-perméable. Les échanges s'effectuent au travers de cette membrane selon le gradient de
+concentration (2 processus : diffusion et ultra-filtration). Les séances ont lieu 2 à 3 fois/semaine ; elles
+peuvent se faire à l'hôpital, dans des centres de dialyse ou à domicile.
+QUESTION N° 5 :
+Indiquer le mécanisme d'action de la spironolactone.
+Commenter la prescription de ce médicament chez cette patiente.
+Proposition de réponse
+La spironolactone est un antagoniste de l'aldostérone au niveau du tube rénal distal ; c'est un diurétique
+épargneur de potassium.
+Ce n'est pas un antihypertenseur majeur et elle ne permet pas de contrôler la pression artérielle de cette
+patiente (170/95 mm Hg). De plus, son effet hyperkaliémiant majore la kaliémie déjà augmentée chez cette
+patiente insuffisante rénale. La spironolactone est contre-indiquée en cas d'insuffisance rénale sévère (cas
+de cette patiente). Sa prescription doit être arrêtée.
+QUESTION N° 6 :
+Page 3/41323 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Commenter la prescription de metformine chez cette patiente.
+Proposition de réponse
+Conjointement aux mesures hygiénodiététiques, la metfomine constitue le traitement de première intention
+du diabète de type 2.
+Chez cette patiente, l'insuffisance rénale constitue une contre-indication à l'utilisation de la metformine car le
+risque d'acidose lactique est important.
+La metformine est en effet contre-indiquée en cas de clairance de créatinine < 30 mL/min.
+Il faut modifier la thérapeutique antidiabétique.
+Page 4/4

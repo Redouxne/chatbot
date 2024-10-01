@@ -1,0 +1,169 @@
+Page 1/4 
+ 
+ 1297            DTB1-2017R 
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE 
+Dossier N° 1 
+ 
+Enoncé 
+Un jeune homme de 16 ans se plaint depuis quelques jours auprès de ses parents de fatigue et de manque 
+d’appétit. Après 15 jours, ses parents remarquent que ses chevilles sont gonflées. Il présente des douleurs 
+lombaires. Le médecin trouve des œdèmes discrets et une tension artérielle de 155-90 mmHg. Après 
+interrogatoire, le jeune homme précise qu’il a eu une angine considérée comme d’origine virale et sans 
+prise en charge thérapeutique, il y a une quinzaine de jours. Il est apyrétique. 
+Les examens biologiques demandés donnent les résultats suivants :  
+Bilan sanguin :  
+Pl Sodium : 138 mmol/L  
+Pl Potassium : 4,0 mmol/L  
+Pl Chlorure : 100 mmol/L 
+Se Protéines : 56 g/L 
+Pl Urée : 10 mmol/L 
+Pl Créatinine : 120 mol/L 
+Sg Hémoglobine : 102 g/L  
+Sg Hématocrite : 0,30 
+Sg Erythrocytes : 3,2 T/L 
+Sg Leucocytes : 13,0 G/L 
+Anticorps Antistreptolysine O : 650 UI/L (valeurs usuelles < 200) 
+ 
+Bilan urinaire : 
+Créatinine : 15,0 mmol/L 
+Protéines : 6,0 g/L (valeurs usuelles < 0.150 g/24h) 
+Hématies : 2.106/mL (valeurs usuelles < 1.104/mL) 
+Diurèse de 24 h : 400 mL 
+ 
+ 
+Questions 
+ 
+QUESTION N° 1 :  
+ 
+Commenter le bilan biologique, en mentionnant les valeurs usuelles.  
+ 
+ 
+Proposition de réponse    
+ 
+* Bilan sanguin :  
+- Sodium (valeurs usuelles 135-145 mmol/L), potassium (valeurs usuelles 3,5-4,5 mmol/L) et chlorure 
+(valeurs usuelles 95-105 mmol/L) sont normaux. 
+- Urée (valeurs usuelles 2,5-7,5 mmol/L) et créatinine (valeurs usuelles pour un H : 60-115 mol/L) 
+augmentées et témoignent vraisemblablement d’une insuffisance rénale (IR). 
+ Page 2/4 
+ 
+ 1297            DTB1-2017R 
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE 
+Dossier N° 1 
+ 
+- Protéines sériques (valeurs 65-80 g/L) diminuées ainsi que : hémoglobine (valeurs usuelles pour un H : 
+130-170 g/L), hématocrite (valeurs usuelles pour un H : 0,42-0,52) et érythrocytes (valeurs usuelles pour 
+un H : 4,5-5,7 T/L). La diminution de l’ensemble de ces paramètres est due à une hémodilution consécutive 
+à la rétention hydrosodée brutale, elle-même due à la perte brutale des fonctions d’élimination du rein donc 
+à l’IRA (aiguë).  
+- Leucocytes (valeurs usuelles 4-10 G/L) augmentés, ce qui traduit la présence d’une inflammation. 
+- ASLO augmentés, ce qui témoigne que l’angine supposée virale était en fait bactérienne due au 
+streptocoque β hémolytique du groupe A ( S. pyogenes ).  
+ 
+* Bilan urinaire :  
+- Créatinine diminuée : sa valeur par 24 h est de 15 / 1 x 0,4 = 6 mmol/24 h (valeurs usuelles chez l’H de 
+10-18 mmol/24 h). Ceci traduit un défaut de la capacité rénale à éliminer la créatinine. 
+- Protéinurie augmentée correspondant à 0,4 x 6 = 2,4 g/24 h. Sa valeur est toutefois inférieure à 3 g/24 h 
+ce qui exclut le syndrome néphrotique. Cette protéinurie traduit une atteinte de la membrane basale 
+glomérulaire. 
+- Présence d’une hématurie qui est ici macroscopique.  
+- Il existe une oligoanurie à rapprocher de l’IRA.  
+ 
+ 
+ 
+QUESTION N° 2 :  
+ 
+Calculer la clairance de la créatinine (surface corporelle du jeune homme 1,73 m2).  
+Interpréter l’état de la fonction rénale. Justifier vos réponses.  
+Quel(s) examen(s) biologique(s) urinaire(s) complémentaire(s) permettrai(en)t de préciser l’étiologie 
+suspectée ? 
+ 
+Proposition de réponse   
+ Calcul de la clairance brute :  Cl = UV/P = 15 x (400/1440) / 0,12 = 34,7 mL/min = 0,6 mL/s  
+(accepté : 35 ml/min (0,58 mL/s). 
+Clairance corrigée : 34,7 mL/min/1,73 m2. 
+La valeur usuelle de la clairance de la créatinine est de 90-140 mL/min/1,73m2 (1,50-2,30 mL/s).  
+La clairance du patient est donc très abaissée, confirmant la présence d’une insuffisance rénale 
+(IR). 
+L’oligurie oriente vers le fait que ce soit une IRA (aiguë), d’autant plus que les circonstances 
+d’apparition sont brutales ce qui renforce l’idée que l’IR soit aiguë. 
+ 
+ Examens complémentaires :   
+- ECBU (examen cyto-bactériologique des urines) Page 3/4 
+ 
+ 1297           DTB1-2017R 
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE 
+Dossier N° 1 
+ 
+- Dosages urinaires du Na+ et du K+ avec le calcul du rapport Na+/K+  
+Le rapport est > 1 dans une IRA Organique (IRAO) et < 1 dans une IRA Fonctionnelle (IRAF). 
+La valeur du Na+ urinaire (échantillon) permet aussi de distinguer IRAO et IRAF. 
+ 
+Par ailleurs le rapport U/P créat est > 30 (OK si 20) : il s'agirait d'une IRAF 
+ 
+ 
+QUESTION N° 3 :  
+Quel est le diagnostic le plus probable ? Justifier.  
+ 
+Proposition de réponse  
+Il s’agit d’une néphropathie glomérulaire car hématurie, protéinurie > 1 g/24 h, IR, HTA et œdèmes 
+(hypervolémie et rétention hydrosodée).  
+Les ASLO permettent de conclure à une GNA (ou SNA) post-infection au streptocoque  hémolytique du 
+groupe A ( S.pyogenes ). 
+ 
+ 
+ 
+QUESTION N° 4 :  
+ 
+A ce stade quels sont les examens biologiques complémentaires utiles ? 
+ 
+Proposition de réponse  
+- Le dosage de la fraction C3 du complément (accepté, dosage du complément, CH50).  
+- L’électrophorèse des protéines urinaires, pour apprécier la sélectivité de la protéinurie.  
+ 
+ 
+QUESTION N° 5 :  
+Faut-il mettre en œuvre un traitement antibiotique ? Justifier votre réponse. 
+ 
+Proposition de réponse  
+Aucun traitement antibiotique n’est utile car l’infection est ancienne et le germe n’est plus détectable dans 
+un prélèvement de gorge.   
+L’atteinte rénale est consécutive à la réaction inflammatoire suite à la formation d’immuns complexes au 
+niveau des glomérules. Page 4/4 
+ 
+ 1297            DTB1-2017R 
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE 
+Dossier N° 1 
+ 
+QUESTION N° 6 : 
+Quelle est l’autre complication grave de ce type d’angine infectieuse non ou mal traitée ? Quel est le 
+traitement de ce type de complication (médicaments utilisés, modalités d’utilisation et principaux effets 
+indésirables). 
+ 
+Proposition de réponses  
+Autre complication : rhumatisme articulaire aigu (RAA). 
+Le traitement de la phase aiguë du RAA comprend : 
+● Mise au repos. 
+ 
+● Paracétamol pour les douleurs, voire la fièvre. 
+Effets indésirables (EI) : hépatotoxicité si surdosage. 
+ 
+● Corticoïdes : prednisolone (Solupred®) par voie orale (VO).  
+Effets indésirables (selon la dose et la durée du traitement) :  
+- Troubles musculosquelettiques, augmentation du catabolisme des protéines :  
+ amyotrophie (ou fonte musculaire), faiblesse musculaire, ostéoporose, troubles phosphocalciques. 
+- Troubles hydro-électrolytiques : rétention hydrosodée et hypokaliémie. 
+- Troubles endocriniens : syndrome cushingoïde, obésité facio-tronculaire, atrophie secondaire de la 
+cortico-surrénale. 
+- Troubles métaboliques : diabète ou hyperglycémie, hyperlipidémie. 
+- Diminution de la réponse aux infections, augmentation du risque infectieux, immunodépression. 
+- Effets stimulants, augmentation de l’appétit (ou effet orexigène), euphorie, insomnie. 
+● Phénoxyméthylpénicilline (Oracilline® ou pénicilline V)  par VO. 
+OU benzathine benzylpénicilline (Extencilline®) (benzathine pénicilline G) : par voie intramusculaire (IM) 
+Effets indésirables : allergie 
+ 
+ 
+Le traitement prophylactique secondaire : dès la fin du traitement curatif pendant plusieurs années. 
+● benzathine benzylpénicilline (Extencilline®) : injection IM (toutes les 4 semaines).  
+● OU phénoxyméthylpénicilline (Oracilline®) (pénicilline V) par VO (2 x/j). 
+ 

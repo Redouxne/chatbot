@@ -1,0 +1,63 @@
+1357 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Enoncé
+Madame V., au terme de sa grossesse, est admise à la maternité car elle présente des contractions
+rapprochées. Son bilan d'entrée (Bilan 1) est le suivant :
+Bilan 1 :
+Sg Plaquettes : 160 G/L
+Sg Hémoglobine : 123 g/L
+Pl Activité du complexe prothrombinique : 95 %
+Pl Temps de céphaline avec activateur : patiente = 28 s ; témoin = 30 s
+Pl Fibrinogène : 4,0 g/L.
+En fin d'accouchement, une hémorragie massive survient lors de la délivrance.
+Le bilan biologique (Bilan 2) est le suivant :
+Bilan 2 :
+Sg Plaquettes : 70 G/L
+Sg Hémoglobine : 75 g/L
+Pl Activité du complexe prothrombinique : 35 %
+Pl Temps de céphaline avec activateur : patiente = 52 s ; témoin = 30 s
+Pl Fibrinogène : 1,5 g/L
+Le dossier clinique mentionne une oligo-anurie, une polypnée et une tachycardie.
+Questions
+QUESTION N° 1 :
+Commenter les 2 bilans biologiques.
+Que suggèrent les différences observées entre ces 2 bilans ?
+Quel est le diagnostic le plus probable ?
+Proposition de réponse
+Le Bilan 1 est normal.
+Le Bilan 2 montre une thrombopénie, une anémie (hémoglobine diminuée), une diminution de l'activité du
+complexe prothrombinique et du fibrinogène en deçà des valeurs usuelles. Le temps de céphaline avec
+activateur est allongé (ratio 1,73).
+En raison de la présence d'un bilan normal quelques heures auparavant, on peut suspecter l'existence d'un
+syndrome de consommation des facteurs de la coagulation.
+Le diagnostic le plus probable est une coagulation intravasculaire disséminée (CIVD) consécutive à
+l'hémorragie de la délivrance.
+QUESTION N° 2 :
+Quels sont les examens d'hémostase complémentaires à réaliser pour établir le diagnostic biologique ?
+Page 1/2
+31357 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Quels sont les résultats attendus ?
+Proposition de réponse
+Le test de confirmation est la mise en évidence d'une concentration très élevée de produits de dégradation
+de la fibrine (D-Dimères) ou de complexes solubles.
+Le bilan est éventuellement complété par le dosage des facteurs II, V, VII et X qui met en évidence une
+diminution portant essentiellement sur les facteurs V et II.
+QUESTION N° 3 :
+Quels sont les principes thérapeutiques pour la prise en charge immédiate de cette patiente ?
+Proposition de réponse
+1) Compenser la spoliation (perte) sanguine : transfusion de concentrés érythrocytaires et éventuellement de
+concentrés plaquettaires
+2) Compenser la consommation en facteurs de la coagulation : administration de plasma thérapeutique
+3) Perfusion de concentré de fibrinogène en fonction de la concentration plasmatique du fibrinogène
+4) Traiter la cause au niveau obstétrical.
+QUESTION N° 4 :
+Comment expliquer l'oligo-anurie, la tachycardie et la polypnée observées au moment du Bilan 2 ?
+Proposition de réponse
+L'hémorragie massive aiguë entraîne une diminution de la volémie ayant pour conséquence :
+- une diminution de la filtration glomérulaire = insuffisance rénale fonctionnelle d'où l'oligo-anurie
+- une adaptation du rythme ventilatoire (polypnée) et cardiaque (tachycardie).
+Page 2/2
+3

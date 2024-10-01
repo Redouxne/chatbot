@@ -1,0 +1,144 @@
+1385 DTB2-2017R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 2
+
+Enoncé
+
+Une femme de 68 ans, sans antécédent personnel ni familial, est vue en consultation pour anémie
+d'installation récente.
+Les résultats des examens biologiques sont :
+
+- Sg Erythrocytes... : 2,80 T/L
+- Sg Hémoglobine............4+ 295 g/L
+
+- Sg Hématocrite. 20,29
+
+- Sg Leucocyte... 75,8 G/L
+
+* Formule leucocytaire :
+- Polynucléaires neutrophiles 0,54
+- Polynucléaires éosinophiles 0,04
+- Polynucléaires basophiles 0,01
+
+- Lymphocytes 0,35
+
+- Monocytes 0,09
+- Sg Plaquettes....... eee : 400 G/L
+- Sg Réticulocytes......... : 320 G/L
+
+* Commentaires hématologiques : Anisocytose, macrocytose, absence de schizocytes. Présence d'1
+érythroblaste pour 100 leucocytes. Absence d'anomalies morphologiques des leucocytes.
+
+- Se Bilirubine totale.............. : 36 umol/L
+- Se Bilirubine conjuguée 2 umol/L
+- Se Haptoglobine............0 0,36 g/L
+
+Questions
+QUESTION N° 1:
+
+Calculer les constantes érythrocytaires manquantes.
+Commenter les résultats du bilan biologique.
+
+Proposition de réponse
+
+Constantes érythrocytaires :
+
+VGM = Hématocrite / nb Erythrocytes = 104 fL,
+CCMH = noylobine / Hématocrite = 33 %,
+TCMEH = Hémaglobine / nb Erythrocytes = 34 pg
+
+i) existe une anémie modérée (hémoglobine < 120 g/L), normochrome (CCMH et TCMH normaux),
+macrocytaire (VGM > 100 fL), trés régénérative (réticulocytes augmentés).
+
+La forte réticulocytose sanguine explique au moins en partie l'anisocytose et la macrocytose.
+Le nombre de leucocytes et de plaquettes est normal ainsi que la formule leucocytaire.
+On noi la diminution de !a concentration d'haptoglobine et augmentation de la concentration de bilirubine
+
+Page 1/3
+1385 DTB2-2017R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 2
+
+non conjuguée (= bilirubine totale - bilirubine conjuguée = 34 pmol/L), évocatrices d'un processus
+némolytique tissulaire.
+
+QUESTION N° 2:
+
+Quelles hypothéses diagnostiques peuvent étre 6voquées devant ce tableau ? Justifier.
+Proposition de réponse
+
+li s'agif d'un tableau d'anémie hémolytique devant lequel peuvent étre évoqués ¢
+
+- un déficit constitutionnel en enzymes érythrocytaires (G6PD ; pyruvate kinase) ou une anomalie
+constitutionnelle de ja membrane érythrocytaire ou de I'hémoglobine : hypothéses peu vraisemblables ici
+compte tenu de l'age, de l'absence d'antécedenis personnels ou familiaux, du sexe pour ce qui concerne le
+déficit en G6PD et de l'absence d'anomalies morphologiques érythrocytaires évocatrices (sphérocytes,
+drépanocytes....)
+
+- une anémie hémolytique auto-immune
+
+- une anémie hémolytique toxique
+
+absence de schizocytes élimine une hémolyse d'origine mécanique.
+QUESTION N°3:
+
+Un examen de laboratoire est indispensable a la poursuite de la démarche diagnostique : lequel et pourquoi
+2
+En décrire le principe et indiquer les informations pertinentes attendues.
+
+Proposition de réponse
+
+Dans ce contexte, I"hypothése Ja plus probabie est celle d'une anémie hémolytique auto-immune. Le test
+direct a "'antiglobuline (test de Coombs direct) permet de verifier cette hypothése.
+
+Le test de Coombs direct est réalisé a l'aide des érythrocytes du patient lesquels, s'ils portent des anticorps
+ou une fraction du complément fixés a leur surface, sont agglutinés par une antiglobuline polyvalente ou
+anti-tgG ou anti-complément.
+
+En faisant varier les conditions du test et les réactifs, il est ainsi possible de préciser :
+
+* sa classe (IgG ou IgM, avec ou sans complément fixé a la surface des érythrocytes),
+
+* optimum thermique de tauto-anticorps (chaud et froid),
+
+* sa spécificité (généralement anti-Rhésus pour les auto-anticorps chauds, anti-I/ pour les auto-anticorps
+froids)
+
+autant d'élamenis utiles a l'orientation.
+
+La spécificité plus précise peut 6tre déterminée aprés élution des anticorps fixés sur les hématies et
+identificatian de l'anticorps.
+
+QUESTION N° 4:
+
+Page 2/3
+1385 DTB2-2017R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 2
+
+Aprés enquéte étiologique, l'indication d'un traitement corticoide est posée : prednisone, 2 mg/kg/jour
+pendant plusieurs semaines. Quels sont les effets indésirables de ce traitement et les recommandations
+hygiénodiététiques a donner au patient ?
+
+Proposition de réponse
+
+Le traiternent doit étre administré en prise unique le matin au cours du repas.
+
+Les effets seconcaires et complications d'un traitement prolongé sont multiples. Ils peuvent entrainer un
+hypercorticisme (syndrome de Cushing) iatrogéne associant :
+
+- immunodépression exposant a un risque infectieux accru (viral, parasitaire, bactérien notamment
+tuberculeux)
+
+- effets métaboliques : hyperglycémie (révélation d'un diabéte latent), hypercatabolisme protidique (fonte
+musculaire, fragilite cutanée), déminéralisation osseuse (risque d'ostéoporose), rétention hydrosodée,
+hypokaliémie.
+
+~ toxicité gastrique
+
+- risque d'insuffisance cortico-surrénalienne aigué au moment du sevrage.
+
+1. patient doit adopter un régime pauvre en sel et en sucres d'absorption rapide, hyperprotidique, avec
+supplément en calcium et vitamine D.
+
+Page 3/3

@@ -1,0 +1,105 @@
+1355 DTB1_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+Enoncé
+Mr A., 23 ans, présente depuis l'âge de 14 ans une comitialité temporale gauche qualifiée de
+"pharmacorésistante" (plusieurs schémas thérapeutiques lui ont été successivement prescrits sans qu'une
+disparition totale et prolongée des crises n'ait été obtenue).
+ 
+Le traitement actuel consiste en trois médicaments prescrits depuis plusieurs années :
+- carbamazépine (Tégrétol  400 LP), 1 cp matin et soir®
+- vigabatrin (Sabril ), 5 cps par jour®
+- valproate de sodium (Dépakine  Chrono 500 mg), 1 cp matin, midi et soir au cours des repas.®
+Récemment, la lamotrigine (Lamictal ) a été introduite à la posologie de 1 cp de 25 mg, 1 j sur 2 pendant 2®
+semaines puis 1 cp de 25 mg/j pendant 2 semaines. La posologie est ensuite augmentée par palier de 25
+mg/j chaque semaine jusqu'à atteindre 100 mg/j.
+Mr A. est hospitalisé en neurologie car, depuis quelques jours, il présente des crises répétées et des
+vomissements fréquents.
+Un bilan biologique sanguin est effectué. Les résultats sont :
+Pl Sodium : 138 mmol/L               
+Pl Potassium : 4,1 mmol/L           
+Pl Chlorure : 102 mmol/L             
+Se ALAT : 21 UI/L                        
+Se ASAT : 14 UI/L                       
+Se GGT : 113 UI/L                      
+Se LDH : 121 UI/L                       
+Se Urée : 4,3 mmol/L                   
+Se Créatinine : 94 µmol/L 
+           
+Sg Erythrocytes : 4,3 T/L                                                   
+Sg Hématocrite : 41 %                                               
+Sg Hémoglobine : 137 g/L    
+Sg VGM : 96,6 fL
+Sg Thrombocytes : 183 G/L
+Sg Leucocytes : 6,3 G/L
+Formule leucocytaire :
+     polynucléaires neutrophiles : 47,6 %
+     polynucléaires éosinophiles : 3,6 %
+     polynucléaires basophiles : 0,5 %
+     lymphocytes : 41,2 %
+     monocytes : 7,1 %
+Pl Activité du complexe prothrombinique : 98 %.
+Questions
+QUESTION N° 1 :
+Page 1/31355 DTB1_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+Quel(s) est (sont) parmi les médicaments prescrits à ce patient, celui (ceux) qui fait (font) l'objet d'un suivi
+des concentrations plasmatiques ?
+Proposition de réponse
+Carbamazépine et valproate de sodium. 
+QUESTION N° 2 :
+Quelle est votre hypothèse concernant l'origine des symptômes qui ont justifié l'hospitalisation de ce patient
+? Justifier.
+Proposition de réponse
+La survenue des crises témoigne d'une inefficacité du traitement.
+Les vomissements fréquents se sont accompagnés d'une diminution de la quantité de médicaments
+absorbée (sous-dosage).
+Par rapport à l'historique médicamenteux, ces vomissements sont très certainement consécutifs à
+l'introduction récente de la lamotrigine. Le valproate de sodium peut être aussi responsable de troubles
+digestifs mais ceux-ci cèdent souvent après quelques jours de traitement (or ce patient prend de la Dépakine
+ depuis plusieurs années).®
+QUESTION N° 3 :
+Justifier la progression posologique de la lamotrigine.
+Proposition de réponse
+La lamotrigine doit toujours être introduite progressivement pour minimiser le risque d'effets indésirables
+cutanés graves.
+De plus, le valproate de sodium inhibe le métabolisme de la lamotrigine et augmente donc ses effets indésir
+ables.
+QUESTION N° 4 :
+Quelles perturbations biologiques sont observées ?
+Pour chacune, quelle(s) est (sont) la (les) cause(s) probable(s) ? 
+Justifier la détermination de l'activité du complexe prothrombinique et commenter la valeur obtenue.
+Proposition de réponse
+Une augmentation importante et isolée de gamma-GT est à noter : la carbamazépine est très certainement
+responsable de cette augmentation (une prise régulière de boisson alcoolisée peut être recherchée).
+ 
+L'évaluation de l'activité du complexe prothrombinique est importante dans le suivi des traitements par acide
+Page 2/31355 DTB1_P2018
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N°
+valproïque, ce médicament pouvant provoquer une altération de la fonction hépatique.
+L'activité du complexe prothrombinique est ici normale (comprise entre 70 et 100 %).
+ 
+QUESTION N° 5 :
+Préciser le mécanisme d'action des quatre médicaments.
+Proposition de réponse
+- Carbamazépine et acide valproïque : blocage des canaux sodiques voltage-dépendants
+(pour l'acide valproïque, il a été également proposé une augmentation de la synthèse et/ou une diminution de la
+dégradation du GABA)
+- Vigabatrin : inhibiteur de la GABA transaminase, enzyme responsable du catabolisme du GABA ("acide aminé
+inhibiteur")
+- Lamotrigine : inhibition de la libération de glutamate (acide aminé "excitateur") et blocage des canaux sodiques
+voltage-dépendants
+QUESTION N° 6 :
+Parmi le(s) médicament(s) prescrit(s), lequel (lesquels) est (sont) inducteur(s) enzymatique(s) ? 
+Lequel (lesquels) est (sont) inhibiteur(s) enzymatique(s) ?
+ 
+ 
+Proposition de réponse
+Inducteur enzymatique  : carbamazépine
+(Auto-inducteur enzymatique : lamotrigine)
+ 
+Inhibiteur enzymatique : valproate de sodium
+ 
+Page 3/3

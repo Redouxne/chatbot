@@ -1,0 +1,98 @@
+1403 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Enoncé
+Madame V., 82 ans, est admise aux urgences dans un état somnolent et confus.
+Son mari nous apprend que sa femme est diabétique, traitée par metformine depuis plus de vingt ans.
+Les résultats du bilan demandé en urgence sont les suivants :
+SgA pH (à 37 °C) : 7,13            
+SgA pCO  :  25 mmHg     2
+SgA pO  : 108 mmHg   2
+SaO : 99 %2 
+Se Protéines :  70 g/L
+Pl Créatinine : 545 µmol/L
+Pl Urée : 30 mmol/L
+Pl Glucose :  6,8 mmol/L
+Pl Sodium : 140 mmol/L
+Pl Potassium : 6,0 mmol/L
+Pl Chlorure : 80 mmol/L
+Pl Bicarbonate : 8 mmol/L .
+Questions
+QUESTION N° 1 :
+Calculer le trou anionique plasmatique. Définir la nature du trouble acidobasique observé chez cette
+patiente.
+Proposition de réponse
+1. Calcul du trou anionique plasmatique (TA). Plusieurs formules :
+Par exemple : TA = (Na  + K ) - (Cl  + Bicarbonate) = 146 - 88 = 58 mmol/L+ + -
+                    (valeurs usuelles : 12 - 20 mmol/L).
+Le TA est augmenté témoignant d'une augmentation de l'indosé anionique.
+2. Nature du trouble acido-basique :
+Le pH est diminué : acidose
+Le bicarbonate est diminué : acidose métabolique
+La pCO  est diminuée et la pO  est légèrement augmentée : signes d'une compensation respiratoire2 2
+partielle
+NB : La kaliémie augmentée est en rapport avec l'acidose métabolique.
+Conclusion : acidose métabolique avec trou anionique plasmatique augmenté.
+QUESTION N° 2 :
+Quelles sont les différentes causes possibles de ce type de trouble acidobasique ?
+Page 1/31403 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Proposition de réponse
+Les causes à l'origine d'une acidose métabolique avec trou anionique plasmatique augmenté sont :
+* Production endogène d'acides augmentée :
+- acidocétose diabétique : accumulation de corps cétoniques
+- acidose lactique : accumulation d'acide lactique
+* Apport exogène d'acides : intoxications .
+ 
+QUESTION N° 3 :
+Quelles sont les différentes complications métaboliques aiguës susceptibles d'être observées au cours d'un
+diabète glucosé ?
+Comment les différencier au plan biochimique ? Quel(s) examen(s) complémentaire(s) peut (peuvent) être
+utile(s) ?
+Proposition de réponse
+Quatre complications métaboliques majeures peuvent apparaître au cours d'un diabète glucosé :
+- acidocétose
+- coma hyperosmolaire
+- acidose lactique
+- hypoglycémie (iatrogène).
+Au plan biochimique, le tableau suivant permet de différencier ces quatre complications.
+ 
+  AcidocétoseComa
+hyperosmolaireAcidose lactique Hypoglycémie
+Glycémie Augmentée Très augmentée Peu augmentée Diminuée
+Acidose métabolique OUI NON OUI NON
+Déshydratation OUI OUI NON NON
+D'autres paramètres biologiques sont utiles : corps cétoniques, lactate plasmatique, osmolarité plasmatique.
+QUESTION N° 4 :
+Quel est le trouble métabolique observé chez cette patiente ? Justifier.
+Quel examen complémentaire serait nécessaire pour confirmer le diagnostic ?
+Quelle est l'origine de cette complication ?
+Proposition de réponse
+Page 2/31403 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Cette patiente présente :
+- une glycémie légèrement augmentée ;
+- une acidose métabolique avec une augmentation du trou anionique plasmatique ;
+- une absence de déshydratation : protéinémie et osmolarité normales (du fait du sodium normal et de la
+glycémie légèrement augmentée).
+Conclusion : suspicion d'une acidose lactique, à confirmer par le dosage du lactate plasmatique.
+L'action normoglycémiante de la metformine (biguanide) s'explique en particulier par l'inhibition de la
+gluconéogenèse hépatique.
+La metformine est éliminée par le rein. Au cours d'une insuffisance rénale (c'est le cas ici chez Mme V qui
+présente une augmentation importante de la créatininémie), il y a accumulation du biguanide responsable
+d'une inhibition importante de la gluconéogénèse à l'origine d'un défaut de transformation du lactate en
+pyruvate. 
+L'accumulation de lactate, due au défaut d'élimination rénale, est responsable de l'acidose métabolique.
+QUESTION N° 5 :
+Quelle est l'alternative thérapeutique à instaurer immédiatement chez cette patiente pour la prise en charge
+de son diabète ?  Justifier.
+ 
+Proposition de réponse
+Alternative thérapeutique à instaurer immédiatement : Insuline ou analogues .
+Justification :
+- Patiente âgée, insuffisante rénale, ayant des troubles de la conscience
+- Délai d'action rapide du médicament
+- Milieu hospitalier permettant la rapidité de la prise en charge et une surveillance adaptée du traitement.
+Page 3/3

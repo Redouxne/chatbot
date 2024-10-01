@@ -1,0 +1,83 @@
+1449 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Enoncé
+Monsieur B., 71 ans, a une maladie de Parkinson et un adénome prostatique, traité par un extrait de 
+ (Tadenan ), depuis une dizaine d'années. Pygeum africanum®
+Son traitement antiparkinsonien est le suivant :
+lévodopa + bensérazide (Modopar  250)................ 4/j (matin, midi, après-midi, soir)®
+trihexyphénidyle 2 mg................................................3/j
+Questions
+QUESTION N° 1 :
+A quelle classe d'antiparkinsoniens appartient chacun de ces médicaments ?
+Lequel vous semble relever d'une erreur de prescription et pourquoi ?
+Quels sont les effets indésirables de la lévodopa ? Quel est l'intérêt d'y associer du bensérazide dans la
+spécialité Modopar  ?®
+Proposition de réponse
+- La spécialité Modopar  est un antiparkinsonien qui contient de la lévodopa, associée à un inhibiteur de la®
+dopadécarboxylase périphérique, le bensérazide. (La levodopa agit comme un précurseur de la dopamine
+au niveau des neurones dopaminergiques lésés dans la maladie de Parkinson).
+- Le trihexyphénidyle est un antiparkinsonien de la classe des anticholinergiques centraux.
+C'est une erreur de prescription pour ce patient. En effet, les anticholinergiques sont contre-indiqués chez
+les patients âgés atteints d'adénome prostatique. De plus, ils sont susceptibles de provoquer des accès
+confusionnels en particulier chez le sujet âgé.
+ 
+- Les effets indésirables de la lévodopa sont :
+* effets indésirables périphériques : dus à la formation de dopamine par décarboxylation de la lévodopa à la
+périphérie (troubles cardiovasculaires de type hypotension orthostatique et HTA, troubles digestifs tels que
+nausées et vomissements). L'association au bensérazide permet de les limiter.
+* effets indésirables centraux : non affectés par l'association avec le bensérazide. Ils sont de plusieurs types
+: troubles psychiques, mouvements anormaux précoces (dyskinésies), fluctuations motrices tardives (effet
+on/off).
+QUESTION N° 2 :
+Lors de sa visite de contrôle, Mr B. se plaint de nausées et son médecin diagnostique également une
+tendance dépressive. A quoi peuvent être dus ces troubles ?
+Proposition de réponse
+Les nausées peuvent être dues à la mauvaise tolérance digestive de la lévodopa et à la fraction de lévodopa
+transformée en dopamine au niveau périphérique.
+Page 1/3
+41449 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Le syndrome dépressif est souvent associé à la maladie de Parkinson.
+QUESTION N° 3 :
+Le médecin prescrit à Mr B. de la dompéridone.
+Comment agit ce principe actif  ?
+Pourquoi peut-on l'associer au traitement antiparkinsonien ?
+Proposition de réponse
+La domperidone est un antagoniste dopaminergique ne passant pas la barrière hémato-encephalique et
+bloquant les récepteurs dopaminergiques de la zone bulbaire du vomissement (zone gachette = TZCS =
+zone chemoréceptrice).
+Il n'interfère pas avec les effets antiparkinsoniens de la lévodopa.
+QUESTION N° 4 :
+Concernant les troubles dépressifs, quel(s) médicament(s) est-il possible de prescrire à ce  patient
+parkinsonien ? Quel(s) médicament(s) ne peut (peuvent) pas être prescrit(s) à ce patient parkinsonien ?
+Justifier votre réponse.
+Proposition de réponse
+Les inhibiteurs sélectifs de la recapture de la sérotonine (type fluoxétine, paroxétine, citalopram), les mixtes
+serotonine/noradrénaline (type venlafaxine, milnacipran ou duloxétine) et les NASSA (miansérine, mirtazapine) peuvent
+être prescrits car ne présentent pas d'effets anticholinergiques.
+Les antidépresseurs tricycliques (imipraminiques et apparentés) ne peuvent pas être prescrits dans ce cas en raison de
+leur effet anticholinergique chez ce patient présentant un adénome prostatique.
+QUESTION N° 5 :
+Six mois plus tard, Mr B. présente des blocages matinaux et des dystonies on-off en cours de journée.
+Quels sont les traitements (ou adaptations de traitement) que l'on peut lui proposer pour tenter de réduire
+ces fluctuations motrices ? Justifier votre réponse et préciser pour chacun d'entre eux leur mécanisme
+d'action.
+Proposition de réponse
+Les blocages matinaux de Mr B. peuvent être améliorés en utilisant des formes LP de lévodopa le soir et/ou
+avec l'administration d'apomorphine, agoniste dopaminergique, utilisée par voie sous-cutanée.
+ 
+Les dystonies on/off peuvent être réduites de plusieurs façons :
+- en fractionnant les doses de lévodopa (4 à 6 prises par jour)
+- en associant à la lévodopa un agoniste dopaminergique ergoté (bromocriptine) ou non (ropinirole, piribedil,
+pramipexole, rotigotine) et/ou un IMAO B (sélégiline, rasagiline, safinamide ) et/ou des ICOMT (entacapone,
+Page 2/3
+41449 2019_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+tolcapone). Les ICOMT inhibent la déméthylation au niveau périphérique de la lévodopa et augmentent donc
+sa "biodisponibilité cérébrale". Les ICOMT ne sont proposés qu'en association avec la lévodopa lors
+d'apparition de fluctuations motrices.
+Page 3/3
+4

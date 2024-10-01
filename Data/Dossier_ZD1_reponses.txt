@@ -1,0 +1,96 @@
+1470 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+Enoncé
+Une enfant de 16 mois, d'une famille récemment arrivée en France, est hospitalisée pour hyperthermie à 40
+°C, asthénie, somnolence et raideur modérée de la nuque. L'examen clinique ne montre par ailleurs pas
+d'éruption cutanée mais un tympan gauche congestif. Une ponction lombaire et un bilan sanguin sont
+réalisés. Les résultats sont les suivants :
+Aspect du LCS (LCR) : trouble
+LCR Protéines : 1,58 g/L
+LCR Glucose : 0,80 mmol/L.
+Cytologie du LCS :
+150 érythrocytes/mm3
+2400 éléments nucléés/mm  avec la formule suivante : 84 % polynucléaires neutrophiles, 12 %3
+lymphocytes, 4 % monocytes.
+Examen bactériologique du LCS :
+La coloration de Gram met en évidence de nombreux cocci à Gram positif en diplocoques.
+Hémogramme :
+Sg Leucocytes : 23 G/L (valeurs usuelles à cet âge : 6 à 15 G/L)
+dont polynucléaires neutrophiles : 82 % (valeurs usuelles à cet âge : 1,5 à 9 G/L).
+Pl Glucose : 8,5 mmol/L
+Pl Fibrinogène : 5,6 g/L
+Se Protéine C Réactive (CRP) : 112 mg/L.
+Questions
+QUESTION N° 1 :
+Interpréter les résultats biologiques au regard des signes cliniques. Quel est le diagnostic envisagé ?
+Proposition de réponse
+Signes cliniques en faveur d'une méningite : hyperthermie à 40 °C, asthénie, somnolence, raideur de la
+nuque.
+ 
+LCS : aspect trouble ; hyperprotéinorachie, hypoglucorachie inférieure à 2/3 de la glycémie ;
+hypercellulorachie avec nombre d'éléments nucléés très augmenté et prédominance de polynucléaires
+neutrophiles.
+L'examen bactériologique direct indique une origine bactérienne.
+Hémogramme : PN 18,9 G/L. On note donc une hyperleucocytose avec polynucléose neutrophile.
+ 
+Page 1/31470 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+CRP et fibrinogène sont augmentés traduisant un syndrome inflammatoire.
+Résultats en faveur d'une méningite bactérienne purulente.
+QUESTION N° 2 :
+Quel est le micro-organisme probablement en cause ? Justifier.
+Proposition de réponse
+ ou pneumocoque : cocci à Gram positif en diplocoques à l'examen direct du Streptococcus pneumoniae
+LCS.
+Le pneumocoque est une des espèces bactériennes les plus fréquemment responsables de méningite à cet
+âge.
+Par ailleurs, le tympan gauche congestif suggère une porte d'entrée ORL, probable otite associée. Le
+pneumocoque est un des agents responsables d'otites moyennes aiguës.
+ 
+ 
+QUESTION N° 3 :
+Après la ponction lombaire, un traitement par céfotaxime par voie IV est instauré.
+Justifier le choix de ce traitement antibiotique.
+Proposition de réponse
+Le céfotaxime est une bêta-lactamine utilisée en traitement probabiliste pour le traitement des méningites à
+LCS trouble.
+A forte posologie, il diffuse dans le LCS avec une barrière hématoencéphalique inflammatoire.
+Il présente un spectre large couvrant   b, méningocoque et pneumocoque. Haemophilus influenzae
+Il est bactéricide, à action rapide (injection IV).
+Il est actif sur la bactérie en cause (examen direct).
+ 
+C'est une céphalosporine de 3  génération préconisée dans le traitement des méningites à pneumocoqueème
+du fait de l'existence de souches de pneumocoque de sensibilité diminuée aux bêta-lactamines (pénicilline
+G, amoxicilline).
+QUESTION N° 4 :
+Quel(s) est (sont) l'(les) examen(s) bactériologique(s) nécessaire(s) à la détermination de la sensibilité aux
+antibiotiques de la bactérie en cause ?
+Proposition de réponse
+Antibiogramme et détermination des Concentrations Minimales Inhibitrices (CMI) des bêta-lactamines
+Page 2/31470 2021_DTB_R
+EPREUVE DE DOSSIERS THERAPEUTIQUES ET BIOLOGIQUE
+Dossier N° 1
+(pénicilline G, Amoxicilline/Céfotaxime, Ceftriaxone) par E-Test. 
+QUESTION N° 5 :
+Décrire le mécanisme de résistance acquise aux bêta-lactamines chez l'espèce de bactéries en cause.
+Proposition de réponse
+Le pneumocoque peut présenter une sensibilité diminuée aux bêta-lactamines (sensibilité intermédiaire ou
+résistance à la pénicilline G, l'amoxicilline ou une céphalosporine de 3 génération). Ce phénomène est liéème 
+à une diminution de l'affinité des protéines liant la pénicilline (PLP) pour les bêta-lactamines (modification de
+la cible, les PLP), acquise après transformation et recombinaison homologue de gènes de PLP (apparition
+de gènes mosaïques).
+QUESTION N° 6 :
+Quelles sont les autres espèces bactériennes responsables de ce type d'infection chez des enfants de cet
+âge ?
+Proposition de réponse
+ ou méningocoque Neisseria meningitidis
+ sérotype b. Haemophilus influenzae
+QUESTION N° 7 :
+Par quel moyen l'infection de cette enfant aurait-elle pu être prévenue ?
+Proposition de réponse
+Vaccination antipneumococcique : vaccin multivalent (13 valences, Prevenar 13) conjugué, 
+obligatoire chez l'enfant.
+Il comprend 13 antigènes capsulaires associés à une protéine porteuse.
+Page 3/3
