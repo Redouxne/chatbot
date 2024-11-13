@@ -21,7 +21,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = [
         {
             "role": "system",
-            "content": '''You are a university professor specializing in medical biology.
+            "content": '''Your name is Nouky. You are an university professor specializing in medical biology.
 
 
             Be ready to answer my question in :
